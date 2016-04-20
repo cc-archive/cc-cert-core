@@ -1,5 +1,5 @@
 # CC-Cert Map
-Prototype of Creative Certifications Cntent Map - an collaborative web representation of <a href="https://docs.google.com/spreadsheets/d/11pnwYCYKJaBGOO-H3DJSzgEBh_xlSufKYcGT_WxN_LQ/edit#gid=0">Draft 1.1 Specs</a> 
+Prototype of Creative Certifications Content Map - an collaborative web representation of <a href="https://docs.google.com/spreadsheets/d/11pnwYCYKJaBGOO-H3DJSzgEBh_xlSufKYcGT_WxN_LQ/edit#gid=0">Draft 1.1 Specs</a> 
 
 ## View It
 http://creativecommons.github.io/cc-cert-map/
