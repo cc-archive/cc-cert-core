@@ -6,3 +6,11 @@ function setSectionNumbers( modnum, submod, itemnum) {
 	
 	$("a#gh-edit-link").attr('href', 'https://github.com/creativecommons/cc-cert-map/blob/gh-pages/content/module' + modnum + '/' + submod + '/' + itemnum + '.html');
 }
+
+
+
+$(document).ready(function() { 
+    $( "#tabs" ).tabs().addClass( "ui-tabs-vertical ui-helper-clearfix" );
+    $( "#tabs li" ).removeClass( "ui-corner-top" ).addClass( "ui-corner-left" );
+});
+
