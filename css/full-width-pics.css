@@ -71,7 +71,7 @@ footer {
     margin: 0 1em;
 }
 
-.z-auto-g h4 {
+.z-auto-g h4, h4.topstuff {
     position: relative;
 }
 
