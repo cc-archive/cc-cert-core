@@ -17,7 +17,7 @@ function getItemStuff( itemtitle, itemnum ) {
 	var ccmodsect = itemnum.split(".");
 	
 	// return the whole string of stuff
-	return (itemnum + ' ' + itemtitle + '<span class="gh-edit"><a href="' + gh_base_url + '/issues/new?title=' + encodeURIComponent('Suggestions for Objective ' + itemnum + ' ' + itemtitle) + '" target="_blank" title="' + itemtitle +'"><img width="25" height="25" alt="' + itemtitle +'" src="img/edit.png"></a> <a href="' + gh_base_url + '/blob/gh-pages/content/module' + ccmodsect[0] + '/' + ccmodsect[0] + '/' +  itemnum + '.html" target="_blank" title="Edit in GitHub" ><img width="25" height="25" alt="Edit in GitHub" src="img/wrench.png"></a></span>');
+	return (itemnum + ' ' + itemtitle + '<span class="gh-edit"><a href="' + gh_base_url + '/issues/new?title=' + encodeURIComponent('Suggestions for Objective ' + itemnum + ' ' + itemtitle) + '" target="_blank" title="' + itemtitle +'"><img width="25" height="25" alt="' + itemtitle +'" src="img/edit.png"></a> <a href="' + gh_base_url + '/blob/gh-pages/content/module' + ccmodsect[0] + '/' + ccmodsect[0] + '.' + ccmodsect[1] +  '/' +  itemnum + '.html" target="_blank" title="Edit in GitHub" ><img width="25" height="25" alt="Edit in GitHub" src="img/wrench.png"></a></span>');
 	
 
 	
