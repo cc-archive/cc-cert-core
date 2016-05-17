@@ -1,4 +1,5 @@
 # CC-Cert Map
+[![Stories in Ready](https://badge.waffle.io/creativecommons/cc-cert-map.svg?label=ready&title=Ready)](http://waffle.io/creativecommons/cc-cert-map)
 Prototype of Creative Certifications Content Map - an collaborative web representation of <a href="https://docs.google.com/spreadsheets/d/11pnwYCYKJaBGOO-H3DJSzgEBh_xlSufKYcGT_WxN_LQ/edit#gid=0">Draft 1.1 Specs</a> 
 
 ## View It
