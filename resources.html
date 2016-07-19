@@ -1,0 +1,220 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>Resource Browsers</title>
+    <link href="favicon.ico" title="Icon" type="image/x-icon" rel="icon"/>
+
+    <!-- Bootstrap Core CSS -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Custom Theme CSS -->
+    <link href="css/full-width-pics.css" rel="stylesheet">
+    
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+	<!-- DATATABLES BOOTSTRAP INTEGRATION CSS -->
+	<link rel="stylesheet" href="//cdn.datatables.net/plug-ins/a5734b29083/integration/bootstrap/3/dataTables.bootstrap.css">
+
+	<style type="text/css">
+		html {
+			-webkit-text-size-adjust: none;
+		}
+
+		body {
+			margin: 0;
+			padding: 0;
+			font: 14px/1.4 Arial, Helvetica, sans-serif;
+			color: black;
+		}
+
+		h1 {
+			margin: 0 0 6px 0;
+			font-size: 20px;
+			color: black;
+		}
+
+		h2 {
+			font-weight: normal;
+			color: #666;
+			font-size: 14px;
+			margin: 0 0 22px 0;
+		}
+
+		.footnotes {
+			margin-bottom: 20px;
+		}
+
+		.footnotes h4 {
+			margin: 2px 0 7px 0;
+			color: #666;
+			font-size: 11px;
+		}
+
+		.footnotes p,
+		.footer p {
+			margin: 2px 0 0 0;
+			font-size: 11px;
+			line-height: 1.3;
+			color: #808080;
+		}
+
+		a,
+		a:link,
+		a:visited {
+			color: #4774CC;
+			text-decoration: none;
+		}
+
+		a:hover,
+		a:active {
+			opacity: 0.7;
+		}
+		/*custom styles*/
+		
+		
+    table {
+      width: 100%;
+    }
+		table,
+		th {
+			text-align: center;
+		}
+		/*make odd rows lightblue*/
+
+		.table-striped > tbody > tr:nth-child(odd) > td {
+			background-color: #f4f7ff;
+		}
+		
+		
+	</style>
+
+</head>
+
+<body>
+
+    <!-- Navigation -->
+    <nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+        <div class="container">
+            <!-- Brand and toggle get grouped for better mobile display -->
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand" href="#">CCC</a>
+            </div>
+            <!-- Collect the nav links, forms, and other content for toggling -->
+            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                <ul class="nav navbar-nav">
+                    <li>
+                        <a href="index.html">Home</a>
+                    </li>
+                    <li>
+                        <a href="core.html">Core</a>
+                    </li>
+
+                     <li>
+                        <a href="howto.html">How To</a>
+                    </li>
+                      <li class="active">
+                        <a href="resources.html">Resources</a>
+                    </li>
+                  
+                    
+                    <li>
+                        <a href="https://github.com/creativecommons/cc-cert-map">GitHub Repo</a>
+                    </li>
+           </div>
+            <!-- /.navbar-collapse -->
+        </div>
+        <!-- /.container -->
+    </nav>
+
+    <!-- Full Width Image Header with Logo -->
+    <!-- Image backgrounds are set within the full-width-pics.css file. -->
+    <header class="image-bg-fluid-height">
+        <img class="img-responsive img-center" src="img/cc.large.png" alt="Creative Commons">
+    </header> 
+ 
+     <!-- Content Section -->
+    <section>
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-10 col-lg-offset-1">
+               
+                    <h1 class="section-heading">Suggested Resources</h1>
+					 <p class="lead section-lead">Submitted to project via <a href="https://docs.google.com/forms/d/e/1FAIpQLSc0xxaLgr89SXL8HM1CjL6gTOT-ibHunyegEAJsk-tutivx9A/viewform">public suggestion form</a>.</p>
+					 
+					  <p class="section-paragraph">This browser provides a way to filter responses by key word from <a href="https://docs.google.com/spreadsheets/d/11Kg9rF6CHTzf9y4x0Vqqb7ajO7fFYqwSnwynIy3I5SM/pubhtml?gid=2111134496&amp;single=true">data stored in spreadsheet</a>.</p>
+          
+                </div>
+            </div>
+
+			<div class="row">
+				<div class="col-lg-12">
+					<div id="graphic"></div>
+				</div>
+			</div>
+
+            
+        </div>
+    </section>                    
+          
+
+    <!-- Footer -->
+    <footer>
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <p><a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a></p>
+                    
+                    <p><em>Image credits: <a href="https://pixabay.com/en/paris-city-map-1550-old-drawing-74064/">Pixabay CC0 licensed image Paris City Map 1550</a></em></p>
+                    
+                    
+                    <p>Data table powered by <a href="http://datatables.net/">Database Tables jQuery plugin</a>, <a href="https://github.com/jsoma/tabletop">Tabletop.js</a>, using the <a href="https://github.com/scottpham/tabletop-to-datatables">Tabletop to Datatables template</a>.</p>
+
+					<p><a href="http://startbootstrap.com/template-overviews/full-width-pics/">Full Width Pics</a> theme &copy; 2013-2015 Iron Summit Media Strategies, LLC. Code released under the <a href="https://github.com/IronSummitMedia/startbootstrap-full-width-pics/blob/gh-pages/LICENSE">Apache 2.0 license</a>.</p>
+                    
+                </div>
+            </div>
+            <!-- /.row -->
+        </div>
+        <!-- /.container -->
+    </footer>
+
+    <!-- jQuery -->
+    <script src="js/jquery.js"></script>
+
+    <!-- Bootstrap Core JavaScript -->
+    <script src="js/bootstrap.min.js"></script>
+
+
+	<!-- DATATABLES -->
+	<script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/datatables/1.10.11/js/jquery.dataTables.min.js"></script>
+
+	<!--BOOTSTRAP INTEGRATION JS -->
+	<script src="//cdn.datatables.net/plug-ins/a5734b29083/integration/bootstrap/3/dataTables.bootstrap.js"></script>
+
+	<!-- TableTop -->
+	<script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/tabletop.js/1.4.3/tabletop.min.js"></script>
+
+	<script src="js/graphic.js" type="text/javascript"></script>
+    
+</body>
+
+</html>
