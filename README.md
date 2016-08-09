@@ -1,13 +1,23 @@
-# CC-Cert Map
-Prototype of Creative Certifications Cntent Map - an collaborative web representation of <a href="https://docs.google.com/spreadsheets/d/11pnwYCYKJaBGOO-H3DJSzgEBh_xlSufKYcGT_WxN_LQ/edit#gid=0">Draft 1.1 Specs</a> 
+# Creative Commons Certification - Core
 
-## View It
-http://creativecommons.github.io/cc-cert-map/
+This GitHub repo will be the canonical content for Core Certification, from which the first three Specialized Certifications will be forked from. As of this time, this is for the design team to use as the master content, and used e.g. as content for the public web site http://certificates.creativecommons.org/core 
 
-## Licenses
-The following are paid for JQuery Libraries. Do not fork or use w/o licensing it (how to hide in repo?? one day this might be a private repo?)
+All content will be produced with standard GitHub Markdown.
 
-* Zozo Tabs http://zozoui.com/tabs/
-* Zozo Accordion http://zozoui.com/accordion/
+## Contents
 
-[Full Width Pics](http://startbootstrap.com/template-overviews/full-width-pics/) Copyright 2013-2015 Iron Summit Media Strategies, LLC and released under the [Apache 2.0](https://github.com/IronSummitMedia/startbootstrap-full-width-pics/blob/gh-pages/LICENSE) license.
+* [Core Certification](core.md) Introduction and overview
+  * [1.0 Copyright Basics](modules/copyright.md)
+  * [2.0 The Commons](modules/commons.md)
+  * [3.0 CC License Suite](modules/licenses.md)
+  * [4.0 Social/Cultural Implementation](modules/social-cultural.md)
+  * [5.0 Legal Implementation](modules/legal.md)
+  * [6.0 Technical Implementation](modules/technical/md)
+
+
+
+
+
+###
+Note: This repo was original developed for a prototype as a "map" of the initial draft specification rendered as a single site http://creativecommons.github.io/cc-cert-map/ Since then the development track has shifted. This might disappear
+
