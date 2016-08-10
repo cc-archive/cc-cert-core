@@ -44,14 +44,14 @@ Placeholder for background information, can be skipped for those with prior know
 
 ### Reccommended Resources
 
-* Title (Publisher), Description, and URL
+* Copyright Crash Course for Teachers K-12  (Brigham Young University) an introductuctory course on copyright for K-12 teachers to provide a basic understanding of copyright, public domain, fair use http://iptla.byu.edu/courses/copyright_crash_course_for_teachers
 * Title (Publisher), Description, and URL
 
 ### More Resources
 
-* Title (Publisher), Description, and URL
-* Title (Publisher), Description, and URL
-* Title (Publisher), Description, and URL
+* Copyright for Educators and Librarians (Coursera) "a professional development opportunity designed to provide a basic introduction to US copyright law and to empower teachers and librarians at all grade levels."  https://www.coursera.org/learn/copyright-for-education
+* Copyright for Education Handbook (Digital Copytight in Education- DICE) http://www.diceproject.ch/wp-content/uploads/2011/11/Handbook_web_en_2.pdf
+* Open Content - A Practical Guide (Wikimedia) - guidelines for the use and application of open content licences https://meta.wikimedia.org/wiki/Open_Content_-_A_Practical_Guide_to_Using_Creative_Commons_Licences 
 * Title (Publisher), Description, and URL
 
 
