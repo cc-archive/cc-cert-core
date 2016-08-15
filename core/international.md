@@ -14,15 +14,15 @@ Placeholder for background information, can be skipped for those with prior know
 
 ### Reccommended Resources
 
-* Title (Publisher), Description, and URL
-* Title (Publisher), Description, and URL
+* [Title](http://) (Publisher) Description
+* [Title](http://) (Publisher) Description
 
 ### More Resources
 
-* Title (Publisher), Description, and URL
-* Title (Publisher), Description, and URL
-* Title (Publisher), Description, and URL
-* Title (Publisher), Description, and URL
+* [Title](http://) (Publisher) Description
+* [Title](http://) (Publisher) Description
+* [Title](http://) (Publisher) Description
+* [Title](http://) (Publisher) Description
 
 
 ## Do International Implementation

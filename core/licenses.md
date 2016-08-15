@@ -4,64 +4,64 @@ Placeholder for introduction to this module. This will be what provides some con
 
 ## Performance Objectives
 
-* 3.1 Discuss How Licenses Work With Respect to Copyright
-  * 3.1.1 Explain how CC relates/interacts with copyright
-  * 3.1.2 Understand license scope and intent of licenses
-  * 3.1.3 List what content licenses can/should be used for
-  * 3.1.4 Implications of CC license suite
-  * 3.1.5 Determine when/how CC interacts with fair use
-  * 3.1.6 Explain effects of non copyright rights
-  * 3.1.7 Explain when licenses don't apply
-  * 3.1.8 Relate to moral rights
-  * 3.1.9 Understand irrevocable nature
-  * 3.1.10 No extra conditions
-  * 3.1.11 Interpret a license as applied to a certain use
-  * 3.1.12 Understand license operation
-  * 3.1.13 Understand they are copyright licenses
-  * 3.1.14 Explain issues of licensing by minors
-  * 3.1.15 Describe common features of all licenses
-  * 3.1.16 Illustrate 3 layers
-  * 3.1.17 Will license expire?
-  * 3.1.18 Understand difference between license versions
-  * 3.1.19 Understand translation vs. porting
-  * 3.1.20 Apply (upgrade to) later versions of license
-  * 3.1.21 Assess proper and improper implementations
-  * 3.1.22 Ensure license compatibility
+* Discuss How Licenses Work With Respect to Copyright
+  * Explain how CC relates/interacts with copyright
+  * Understand license scope and intent of licenses
+  * List what content licenses can/should be used for
+  * Implications of CC license suite
+  * Determine when/how CC interacts with fair use
+  * Explain effects of non copyright rights
+  * Explain when licenses don't apply
+  * Relate to moral rights
+  * Understand irrevocable nature
+  * No extra conditions
+  * Interpret a license as applied to a certain use
+  * Understand license operation
+  * Understand they are copyright licenses
+  * Explain issues of licensing by minors
+  * Describe common features of all licenses
+  * Illustrate 3 layers
+  * Will license expire?
+  * Understand difference between license versions
+  * Understand translation vs. porting
+  * Apply (upgrade to) later versions of license
+  * Assess proper and improper implementations
+  * Ensure license compatibility
 
-* 3.2 Articulate License Differences
-  * 3.2.1 Explain CC license suite
-  * 3.2.2 Explain/describe license elements
-  * 3.2.3 Differentiate meaning of different CC icons
-  * 3.2.4 Define/interpret NC
-  * 3.2.5 Define/interpret ND
-  * 3.2.6 Define/interpret SA
-  * 3.2.7 Order licenses in terms of freedom
-  * 3.2.8 Speak "CC" terminology
-  * 3.2.9 Understand attribution requirements
-  * 3.2.10 Propose ideal attribution
-  * 3.2.11 Demonstrate understanding of recommendation to use the most current version of license
+* Articulate License Differences
+  * Explain CC license suite
+  * Explain/describe license elements
+  * Differentiate meaning of different CC icons
+  * Define/interpret NC
+  * Define/interpret ND
+  * Define/interpret SA
+  * Order licenses in terms of freedom
+  * Speak "CC" terminology
+  * Understand attribution requirements
+  * Propose ideal attribution
+  * Demonstrate understanding of recommendation to use the most current version of license
 
-* 3.3 Give Examples of CC License Uses
-  * 3.3.1 Give examples of licenses applied for different uses, intentions
-  * 3.3.2 Evaluate CC license choice for various projects/content
-  * 3.3.3 Which CC licenses are acceptable to x community
-  * 3.3.4 Assess which CC licenses maximize reuse/remix
+* Give Examples of CC License Uses
+  * Give examples of licenses applied for different uses, intentions
+  * Evaluate CC license choice for various projects/content
+  * Which CC licenses are acceptable to x community
+  * Assess which CC licenses maximize reuse/remix
 
-* 3.4  Difference Between CC0 vs PDM
-  * 3.4.1 Differentiate between CC0 and PDM 
-  * 3.4.2 Understand when to use CC0 vs PDM
+*  Difference Between CC0 vs PDM
+  * Differentiate between CC0 and PDM 
+  * Understand when to use CC0 vs PDM
 
-* 3.5  Remix different CC licensed works
-  * 3.5.1 Compare compatibility between licenses
-  * 3.5.2 Determine license compatibility/interoperability
-  * 3.5.3 Avoid license incompatibility
-  * 3.5.4 Understand CC remix chart
-  * 3.5.5 Understand license stacking
-  * 3.5.6 Non-CC license compatibility
+*  Remix different CC licensed works
+  * Compare compatibility between licenses
+  * Determine license compatibility/interoperability
+  * Avoid license incompatibility
+  * Understand CC remix chart
+  * Understand license stacking
+  * Non-CC license compatibility
 
-* 3.6 CC License Legal Precedence
-  * 3.6.1 Describe CC case law (licenses have never lost)
-  * 3.6.2 Solve a license dispute (non-legally)
+* CC License Legal Precedence
+  * Describe CC case law (licenses have never lost)
+  * Solve a license dispute (non-legally)
 
 
 
@@ -71,15 +71,15 @@ Placeholder for background information, can be skipped for those with prior know
 
 ### Reccommended Resources
 
-* Title (Publisher), Description, and URL
-* Title (Publisher), Description, and URL
+* [Title](http://) (Publisher) Description
+* [Title](http://) (Publisher) Description
 
 ### More Resources
 
-* Title (Publisher), Description, and URL
-* Title (Publisher), Description, and URL
-* Title (Publisher), Description, and URL
-* Title (Publisher), Description, and URL
+* [Title](http://) (Publisher) Description
+* [Title](http://) (Publisher) Description
+* [Title](http://) (Publisher) Description
+* [Title](http://) (Publisher) Description
 
 
 ## Do Creative Commons License Suite

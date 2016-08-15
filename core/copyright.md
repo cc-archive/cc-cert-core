@@ -4,38 +4,38 @@ Placeholder for introduction to this module. This will be what provides some con
 
 ## Performance Objectives
 
-* 1.1 Understand / Explain Copyright
-  * 1.1.1 Trace basic history of copyright
-  * 1.1.2 Explain copyright purpose
-  * 1.1.2 Know how to get copyright
-  * 1.1.3 Mark authorship and copyright
-  * 1.1.4 Understand idea vs expression difference
-  * 1.1.5 Understand copyright is automatic
-  * 1.1.6 Explain general copyright terms
-  * 1.1.7 Understand moral rights
-  * 1.1.8 Understand © scope
-  * 1.1.9 Explain acts covered by copyright
-  * 1.1.10 List protected actions
-  * 1.1.11 Describe © infringement penalties
-  * 1.1.12 Give examples of what © restricts
+* Understand / Explain Copyright
+  * Trace basic history of copyright
+  * Explain copyright purpose
+  * Know how to get copyright
+  * Mark authorship and copyright
+  * Understand idea vs expression difference
+  * Understand copyright is automatic
+  * Explain general copyright terms
+  * Understand moral rights
+  * Understand © scope
+  * Explain acts covered by copyright
+  * List protected actions
+  * Describe © infringement penalties
+  * Give examples of what © restricts
   
-* 1.2 Differentiate Copyright from other forms of Intellectual Property Rights
-  * 1.2.1 Differentiate between © and patent
-  * 1.2.2 Differentiate between © and trademark
-  * 1.2.3 Differentiate between © and trade secret
+* Differentiate Copyright from other forms of Intellectual Property Rights
+  * Differentiate between © and patent
+  * Differentiate between © and trademark
+  * Differentiate between © and trade secret
   
-* 1.3 Understand Scope of Public Domain
-  * 1.3.1 Explain public domain
-  * 1.3.2 Communicate value proposition of the public domain
+* Understand Scope of Public Domain
+  * Explain public domain
+  * Communicate value proposition of the public domain
   
-* 1.4 Understand exceptions and limitations of copyright
-  * 1.4.1 Evaluate the application of fair use / fair dealing
-  * 1.4.2 Differentiate examples of fair use versus licensing
-  * 1.4.3 Illustrate fair use
+* Understand exceptions and limitations of copyright
+  * Evaluate the application of fair use / fair dealing
+  * Differentiate examples of fair use versus licensing
+  * Illustrate fair use
   
-* 1.5 Distinguish Baselines and Differences in Global Copyright
-  * 1.5.1 Give examples of international copyright baselines (e.g. Berne)
-  * 1.5.2 Understand local copyright
+* Distinguish Baselines and Differences in Global Copyright
+  * Give examples of international copyright baselines (e.g. Berne)
+  * Understand local copyright
 
 
 ## Learn Copyright Basics
@@ -44,15 +44,15 @@ Placeholder for background information, can be skipped for those with prior know
 
 ### Reccommended Resources
 
-* Copyright Crash Course for Teachers K-12  (Brigham Young University) an introductuctory course on copyright for K-12 teachers to provide a basic understanding of copyright, public domain, fair use http://iptla.byu.edu/courses/copyright_crash_course_for_teachers
-* Title (Publisher), Description, and URL
+* [Copyright Crash Course for Teachers K-12](http://iptla.byu.edu/courses/copyright_crash_course_for_teachers)  (Brigham Young University) an introductuctory course on copyright for K-12 teachers to provide a basic understanding of copyright, public domain, fair use 
+* [Title](http://) (Publisher) Description
 
 ### More Resources
 
 * [Copyright for Educators and Librarians](https://www.coursera.org/learn/copyright-for-education) (Coursera) "a professional development opportunity designed to provide a basic introduction to US copyright law and to empower teachers and librarians at all grade levels."  
 * [Copyright for Education Handbook](http://www.diceproject.ch/wp-content/uploads/2011/11/Handbook_web_en_2.pdf)  Digital Copytight in Education
 * [Open Content - A Practical Guide](https://meta.wikimedia.org/wiki/Open_Content_-_A_Practical_Guide_to_Using_Creative_Commons_Licences) (Wikimedia) - guidelines for the use and application of open content licences 
-* Title (Publisher), Description, and URL
+* [Title](http://) (Publisher) Description
 
 
 ## Do Copyright Basics
