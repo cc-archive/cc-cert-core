@@ -4,7 +4,7 @@ Placeholder for introduction to this module. This will be what provides some con
 
 ## Performance Objectives
 
-*  Vision How/If "Open" Model is Better Than Current Model
+1.  Vision How/If "Open" Model is Better Than Current Model
   * Assess power structure
   * Analyze money flow
   * Criticise laws / processes that are antithetical to sharing / CC licensing
@@ -23,8 +23,7 @@ Placeholder for introduction to this module. This will be what provides some con
   * Facilitate connections between users and creators
   * Convince X to use / adopt CC
   * Educate users
- 
-*  Create Plan to Shift _____ to Open
+2.  Create Plan to Shift _____ to Open
   * Accept incremental change
   * Describe how "open" is not the solution all of the time
   * Distinguish between the Long Play vs. Short Term Play
@@ -32,14 +31,12 @@ Placeholder for introduction to this module. This will be what provides some con
   * Predict applicability of CC X date from now
   * Anticipate social implications in future
   * Construct a licensing / policy procedure
- 
-*  Design a Campaign to Support Shift to Open
+3.  Design a Campaign to Support Shift to Open
   * Develop CC elevator pitch for various audiences
   * Listen, acknowledge and integrate others' ideas into your open project
   * Be ready for last minute challenges to open
   * Understand language of protection vs. sharing
- 
-*  Propose a plan for community development in support of your campaign
+4.  Propose a plan for community development in support of your campaign
   * Explain how to create a CC community
   * Examples of a CC community
   * Think about how to get buy-in from community

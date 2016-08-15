@@ -4,7 +4,7 @@ Placeholder for introduction to this module. This will be what provides some con
 
 ## Performance Objectives
 
-* Demonstrate Understanding of Legal Aspects of Implementation
+1. Demonstrate Understanding of Legal Aspects of Implementation
   * Link to Deed and License
   * Maintain attribution
   * Demonstrate understanding of how to give attribution
@@ -20,8 +20,7 @@ Placeholder for introduction to this module. This will be what provides some con
   * Upgrade to later version of license
   * Explain time length of license (perpetual)
   * Recommend the best license for a given scenario
-
-* Develop coherent clause language
+2. Develop coherent clause language
   * Analyze technology for (Effective Technology Measures) ETMs compliance
   * Understand paywall implications
   * Explain long-term implications of DRM
@@ -29,14 +28,12 @@ Placeholder for introduction to this module. This will be what provides some con
   * Explain how to grant additional permissions (CC+)
   * Demonstrate selling of extra permissions
   * Develop strategies for parallel distribution (e.g. CD / digital releases)
-
-* Ensure Proper Marking (what is licensed, what is not)
+3. Ensure Proper Marking (what is licensed, what is not)
   * Determine scope of marking (at level of program, course, object)
   * Ensure machine-readable marking
   * Distinguish ideal from sufficient license adoption/implementation
   * Develop minimal written requirements for legal operability e.g., link
-
-* Evaluate Issues & Processes for Commercial Adaptations
+4. Evaluate Issues & Processes for Commercial Adaptations
   * Describe sector best practices
   * Distinguish public/private funding issues and impact of contracts
   * Provide case law examples
@@ -45,20 +42,17 @@ Placeholder for introduction to this module. This will be what provides some con
   * Integrate licenses with commercial endeavors
   * Describe methods of incorporating third party works with licensed works
   * Conduct a rights clearance process
-
-* Delineate Where Copyright is Not Implicated
+5. Delineate Where Copyright is Not Implicated
   * Provide examples and implications of "rightswashing"
   * Explain licenses in relation to "new" tech (TDM)
   * Identify examples where licenses are not needed or are not appropriate
   * Identify red herring arguments
   * Evaluate relationships to non-copyright rights
   * Explain implications of CC licenses to privacy rights
- 
-* Develop responses to license agreement violations
+6. Develop responses to license agreement violations
   * Facilitate non-legal resolutions to disagreements
   * Develop strategies for international collaboration where rights differ
-
-* Formulate and implement open policies
+7. Formulate and implement open policies
   * Assess existing law/policy: can CC licenses be used?
   * Separate out law vs policy
   * Understand CC licenses in relation to internal policies

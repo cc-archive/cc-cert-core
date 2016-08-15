@@ -4,7 +4,7 @@ Placeholder for introduction to this module. This will be what provides some con
 
 ## Performance Objectives
 
-* Discuss Significance of Commons
+1. Discuss Significance of Commons
   * Define the public domain/commons and its historical significance
   * Describe historical and ongoing enclosure of the commons
   * Specific threat to the commons via business models
@@ -14,14 +14,14 @@ Placeholder for introduction to this module. This will be what provides some con
   * Describe culture as a form of Commons
   * Evaluate whether something should be in the commons
   * Contrast the closed status quo vs open
-*  Compare / Contrast Physical vs Digital Commons
+2.  Compare / Contrast Physical vs Digital Commons
   * Provide examples of physical and digital commons
   * Compare scarce (physical) vs. non-scarce (digital) resources
   * Explain non-rivalrous goods
   * Consider the Internet as a copying machine
   * Evaluate marginal cost of $0
   * Analyze copyright impact on resources
-* Understand Commons Opportunity 
+3. Understand Commons Opportunity 
   * Dramatize problem open licensing is solving/addressing, how it is an alternative to ©
   * Illustrate where open licensing exists on spectrum between public domain & copyright
   * Demonstrate how copyright increases frictions
@@ -34,7 +34,7 @@ Placeholder for introduction to this module. This will be what provides some con
   * Define opportunities / benefits of collaborative peer production
   * Demonstrate benefits of access to knowledge
   * Understand difference between licensing, policy, and law reform
-* Creative Commons
+4. Creative Commons
   * Explain why is it necessary as an organization, mission & vision, goals
   * Summarize the history of CC and the free culture movement
   * Evaluate impact of CC, examples of program work, where it is used

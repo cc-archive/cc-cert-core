@@ -4,7 +4,7 @@ Placeholder for introduction to this module. This will be what provides some con
 
 ## Performance Objectives
 
-* Understand / Explain Copyright
+1. Understand / Explain Copyright
   * Trace basic history of copyright
   * Explain copyright purpose
   * Know how to get copyright
@@ -18,22 +18,18 @@ Placeholder for introduction to this module. This will be what provides some con
   * List protected actions
   * Describe © infringement penalties
   * Give examples of what © restricts
-  
-* Differentiate Copyright from other forms of Intellectual Property Rights
+2. Differentiate Copyright from other forms of Intellectual Property Rights
   * Differentiate between © and patent
   * Differentiate between © and trademark
-  * Differentiate between © and trade secret
-  
-* Understand Scope of Public Domain
+  * Differentiate between © and trade secret 
+3.  Understand Scope of Public Domain
   * Explain public domain
-  * Communicate value proposition of the public domain
-  
-* Understand exceptions and limitations of copyright
+  * Communicate value proposition of the public domain  
+4.  Understand exceptions and limitations of copyright
   * Evaluate the application of fair use / fair dealing
   * Differentiate examples of fair use versus licensing
-  * Illustrate fair use
-  
-* Distinguish Baselines and Differences in Global Copyright
+  * Illustrate fair use 
+5. Distinguish Baselines and Differences in Global Copyright
   * Give examples of international copyright baselines (e.g. Berne)
   * Understand local copyright
 

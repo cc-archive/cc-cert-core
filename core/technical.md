@@ -4,7 +4,7 @@ Placeholder for introduction to this module. This will be what provides some con
 
 ## Performance Objectives
 
-* Use CC's License Chooser
+1. Use CC's License Chooser
   * Get a license using CC’s License Chooser
   * Understand how to apply license (i.e. no registration)
   * Creating Attribution metadata
@@ -13,19 +13,16 @@ Placeholder for introduction to this module. This will be what provides some con
   * Finding and using official CC icons
   * Evaluate building from scratch vs integrating with existing chooser
   * Develop backend compatibility w/frontend design
-
-* Discovery & Upload of CC Licensed Content
+2. Discovery & Upload of CC Licensed Content
   * Identify sources of CC licensed content
   * Use search filters to browse and find content by license
   * Understand how to download CC content and give attribution
   * Understand how to upload CC licensed content
-
-* Differentiate Legal Openness from Technical Openness
+3. Differentiate Legal Openness from Technical Openness
   * Understand the benefits of open technical file formats
   * Know open file formats for different types of media (text, video, audio, etc.)
   * Include technical openness in open policy requirements (so license rights can be used)
-
-* Technical Integration
+4. Technical Integration
   * Evaluate building from scratch vs. integrating with existing CC License Chooser
   * Assess technical requirements 
   * Develop backend compatibility with front end design
@@ -39,18 +36,15 @@ Placeholder for introduction to this module. This will be what provides some con
   * Design technical features that allow what licenses allow, e.g download
   * Evaluate the technical implementation structure of specific contexts
   * Optimize DMCA/EUCD compliance for CC licensed works
-
-* Implement Display of License Logos
+5. Implement Display of License Logos
   * Design ideal U.I. for CC license/logo display
   * Use official CC icons and buttons
   * List best practices for marking for various content types
-
-* Design discovery tools for CC licensed content
+6. Design discovery tools for CC licensed content
   * Design CC license browse/search filters
   * Allow search by license
   * Describe how filter by license works w/search
-
-* Implement CC Metadata Standards
+7. Implement CC Metadata Standards
   * Provide license metadata in APIs
   * Provide license metadata in copy/paste
   * Provide license metadata in embeds
@@ -58,8 +52,7 @@ Placeholder for introduction to this module. This will be what provides some con
   * Understand metadata/RDFa
   * Know how to use html code
   * Understand purpose of metadata
-
-* Implement automated attribution
+8. Implement automated attribution
   * Describe how platforms implement licensing of attribution differently
   * Display provenance
   * Record provenance

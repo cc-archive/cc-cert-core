@@ -4,7 +4,7 @@ Placeholder for introduction to this module. This will be what provides some con
 
 ## Performance Objectives
 
-* Discuss How Licenses Work With Respect to Copyright
+1. Discuss How Licenses Work With Respect to Copyright
   * Explain how CC relates/interacts with copyright
   * Understand license scope and intent of licenses
   * List what content licenses can/should be used for
@@ -27,8 +27,7 @@ Placeholder for introduction to this module. This will be what provides some con
   * Apply (upgrade to) later versions of license
   * Assess proper and improper implementations
   * Ensure license compatibility
-
-* Articulate License Differences
+2. Articulate License Differences
   * Explain CC license suite
   * Explain/describe license elements
   * Differentiate meaning of different CC icons
@@ -40,26 +39,22 @@ Placeholder for introduction to this module. This will be what provides some con
   * Understand attribution requirements
   * Propose ideal attribution
   * Demonstrate understanding of recommendation to use the most current version of license
-
-* Give Examples of CC License Uses
+3. Give Examples of CC License Uses
   * Give examples of licenses applied for different uses, intentions
   * Evaluate CC license choice for various projects/content
   * Which CC licenses are acceptable to x community
   * Assess which CC licenses maximize reuse/remix
-
-*  Difference Between CC0 vs PDM
+4.  Difference Between CC0 vs PDM
   * Differentiate between CC0 and PDM 
   * Understand when to use CC0 vs PDM
-
-*  Remix different CC licensed works
+5.  Remix different CC licensed works
   * Compare compatibility between licenses
   * Determine license compatibility/interoperability
   * Avoid license incompatibility
   * Understand CC remix chart
   * Understand license stacking
   * Non-CC license compatibility
-
-* CC License Legal Precedence
+6. CC License Legal Precedence
   * Describe CC case law (licenses have never lost)
   * Solve a license dispute (non-legally)
 
