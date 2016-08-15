@@ -1,6 +1,6 @@
 # Creative Commons Certification - Core
 
-[![Stories in Ready](https://badge.waffle.io/creativecommons/cc-cert-map.svg?label=ready&title=Ready%20%In%20Waffle)](http://waffle.io/creativecommons/cc-cert-map)
+[![Stories in Ready](https://badge.waffle.io/creativecommons/cc-cert-map.svg?label=ready&title=Waffle)](http://waffle.io/creativecommons/cc-cert-map)
 
 This GitHub repo will be the canonical content for Core Certification, from which the first three Specialized Certifications will be forked from. As of this time, this is for the design team to use as the master content, and used e.g. as content for the public web site http://certificates.creativecommons.org/core 
 
