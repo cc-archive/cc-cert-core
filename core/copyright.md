@@ -49,9 +49,9 @@ Placeholder for background information, can be skipped for those with prior know
 
 ### More Resources
 
-* Copyright for Educators and Librarians (Coursera) "a professional development opportunity designed to provide a basic introduction to US copyright law and to empower teachers and librarians at all grade levels."  https://www.coursera.org/learn/copyright-for-education
-* Copyright for Education Handbook (Digital Copytight in Education- DICE) http://www.diceproject.ch/wp-content/uploads/2011/11/Handbook_web_en_2.pdf
-* Open Content - A Practical Guide (Wikimedia) - guidelines for the use and application of open content licences https://meta.wikimedia.org/wiki/Open_Content_-_A_Practical_Guide_to_Using_Creative_Commons_Licences 
+* [Copyright for Educators and Librarians](https://www.coursera.org/learn/copyright-for-education) (Coursera) "a professional development opportunity designed to provide a basic introduction to US copyright law and to empower teachers and librarians at all grade levels."  
+* [Copyright for Education Handbook](http://www.diceproject.ch/wp-content/uploads/2011/11/Handbook_web_en_2.pdf)  Digital Copytight in Education
+* [Open Content - A Practical Guide](https://meta.wikimedia.org/wiki/Open_Content_-_A_Practical_Guide_to_Using_Creative_Commons_Licences) (Wikimedia) - guidelines for the use and application of open content licences 
 * Title (Publisher), Description, and URL
 
 

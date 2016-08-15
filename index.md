@@ -16,7 +16,7 @@ Full breadth and depth of learning associated with having comprehensive expertis
 
 
 ## Module Overview
-Core Certificate is made up of four required modules ([Copyright Basics](core/copyright.md), [The Commons](core/commons.md), [CC License Suite](core/licenses.md), and [Social/Cultural Implementation](core/social-cultural.md)) plus one additional module chosen from three options - [Legal Implementation](core/legal.md), [Technical Implementation](core/technical.md), or [International Implementation](core/international.md).
+Core Certificate is made up of four required modules ([Copyright Basics](core/copyright.md), [The Commons](core/commons.md), [CC License Suite](core/licenses.md), and [Social/Cultural Implementation](core/social-cultural.md) plus one additional module chosen from three options - [Legal Implementation](core/legal.md), [Technical Implementation](core/technical.md), or [International Implementation](core/international.md).
 
 ![Copyright Basics, The Commons, CC Licenses, and Social/Cultural Implementation](img/core-four.jpg "Four Required Modules")
 
