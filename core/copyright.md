@@ -14,7 +14,8 @@ The Creative Commons CORE Copyright Basics module has five units of learning:
 
 5. Distinguish Baselines and Differences in Global Copyright
 
-Within each unit of learning a set of learning objectives has been defined followed by recommended resources, learning activities, and assessments as follows:
+Within each unit of learning a set of learning objectives has been defined along with learning resources, learning activities, and assessments.
+
 
 ## Understand / Explain Copyright 
 
