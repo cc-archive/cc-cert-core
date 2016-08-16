@@ -1,6 +1,6 @@
 # Copyright Basics
 
-![Five Copyright Basics Units of Learning ](img/copyright.jpg "Copyright Basics")
+![Five Units of Learning](img/copyright.jpg "Copyright Basics")
 Placeholder for introduction to this module. This will be what provides some context.
 
 ## Performance Objectives
