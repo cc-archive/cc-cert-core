@@ -1,8 +1,13 @@
 # Copyright Basics
 
-The Creative Commons CORE Copyright Basics module has five units of learning:
-
 ![Five Units of Learning](https://github.com/creativecommons/cc-cert-map/blob/master/img/copyright.jpg "Copyright Basics")
+
+The Creative Commons CORE Copyright Basics module has five units of learning:
+1. Understand / Explain Copyright
+2. Differentiate Copyright from other Intellectual Property Rights
+3. Understand Scope of Public Domain
+4. Understand Exceptions and Limitations of Copyright
+5. Distinguish Baselines and Differences in Global Copyright
 
 Within each unit of learning a set of learning objectives has been defined followed by recommended resources, learning activities, and assessments as follows:
 
