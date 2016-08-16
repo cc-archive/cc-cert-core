@@ -1,12 +1,12 @@
 # Copyright Basics
 
-Copyright Basics has five units of learning:
+The Copyright Basics module has five units of learning:
 
 ![Five Units of Learning](https://github.com/creativecommons/cc-cert-map/blob/master/img/copyright.jpg "Copyright Basics")
 
-Placeholder for introduction to this module. This will be what provides some context.
+Within each unit of learning a set of learning objectives has been defined as follows:
 
-## Performance Objectives
+## Unit Learning Objectives
 
 1. Understand / Explain Copyright
   * Trace basic history of copyright
@@ -17,11 +17,11 @@ Placeholder for introduction to this module. This will be what provides some con
   * Understand copyright is automatic
   * Explain general copyright terms
   * Understand moral rights
-  * Understand © scope
+  * Understand copyright scope
   * Explain acts covered by copyright
   * List protected actions
-  * Describe © infringement penalties
-  * Give examples of what © restricts
+  * Describe copyright infringement penalties
+  * Give examples of what copyright restricts
 2. Differentiate Copyright from other forms of Intellectual Property Rights
   * Differentiate between © and patent
   * Differentiate between © and trademark
