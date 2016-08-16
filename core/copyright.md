@@ -24,8 +24,11 @@ Within each unit of learning a set of learning objectives has been defined follo
   * Give examples of what copyright restricts
 
 Existing reusable OER for this unit is x?
+
 That OER addresses these learning objectives - a, b, c.
+
 A learning activity using this OER is y? 
+
 The assessment or evidence you must provide to show successful completion is z.  
 
 2. **Differentiate Copyright from other forms of Intellectual Property Rights**
