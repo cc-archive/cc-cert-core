@@ -1,4 +1,4 @@
-# Introduction to the Creative Commons Core Certification
+# Introduction to Creative Commons CORE
 
 Creative Commons CORE is meant to capture the full breadth and depth of learning associated with having comprehensive expertise in everything related to Creative Commons. CORE certification is seen as something Creative Commons and it's global community will take to ensure staff and public representatives have essential Creative Commons knowledge and skills. CORE acts as foundational curricula from which specialized Creative Commons certificates can be built. CORE has required and optional modules.
 
@@ -27,7 +27,7 @@ plus one of
 
 ## Module Units of Learning
 
-The brick like lines in each CORE module represent units of learning within that module. Diagrammatically the units of learning within each module look like this:
+The pale grey brick like lines in each CORE module represent units of learning within that module. Expanding CORE to iagrammatically show the units of learning within each module looks like this:
 ![Expanded details of core module](img/core-expanded.jpg "Each CORE module breaks down further into units of learning")
 
 
