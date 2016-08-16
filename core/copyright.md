@@ -1,6 +1,6 @@
 # Copyright Basics
 
-The Copyright Basics module has five units of learning:
+The Creative Commons CORE Copyright Basics module has five units of learning:
 
 ![Five Units of Learning](https://github.com/creativecommons/cc-cert-map/blob/master/img/copyright.jpg "Copyright Basics")
 
@@ -22,17 +22,21 @@ Within each unit of learning a set of learning objectives has been defined as fo
   * List protected actions
   * Describe copyright infringement penalties
   * Give examples of what copyright restricts
+  
 2. Differentiate Copyright from other forms of Intellectual Property Rights
   * Differentiate between © and patent
   * Differentiate between © and trademark
   * Differentiate between © and trade secret 
+  
 3.  Understand Scope of Public Domain
   * Explain public domain
   * Communicate value proposition of the public domain  
+  
 4.  Understand exceptions and limitations of copyright
   * Evaluate the application of fair use / fair dealing
   * Differentiate examples of fair use versus licensing
   * Illustrate fair use 
+  
 5. Distinguish Baselines and Differences in Global Copyright
   * Give examples of international copyright baselines (e.g. Berne)
   * Understand local copyright
