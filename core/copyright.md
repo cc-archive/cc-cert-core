@@ -8,7 +8,7 @@ Within each unit of learning a set of learning objectives has been defined follo
 
 ## Unit Learning Objectives
 
-1 **Understand / Explain Copyright**
+1. **Understand / Explain Copyright**
   * Trace basic history of copyright
   * Explain copyright purpose
   * Know how to get copyright
@@ -23,15 +23,15 @@ Within each unit of learning a set of learning objectives has been defined follo
   * Describe copyright infringement penalties
   * Give examples of what copyright restricts
 
-Existing reusable OER for this unit is x?
+  1. Existing reusable OER for this unit is x?
 
-That OER addresses these learning objectives - a, b, c.
+  2. That OER addresses these learning objectives - a, b, c.
 
-A learning activity using this OER is y? 
+  3. A learning activity using this OER is y? 
 
-The assessment or evidence you must provide to show successful completion is z.  
+  4. The assessment or evidence you must provide to show successful completion is z.  
 
-2 **Differentiate Copyright from other forms of Intellectual Property Rights**
+2. **Differentiate Copyright from other forms of Intellectual Property Rights**
   * Differentiate between © and patent
   * Differentiate between © and trademark
   * Differentiate between © and trade secret 
