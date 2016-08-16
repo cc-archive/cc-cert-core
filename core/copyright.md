@@ -24,16 +24,16 @@ Within each unit of learning a set of learning objectives has been defined follo
   * Give examples of what copyright restricts
 
 2. Learning resources (existing reusable OER) to be used in fulfilling these objectives are:
-  *
-  *
+  * Resource 1
+  * Resource 2
 
 3. Learning activities (Learn, Do, Act, Reflect) are:
-  *
-  *
+  * Activity 1
+  * Activity 2
 
 4. Assessment / evidence you must provide to show successful completion is:
-  *
-  *
+  * Assessment 1
+  * Assessment 2
 
 2. **Differentiate Copyright from other forms of Intellectual Property Rights**
   * Differentiate between © and patent
