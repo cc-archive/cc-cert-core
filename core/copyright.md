@@ -2,16 +2,7 @@
 
 Copyright Basics has five units of learning:
 
-## CORE Module Units of Learning
-
-The pale grey lines divide each CORE module into units of learning. CORE units of learning across all modules are:
-![Expanded details of core module](cc-cert-map/img/copyright.jpg "Each CORE module breaks down further into units of learning")
-
-CORE can be visualized as a set of modules that fit together like this:
-
-![Copyright Basics, The Commons, CC Licenses, and Social/Cultural Implementation](img/core-four.jpg "Four Required Modules")
-
-![?](img/copyright.jpg "Copyright Basics")
+![Five Units of Learning](https://github.com/creativecommons/cc-cert-map/blob/master/img/copyright.jpg "Copyright Basics")
 
 Placeholder for introduction to this module. This will be what provides some context.
 
