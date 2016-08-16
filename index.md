@@ -15,7 +15,7 @@ Creative Commons CORE is meant to capture the full breadth and depth of learning
 
 Optional modules provide participants with the opportunity to gain deeper knowledge directly related to their interests or requirements. CORE in it's entirety (all of required and all of optional) is the means by which someone becomes certified as a Creative Commons train-the-trainer.
 
-## Module Overview
+## CORE Modules
 CORE can be visualized as a set of modules that fit together like this:
 
 ![Copyright Basics, The Commons, CC Licenses, and Social/Cultural Implementation](img/core-four.jpg "Four Required Modules")
@@ -25,7 +25,7 @@ plus one of
 ![Legal, Technical, or International Implementation](img/core-plus.jpg "Three Optional Modules")
 
 
-## Module Units of Learning
+## CORE Module Units of Learning
 
 The pale grey lines divide each CORE module into units of learning. CORE module units of learning are:
 ![Expanded details of core module](img/core-expanded.jpg "Each CORE module breaks down further into units of learning")
