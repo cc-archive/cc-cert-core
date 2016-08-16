@@ -4,13 +4,13 @@ The Creative Commons CORE Copyright Basics module has five units of learning:
 
 ![Five Units of Learning](https://github.com/creativecommons/cc-cert-map/blob/master/img/copyright.jpg "Copyright Basics")
 
-Within each unit of learning a set of learning objectives has been defined as follows:
+Within each unit of learning a set of learning objectives has been defined followed by recommended resources, learning activities, and assessments as follows:
 
 ## Unit Learning Objectives
 
 1. **Understand / Explain Copyright**
- * Trace basic history of copyright
- * Explain copyright purpose
+  * Trace basic history of copyright
+  * Explain copyright purpose
   * Know how to get copyright
   * Mark authorship and copyright
   * Understand idea vs expression difference
@@ -22,7 +22,12 @@ Within each unit of learning a set of learning objectives has been defined as fo
   * List protected actions
   * Describe copyright infringement penalties
   * Give examples of what copyright restricts
-  
+
+Existing reusable OER for this unit is x?
+That OER addresses these learning objectives - a, b, c.
+A learning activity using this OER is y? 
+The assessment or evidence you must provide to show successful completion is z.  
+
 2. **Differentiate Copyright from other forms of Intellectual Property Rights**
   * Differentiate between © and patent
   * Differentiate between © and trademark
