@@ -1,6 +1,6 @@
 # Copyright Basics
 
-![Five Units of Learning](https://github.com/creativecommons/cc-cert-map/blob/master/img/copyright.jpg "Copyright Basics")
+![Five Units of Learning](https://github.com/creativecommons/cc-cert-map/blob/master/img/copyright.png "Copyright Basics")
 
 The Creative Commons CORE Copyright Basics module has five units of learning:
 1. Understand / Explain Copyright
