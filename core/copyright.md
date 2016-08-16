@@ -9,8 +9,8 @@ Within each unit of learning a set of learning objectives has been defined as fo
 ## Unit Learning Objectives
 
 1. **Understand / Explain Copyright**
-  * Trace basic history of copyright
-  * Explain copyright purpose
+ * Trace basic history of copyright
+ * Explain copyright purpose
   * Know how to get copyright
   * Mark authorship and copyright
   * Understand idea vs expression difference
