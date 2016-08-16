@@ -6,7 +6,12 @@ The Creative Commons CORE Copyright Basics module has five units of learning:
 
 Within each unit of learning a set of learning objectives has been defined followed by recommended resources, learning activities, and assessments as follows:
 
-## Unit Learning Objectives
+## Understand / Explain Copyright Unit
+
+| Learning Objectives  | Resources for Learning | Objectives Resource Addresses  | Learning Activity | Assessment | 
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
 
 1. **Understand / Explain Copyright**
   * Trace basic history of copyright
