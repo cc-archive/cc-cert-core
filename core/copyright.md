@@ -8,7 +8,7 @@ Within each unit of learning a set of learning objectives has been defined as fo
 
 ## Unit Learning Objectives
 
-1. Understand / Explain Copyright
+1. **Understand / Explain Copyright**
   * Trace basic history of copyright
   * Explain copyright purpose
   * Know how to get copyright
@@ -23,21 +23,21 @@ Within each unit of learning a set of learning objectives has been defined as fo
   * Describe copyright infringement penalties
   * Give examples of what copyright restricts
   
-2. Differentiate Copyright from other forms of Intellectual Property Rights
+2. **Differentiate Copyright from other forms of Intellectual Property Rights**
   * Differentiate between © and patent
   * Differentiate between © and trademark
   * Differentiate between © and trade secret 
   
-3.  Understand Scope of Public Domain
+3.  **Understand Scope of Public Domain**
   * Explain public domain
   * Communicate value proposition of the public domain  
   
-4.  Understand exceptions and limitations of copyright
+4.  **Understand exceptions and limitations of copyright**
   * Evaluate the application of fair use / fair dealing
   * Differentiate examples of fair use versus licensing
   * Illustrate fair use 
   
-5. Distinguish Baselines and Differences in Global Copyright
+5. **Distinguish Baselines and Differences in Global Copyright**
   * Give examples of international copyright baselines (e.g. Berne)
   * Understand local copyright
 
