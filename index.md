@@ -27,7 +27,7 @@ plus one of
 
 ## Module Units of Learning
 
-The pale grey brick like lines in each CORE module represent units of learning within that module. Expanding CORE to iagrammatically show the units of learning within each module looks like this:
+The pale grey lines divide each CORE module into units of learning. CORE module units of learning are:
 ![Expanded details of core module](img/core-expanded.jpg "Each CORE module breaks down further into units of learning")
 
 
