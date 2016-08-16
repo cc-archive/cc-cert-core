@@ -13,7 +13,7 @@ Creative Commons CORE is meant to capture the full breadth and depth of learning
   * [Technical Implementation](core/technical.md)
   * [International Implementation](core/international.md)
 
-CORE in it's entirety will be the means by which someone becomes certified as a Creative Commons train-the-trainer.
+Optional modules provide participants with the opportunity to gain specific knowledge directly related to their interests or requirements. CORE in it's entirety (all of required and all of optional) will be the means by which someone becomes certified as a Creative Commons train-the-trainer.
 
 ## Module Overview
 Core  is made up of four required modules ([Copyright Basics](core/copyright.md), [The Commons](core/commons.md), [CC License Suite](core/licenses.md), and [Social/Cultural Implementation](core/social-cultural.md) plus one additional module chosen from three options - [Legal Implementation](core/legal.md), [Technical Implementation](core/technical.md), or [International Implementation](core/international.md).
@@ -27,7 +27,7 @@ plus one of
 
 ## Module Details
 
-![Expanded details of core module](img/core-expanded.jpg "Core Modules with expanded details")
+![Expanded details of core module](img/core-expanded.jpg "Each CORE module breaks down further into units of learning")
 
 
 
