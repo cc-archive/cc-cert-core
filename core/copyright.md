@@ -1,6 +1,10 @@
 # Copyright Basics
 
 Copyright Basics has five units of learning:
+## CORE Module Units of Learning
+
+The pale grey lines divide each CORE module into units of learning. CORE units of learning across all modules are:
+![Expanded details of core module](img/core-expanded.jpg "Each CORE module breaks down further into units of learning")
 
 CORE can be visualized as a set of modules that fit together like this:
 
