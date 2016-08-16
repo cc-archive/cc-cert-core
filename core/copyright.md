@@ -2,7 +2,11 @@
 
 Copyright Basics has five units of learning:
 
-![Five Units of Learning?](img/copyright.jpg "Copyright Basics")
+CORE can be visualized as a set of modules that fit together like this:
+
+![Copyright Basics, The Commons, CC Licenses, and Social/Cultural Implementation](img/core-four.jpg "Four Required Modules")
+
+![?](img/copyright.jpg "Copyright Basics")
 
 Placeholder for introduction to this module. This will be what provides some context.
 
