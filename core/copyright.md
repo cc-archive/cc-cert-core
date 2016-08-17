@@ -46,23 +46,79 @@ Within each unit of learning a set of learning objectives has been defined along
   * Assessment 1
   * Assessment 2
 
-2. **Differentiate Copyright from other forms of Intellectual Property Rights**
-  * Differentiate between © and patent
-  * Differentiate between © and trademark
-  * Differentiate between © and trade secret 
-  
-3.  **Understand Scope of Public Domain**
+## Differentiate Copyright from other forms of Intellectual Property Rights
+
+1. Learning Objectives
+  * Differentiate between copyright and patent
+  * Differentiate between copyright and trademark
+  * Differentiate between copyright and trade secret 
+
+2. Learning resources (existing reusable OER) to be used in fulfilling these objectives are:
+  * Resource 1
+  * Resource 2
+
+3. Learning activities (Learn, Do, Act, Reflect) are:
+  * Activity 1
+  * Activity 2
+
+4. Assessment / evidence you must provide to show successful completion is:
+  * Assessment 1
+  * Assessment 2
+
+##Understand Scope of Public Domain
+
+1. Learning Ojbectives
   * Explain public domain
   * Communicate value proposition of the public domain  
   
-4.  **Understand exceptions and limitations of copyright**
+2. Learning resources (existing reusable OER) to be used in fulfilling these objectives are:
+  * Resource 1
+  * Resource 2
+
+3. Learning activities (Learn, Do, Act, Reflect) are:
+  * Activity 1
+  * Activity 2
+
+4. Assessment / evidence you must provide to show successful completion is:
+  * Assessment 1
+  * Assessment 2
+
+##Understand exceptions and limitations of copyright
+
+1. Learning objectives
   * Evaluate the application of fair use / fair dealing
   * Differentiate examples of fair use versus licensing
   * Illustrate fair use 
   
-5. **Distinguish Baselines and Differences in Global Copyright**
+2. Learning resources (existing reusable OER) to be used in fulfilling these objectives are:
+  * Resource 1
+  * Resource 2
+
+3. Learning activities (Learn, Do, Act, Reflect) are:
+  * Activity 1
+  * Activity 2
+
+4. Assessment / evidence you must provide to show successful completion is:
+  * Assessment 1
+  * Assessment 2
+
+##Distinguish Baselines and Differences in Global Copyright
+
+1. Learning Objectives
   * Give examples of international copyright baselines (e.g. Berne)
   * Understand local copyright
+
+2. Learning resources (existing reusable OER) to be used in fulfilling these objectives are:
+  * Resource 1
+  * Resource 2
+
+3. Learning activities (Learn, Do, Act, Reflect) are:
+  * Activity 1
+  * Activity 2
+
+4. Assessment / evidence you must provide to show successful completion is:
+  * Assessment 1
+  * Assessment 2
 
 
 ## Learn Copyright Basics
