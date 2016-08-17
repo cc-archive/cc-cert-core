@@ -1,4 +1,4 @@
-# Copyright Basics
+#Copyright Basics
 
 ![Five Units of Learning](https://github.com/creativecommons/cc-cert-map/blob/master/img/copyright.png "Copyright Basics")
 
@@ -24,8 +24,10 @@ Each unit of learning has four parts:
 
 4. Assessments and or evidence you need to generate to demonstrate you've accomplished the learning.
 
+You'll find everything you need to learn about Copyright Basics below.
 
-### Understand / Explain Copyright 
+
+###Understand / Explain Copyright 
 
 1. Learning Objectives
   * Trace basic history of copyright
@@ -54,7 +56,7 @@ Each unit of learning has four parts:
   * Assessment 1
   * Assessment 2
 
-## Differentiate Copyright from other forms of Intellectual Property Rights
+###Differentiate Copyright from other forms of Intellectual Property Rights
 
 1. Learning Objectives
   * Differentiate between copyright and patent
@@ -73,7 +75,7 @@ Each unit of learning has four parts:
   * Assessment 1
   * Assessment 2
 
-##Understand Scope of Public Domain
+###Understand Scope of Public Domain
 
 1. Learning Ojbectives
   * Explain public domain
@@ -91,7 +93,7 @@ Each unit of learning has four parts:
   * Assessment 1
   * Assessment 2
 
-##Understand exceptions and limitations of copyright
+###Understand exceptions and limitations of copyright
 
 1. Learning objectives
   * Evaluate the application of fair use / fair dealing
@@ -110,7 +112,7 @@ Each unit of learning has four parts:
   * Assessment 1
   * Assessment 2
 
-##Distinguish Baselines and Differences in Global Copyright
+###Distinguish Baselines and Differences in Global Copyright
 
 1. Learning Objectives
   * Give examples of international copyright baselines (e.g. Berne)
