@@ -24,8 +24,9 @@ Each unit of learning has four parts:
 
 4. Assessments and or evidence you need to generate to demonstrate you've accomplished the learning.
 
-You'll find everything you need to learn about Copyright Basics below.
+##Start Learning
 
+You'll find everything you need to learn about Copyright Basics below.
 
 ###Understand / Explain Copyright 
 
