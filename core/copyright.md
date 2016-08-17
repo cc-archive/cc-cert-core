@@ -14,7 +14,9 @@ Creative Commons provides free, easy-to-use copyright licenses providing you wit
 
 5. Distinguish Baselines and Differences in Global Copyright
 
-Each unit of learning has four parts:
+##Start Learning
+
+To help you learn about Copyright Basics we've structured each unit of learning into four parts:
 
 1. A set of learning objectives
 
@@ -24,9 +26,7 @@ Each unit of learning has four parts:
 
 4. Assessments and or evidence you need to generate to demonstrate you've accomplished the learning.
 
-##Start Learning
-
-You'll find everything you need to learn about Copyright Basics below.
+Get started with your learning now. You'll find everything you need below.
 
 ###Understand / Explain Copyright 
 
