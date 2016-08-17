@@ -25,7 +25,7 @@ Each unit of learning has four parts:
 4. Assessments and or evidence you need to generate to demonstrate you've accomplished the learning.
 
 
-## Understand / Explain Copyright 
+### Understand / Explain Copyright 
 
 1. Learning Objectives
   * Trace basic history of copyright
