@@ -2,7 +2,7 @@
 
 ![Five Units of Learning](https://github.com/creativecommons/cc-cert-map/blob/master/img/copyright.png "Copyright Basics")
 
-The Creative Commons CORE Copyright Basics module has five units of learning:
+Creative Commons provides free, easy-to-use copyright licenses providing you with a simple and standardized way to give the public permission to share and use your creative work – on conditions of your choice. To full uderstand Creative Commons it's helpful to know some basics about copyright. The Creative Commons CORE Copyright Basics module has five units of learning:
 
 1. Understand / Explain Copyright
 
