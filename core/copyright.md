@@ -2,7 +2,7 @@
 
 ![Five Units of Learning](https://github.com/creativecommons/cc-cert-map/blob/master/img/copyright.png "Copyright Basics")
 
-Creative Commons provides free, easy-to-use copyright licenses providing you with a simple and standardized way to give the public permission to share and use your creative work – on conditions of your choice. To full uderstand Creative Commons it's helpful to know some basics about copyright. The Creative Commons CORE Copyright Basics module has five units of learning:
+Creative Commons provides free, easy-to-use copyright licenses providing you with a simple and standardized way to give the public permission to share and use your creative work – on conditions of your choice. To full understand Creative Commons it's helpful to know some basics about copyright. The Creative Commons CORE Copyright Basics module has five units of learning:
 
 1. Understand / Explain Copyright
 
@@ -14,7 +14,7 @@ Creative Commons provides free, easy-to-use copyright licenses providing you wit
 
 5. Distinguish Baselines and Differences in Global Copyright
 
-##Start Learning
+## Start Learning
 
 To help you learn about Copyright Basics we've structured each unit of learning into four parts:
 
@@ -28,7 +28,7 @@ To help you learn about Copyright Basics we've structured each unit of learning 
 
 Get started with your learning now. You'll find everything you need below.
 
-###Understand / Explain Copyright 
+### Understand / Explain Copyright 
 
 1. Learning Objectives
   * Trace basic history of copyright
@@ -57,7 +57,7 @@ Get started with your learning now. You'll find everything you need below.
   * Assessment 1
   * Assessment 2
 
-###Differentiate Copyright from other forms of Intellectual Property Rights
+### Differentiate Copyright from other forms of Intellectual Property Rights
 
 1. Learning Objectives
   * Differentiate between copyright and patent
@@ -76,9 +76,9 @@ Get started with your learning now. You'll find everything you need below.
   * Assessment 1
   * Assessment 2
 
-###Understand Scope of Public Domain
+### Understand Scope of Public Domain
 
-1. Learning Ojbectives
+1. Learning Objectives
   * Explain public domain
   * Communicate value proposition of the public domain  
   
@@ -94,7 +94,7 @@ Get started with your learning now. You'll find everything you need below.
   * Assessment 1
   * Assessment 2
 
-###Understand exceptions and limitations of copyright
+### Understand exceptions and limitations of copyright
 
 1. Learning objectives
   * Evaluate the application of fair use / fair dealing
@@ -113,7 +113,7 @@ Get started with your learning now. You'll find everything you need below.
   * Assessment 1
   * Assessment 2
 
-###Distinguish Baselines and Differences in Global Copyright
+### Distinguish Baselines and Differences in Global Copyright
 
 1. Learning Objectives
   * Give examples of international copyright baselines (e.g. Berne)
@@ -130,6 +130,4 @@ Get started with your learning now. You'll find everything you need below.
 4. Assessment / evidence you must provide to show successful completion is:
   * Assessment 1
   * Assessment 2
-
-
 
