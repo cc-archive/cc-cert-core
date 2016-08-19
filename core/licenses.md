@@ -56,8 +56,8 @@ Get started with your learning now. You'll find everything you need below.
   * Ensure license compatibility
 
 2. Learning resources (existing reusable OER) to be used in fulfilling these objectives are:
-  * [Resource 1 ](http://) (Publisher) Description
-  * [Resource 2 ](http://) (Publisher) Description
+  *  [Resource 1](http://) (Publisher) Description
+  *  [Resource 2](http://) (Publisher) Description
 
 3. Learning activities (Learn, Do, Act, Reflect) are:
   * Activity 1
@@ -83,8 +83,8 @@ Get started with your learning now. You'll find everything you need below.
   * Demonstrate understanding of recommendation to use the most current version of license
 
 2. Learning resources (existing reusable OER) to be used in fulfilling these objectives are:
-  * [Resource 1 ](http://) (Publisher) Description
-  * [Resource 2 ](http://) (Publisher) Description
+  *  [Resource 1](http://) (Publisher) Description
+  *  [Resource 2](http://) (Publisher) Description
 
 3. Learning activities (Learn, Do, Act, Reflect) are:
   * Activity 1
@@ -104,8 +104,8 @@ Get started with your learning now. You'll find everything you need below.
   * Assess which CC licenses maximize reuse/remix
   
 2. Learning resources (existing reusable OER) to be used in fulfilling these objectives are:
-  * [Resource 1 ](http://) (Publisher) Description
-  * [Resource 2 ](http://) (Publisher) Description
+  *  [Resource 1](http://) (Publisher) Description
+  *  [Resource 2](http://) (Publisher) Description
 
 3. Learning activities (Learn, Do, Act, Reflect) are:
   * Activity 1
@@ -122,8 +122,8 @@ Get started with your learning now. You'll find everything you need below.
   * Understand when to use CC0 vs PDM
 
 2. Learning resources (existing reusable OER) to be used in fulfilling these objectives are:
-  * [Resource 1 ](http://) (Publisher) Description
-  * [Resource 2 ](http://) (Publisher) Description
+  *  [Resource 1](http://) (Publisher) Description
+  *  [Resource 2](http://) (Publisher) Description
 
 3. Learning activities (Learn, Do, Act, Reflect) are:
   * Activity 1
@@ -146,8 +146,8 @@ Get started with your learning now. You'll find everything you need below.
   * Non-CC license compatibility
 
 2. Learning resources (existing reusable OER) to be used in fulfilling these objectives are:
-  * [Resource 1 ](http://) (Publisher) Description
-  * [Resource 2 ](http://) (Publisher) Description
+  *  [Resource 1](http://) (Publisher) Description
+  *  [Resource 2](http://) (Publisher) Description
 
 3. Learning activities (Learn, Do, Act, Reflect) are:
   * Activity 1
@@ -168,8 +168,8 @@ Get started with your learning now. You'll find everything you need below.
   * Understand when to use CC0 vs PDM
   
 2. Learning resources (existing reusable OER) to be used in fulfilling these objectives are:
-  * [Resource 1 ](http://) (Publisher) Description
-  * [Resource 2 ](http://) (Publisher) Description
+  *  [Resource 1](http://) (Publisher) Description
+  *  [Resource 2](http://) (Publisher) Description
 
 3. Learning activities (Learn, Do, Act, Reflect) are:
   * Activity 1
