@@ -1,17 +1,13 @@
-#Copyright Basics
+# Copyright Basics
 
 ![Five Units of Learning](https://github.com/creativecommons/cc-cert-map/blob/master/img/copyright.png "Copyright Basics")
 
 Creative Commons provides free, easy-to-use copyright licenses providing you with a simple and standardized way to give the public permission to share and use your creative work – on conditions of your choice. To full understand Creative Commons it's helpful to know some basics about copyright. The Creative Commons CORE Copyright Basics module has five units of learning:
 
 1. Understand / Explain Copyright
-
 2. Differentiate Copyright from other Intellectual Property Rights
-
-3. Understand Scope of Public Domain
- 
+3. Understand Scope of Public Domain 
 4. Understand Exceptions and Limitations of Copyright
-
 5. Distinguish Baselines and Differences in Global Copyright
 
 ## Start Learning
@@ -46,8 +42,8 @@ Get started with your learning now. You'll find everything you need below.
   * Give examples of what copyright restricts
 
 2. Learning resources (existing reusable OER) to be used in fulfilling these objectives are:
-  * Resource 1
-  * Resource 2
+  *  [Resource 1](http://) (Publisher) Description
+  *  [Resource 2](http://) (Publisher) Description
 
 3. Learning activities (Learn, Do, Act, Reflect) are:
   * Activity 1
@@ -65,8 +61,8 @@ Get started with your learning now. You'll find everything you need below.
   * Differentiate between copyright and trade secret 
 
 2. Learning resources (existing reusable OER) to be used in fulfilling these objectives are:
-  * Resource 1
-  * Resource 2
+  *  [Resource 1](http://) (Publisher) Description
+  *  [Resource 2](http://) (Publisher) Description
 
 3. Learning activities (Learn, Do, Act, Reflect) are:
   * Activity 1
@@ -83,8 +79,8 @@ Get started with your learning now. You'll find everything you need below.
   * Communicate value proposition of the public domain  
   
 2. Learning resources (existing reusable OER) to be used in fulfilling these objectives are:
-  * Resource 1
-  * Resource 2
+  *  [Resource 1](http://) (Publisher) Description
+  *  [Resource 2](http://) (Publisher) Description
 
 3. Learning activities (Learn, Do, Act, Reflect) are:
   * Activity 1
@@ -102,8 +98,8 @@ Get started with your learning now. You'll find everything you need below.
   * Illustrate fair use 
   
 2. Learning resources (existing reusable OER) to be used in fulfilling these objectives are:
-  * Resource 1
-  * Resource 2
+  *  [Resource 1](http://) (Publisher) Description
+  *  [Resource 2](http://) (Publisher) Description
 
 3. Learning activities (Learn, Do, Act, Reflect) are:
   * Activity 1
@@ -120,8 +116,8 @@ Get started with your learning now. You'll find everything you need below.
   * Understand local copyright
 
 2. Learning resources (existing reusable OER) to be used in fulfilling these objectives are:
-  * Resource 1
-  * Resource 2
+  *  [Resource 1](http://) (Publisher) Description
+  *  [Resource 2](http://) (Publisher) Description
 
 3. Learning activities (Learn, Do, Act, Reflect) are:
   * Activity 1
