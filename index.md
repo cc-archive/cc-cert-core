@@ -8,7 +8,7 @@ The comprehensive breadth of CORE is shown across seven modules and their associ
 
 CORE emphasizes performance based learning with learning objectives fulfilled through applied use. Acquisition of knowledge and skill is demonstrated through generation of Creative Commons licensed works. 
 
-CORE is Creative Commons licensed including the content, learning activities, and selected participant outputs. 
+CORE is Creative Commons licensed including the content, learning activities, and participant proof of completion. 
 
 CORE is continuously created through remix of existing Open Educational Resources (OER) and participant creation of new OER. 
 
