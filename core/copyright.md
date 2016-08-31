@@ -1,6 +1,6 @@
 # Copyright Basics
 
-![Five Units of Learning](https://github.com/creativecommons/cc-cert-map/blob/master/img/copyright.png "Copyright Basics")
+![Five Units of Learning](https://github.com/creativecommons/cc-cert-map/blob/master/img/CopyrightBasics.jpg "Copyright Basics")
 
 Creative Commons  free, easy-to-use, copyright licenses provide a simple, standardized way to give permissions to share and use creative work – under conditions the creator chooses. To fully understand Creative Commons it's helpful to know some basics about copyright. 
 
