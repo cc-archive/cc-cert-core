@@ -6,23 +6,21 @@ CORE is for those seeking deep Creative Commons expertise, including those invov
 
 The comprehensive breadth of CORE is shown across seven modules and their associated learning units.
 
-Depth is defined by learning objectives within each unit. CORE emphasizes performance based learning with learning objectives fulfilled through applied use generating tangible evidence of capability. 
+Depth is defined by learning objectives within each unit. CORE emphasizes performance based learning with learning objectives fulfilled through applied use. Acquisition of knowledge and skill is demonstrated through generation of Creative Commons licensed works. 
 
-CORE is Creative Commons licensed including the content, learning activities, and targeted participant outputs. 
+CORE is Creative Commons licensed including the content, learning activities, and selected participant outputs. 
 
 CORE is continuously created through remix of existing Open Educational Resources (OER) and participant creation of new OER. 
 
 Creative Commons is a curator of CORE rather than sole creator of CORE. 
-
-CORE learning activities are oriented toward applied use with participants demonstrating acquisition of knowledge and skills through personal action and use.
 
 CORE is foundational curricula from which specialized Creative Commons certificates can be built. 
 
 CORE has required and optional modules.
 
 * **Required Modules**
-  * [Copyright Basics](core/copyright.md)
   * [The Commons](core/commons.md)
+  * [Copyright Basics](core/copyright.md)
   * [CC License Suite](core/licenses.md)
   * [Social/Cultural Implementation](core/social-cultural.md)
   
@@ -31,7 +29,7 @@ CORE has required and optional modules.
   * [Technical Implementation](core/technical.md)
   * [International Implementation](core/international.md)
 
-Optional modules provide participants with the opportunity to gain deeper knowledge directly related to their interests or needs. CORE in it's entirety (all of required and all of optional) is the means by which someone becomes certified as a Creative Commons train-the-trainer.
+Optional modules provide participants with the opportunity to gain deeper knowledge directly related to their interests or needs. CORE in it's entirety (all of required and all of optional) is the means by which someone becomes certified to train others about Creative Commons.
 
 ## CORE Modules
 CORE can be visualized as a set of modules that fit together like this:
