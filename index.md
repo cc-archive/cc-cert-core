@@ -1,6 +1,19 @@
 # Introduction to Creative Commons CORE
 
-Creative Commons CORE is meant to capture the full breadth and depth of learning associated with having comprehensive expertise in everything related to Creative Commons. CORE certification is seen as something Creative Commons and its global community will take to ensure staff and public representatives have essential Creative Commons knowledge and skills. CORE acts as foundational curricula from which specialized Creative Commons certificates can be built. CORE has required and optional modules.
+Creative Commons CORE is a learning blueprint for acquiring comprehenive Creative Commons knowledge and skill. CORE is for those seeking deep Creative Commons expertise including those who lead and support others in applied use of Creative Commons. 
+The comprehensive nature of CORE has breadth and depth. Breadth is defined by seven broad modules and their associated learning units. Depth is defined by learning objectives within each unit. CORE aims to be performance based with learning objectives fulfilled through applied use generating tangible evidence of capability. 
+
+All parts of CORE are Creative Commons licensed including the content, learning activities, and participant outputs. 
+
+CORE is continuously created through remix of existing Open Educational Resources (OER) and participant creation of new OER. 
+
+Creative Commons is a curator of CORE rather than sole creator of CORE. 
+
+CORE learning activities are oriented toward applied use.  with participants demonstrating acquisition of knowledge and skills through personal action and use.  
+
+CORE is foundational curricula from which specialized Creative Commons certificates can be built. 
+
+CORE has required and optional modules.
 
 * **Required Modules**
   * [Copyright Basics](core/copyright.md)
