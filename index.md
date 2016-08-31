@@ -12,7 +12,7 @@ CORE is Creative Commons licensed including the content, learning activities, an
 
 CORE is continuously created through remix of existing Open Educational Resources (OER) and participant creation of new OER. 
 
-Creative Commons is a curator of CORE rather than sole creator of CORE. 
+Creative Commons is the curator of CORE rather than sole creator of CORE. 
 
 CORE is foundational curricula from which specialized Creative Commons certificates can be built. 
 
