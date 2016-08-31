@@ -22,11 +22,9 @@ To help you learn Copyright Basics each unit of learning has:
 
 3. Learning activities / assessments that ask you to apply the learning to your own context and generate evidence demonstrating you've accomplished the learning. 
 
-## Start Learning
-
-Here are the learning objectives, resources, and activites for each unit of learning.
-
 Learning units have been sequenced to have a logical flow but you can take them in any order. Start with the one that interests you the most.
+
+## Start Learning
 
 **Unit #1**
 
