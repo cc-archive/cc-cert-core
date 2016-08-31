@@ -4,7 +4,7 @@ CORE is a learning blueprint for acquiring comprehenive Creative Commons knowled
 
 CORE is for those seeking deep Creative Commons expertise including those inovled in intensive use of Creative Commons and those who lead and support use of Creative Commons by others.
 
-The comprehensive nature of CORE is shown through breadth and depth. Breadth is found in CORE's seven modules and their associated learning units. The seven modules are:
+The comprehensive breadth of CORE is shown through seven modules and their associated learning units. The seven modules are:
   * [The Commons](core/commons.md)
   * [Copyright Basics](core/copyright.md)
   * [Creative Commons License Suite](core/licenses.md)
