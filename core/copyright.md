@@ -2,9 +2,9 @@
 
 ![Five Units of Learning](https://github.com/creativecommons/cc-cert-map/blob/master/img/copyright.png "Copyright Basics")
 
-Creative Commons  free, easy-to-use copyright licenses provide a simple and standardized way to give permissions to share and use  creative work – on conditions of the creator chooses. To fully understand Creative Commons it's helpful to know some basics about copyright. 
+Creative Commons  free, easy-to-use, copyright licenses provide a simple, standardized way to give permissions to share and use creative work – under conditions the creator chooses. To fully understand Creative Commons it's helpful to know some basics about copyright. 
 
-The Creative Commons CORE Copyright Basics module has five units of learning:
+The Copyright Basics module has five units of learning:
 
 1. Understand / Explain Copyright
 2. Differentiate Copyright from other Intellectual Property Rights
@@ -12,17 +12,21 @@ The Creative Commons CORE Copyright Basics module has five units of learning:
 4. Understand Exceptions and Limitations of Copyright
 5. Distinguish Baselines and Differences in Global Copyright
 
-## Start Learning
+## Learning Experience
 
-To help you learn about Copyright Basics we've structured each unit of learning into three parts:
+To help you learn about Copyright Basics each unit of learning has three parts:
 
 1. A set of learning objectives
 
-2. Learning resources related to those objectives
+2. Learning Open Educational Resources related to those objectives
 
-3. Learning activities / assessments that ask you to apply the learning to your own context and generate evidence demonstrating you've accomplished the learning.
+3. Learning activities / assessments that ask you to apply the learning to your own context and generate evidence demonstrating you've accomplished the learning. 
 
-Get started with your learning now. You'll find everything you need below.
+## Start Learning
+
+Learning objectives, resources, and activites for each unit of learning follow.
+Learning units have been sequenced to have a logical flow but you can take them in any order.
+Start with the one that interests you the most.
 
 ### Understand / Explain Copyright 
 
