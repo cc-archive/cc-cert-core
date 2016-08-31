@@ -14,7 +14,7 @@ As shown in the above diagram the Copyright Basics module has five units of lear
 
 ## Learning Experience
 
-To help you learn about Copyright Basics each unit of learning has three parts:
+To help you learn Copyright Basics each unit of learning has:
 
 1. A set of learning objectives
 
@@ -24,9 +24,9 @@ To help you learn about Copyright Basics each unit of learning has three parts:
 
 ## Start Learning
 
-Learning objectives, resources, and activites for each unit of learning follow.
-Learning units have been sequenced to have a logical flow but you can take them in any order.
-Start with the one that interests you the most.
+Here are the learning objectives, resources, and activites for each unit of learning.
+
+Learning units have been sequenced to have a logical flow but you can take them in any order. Start with the one that interests you the most.
 
 **Unit #1**
 
