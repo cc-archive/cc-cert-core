@@ -40,7 +40,7 @@ The pale grey lines divide each module into units of learning.
 
 ## Units of Learning
 
-CORE units of learning across all modules are:
+Units of learning across all CORE modules are:
 
 ![Expanded details of core modules](img/UnitsofLearning.jpg "Each CORE module breaks down further into units of learning")
 
