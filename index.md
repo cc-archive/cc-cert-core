@@ -12,7 +12,7 @@ CORE is continuously created through remix of existing Open Educational Resource
 
 Creative Commons is a curator of CORE rather than sole creator of CORE. 
 
-CORE learning activities are oriented toward applied use.  with participants demonstrating acquisition of knowledge and skills through personal action and use.  
+CORE learning activities are oriented toward applied use with participants demonstrating acquisition of knowledge and skills through personal action and use.  
 
 CORE is foundational curricula from which specialized Creative Commons certificates can be built. 
 
