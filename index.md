@@ -40,6 +40,7 @@ CORE can be visualized as a set of modules that fit together like this:
 ## Units of Learning
 
 The pale grey lines in the Moudules diagram divide each module into units of learning. 
+
 CORE units of learning across all modules are:
 
 ![Expanded details of core modules](img/UnitsofLearning.jpg "Each CORE module breaks down further into units of learning")
