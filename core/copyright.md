@@ -26,11 +26,11 @@ Learning units have been sequenced to have a logical flow but you can take them 
 
 ## Start Learning
 
-**Unit #1**
+### Unit #1
 
 ![Understand Explain Copyright](https://github.com/creativecommons/cc-cert-map/blob/master/img/ExplainCopyright4.jpg "Understand / Explain Copyright")
 
-1. Learning Objectives
+**Learning Objectives**
   * Trace basic history of copyright
   * Explain copyright purpose
   * Know how to get copyright
@@ -45,11 +45,11 @@ Learning units have been sequenced to have a logical flow but you can take them 
   * Describe copyright infringement penalties
   * Give examples of what copyright restricts
 
-2. Existing Open Educational Resources to be used in fulfilling these objectives are:
+**Existing Open Educational Resources** to be used in fulfilling these objectives are:
   *  [Resource 1](http://) (Publisher) Description
   *  [Resource 2](http://) (Publisher) Description
 
-3. Learning activities / assessments are:
+**Learning activities / assessments** are:
   * Activity / Assessment 1
   * Activity / Assessment 2
 
