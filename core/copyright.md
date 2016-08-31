@@ -18,7 +18,7 @@ To help you learn about Copyright Basics each unit of learning has three parts:
 
 1. A set of learning objectives
 
-2. Learning Open Educational Resources related to those objectives
+2. Open Educational Resources for you to use in fulfilling those objectives
 
 3. Learning activities / assessments that ask you to apply the learning to your own context and generate evidence demonstrating you've accomplished the learning. 
 
