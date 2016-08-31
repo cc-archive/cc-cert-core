@@ -36,10 +36,9 @@ CORE can be visualized as a set of modules that fit together like this:
 
 ![The Commons, Copyright Basics, Creative Commons Licenses, Social/Cultural Implementation, Legal, Technical, or International Implementation](img/COREModules.jpg "CORE Modules")
 
+The pale grey lines divide each module into units of learning. 
 
 ## Units of Learning
-
-The pale grey lines in the Moudules diagram divide each module into units of learning. 
 
 CORE units of learning across all modules are:
 
