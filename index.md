@@ -2,7 +2,7 @@
 
 CORE is a learning blueprint for acquiring comprehenive Creative Commons knowledge and skill. 
 
-CORE is for those seeking deep Creative Commons expertise, including those invovled in intensive use of Creative Commons and those who lead and support use of Creative Commons by others.
+CORE is for those seeking deep Creative Commons expertise, including those invovled in intensive use of Creative Commons and those who lead and support use of Creative Commons by others. CORE is the means by which someone becomes certified to train others about Creative Commons.
 
 The comprehensive breadth of CORE is shown across seven modules and their associated learning units.
 
@@ -29,7 +29,7 @@ CORE has required and optional modules.
   * [Technical Implementation](core/technical.md)
   * [International Implementation](core/international.md)
 
-Optional modules provide participants with the opportunity to gain deeper knowledge directly related to their interests or needs. CORE in it's entirety (all of required and all of optional) is the means by which someone becomes certified to train others about Creative Commons.
+Optional modules provide participants with the opportunity to gain deeper knowledge directly related to their interests or needs. 
 
 ## CORE Modules
 CORE can be visualized as a set of modules that fit together like this:
