@@ -1,9 +1,10 @@
 # Introduction to Creative Commons CORE
 
-Creative Commons CORE is a learning blueprint for acquiring comprehenive Creative Commons knowledge and skill. CORE is for those seeking deep Creative Commons expertise including those who lead and support others in applied use of Creative Commons. 
+Creative Commons CORE is a learning blueprint for acquiring comprehenive Creative Commons knowledge and skill. CORE is for those seeking deep Creative Commons expertise including those who lead and support others in applied use of Creative Commons.
+
 The comprehensive nature of CORE has breadth and depth. Breadth is defined by seven broad modules and their associated learning units. Depth is defined by learning objectives within each unit. CORE aims to be performance based with learning objectives fulfilled through applied use generating tangible evidence of capability. 
 
-All parts of CORE are Creative Commons licensed including the content, learning activities, and participant outputs. 
+CORE is Creative Commons licensed including the content, learning activities, and targeted participant outputs. 
 
 CORE is continuously created through remix of existing Open Educational Resources (OER) and participant creation of new OER. 
 
