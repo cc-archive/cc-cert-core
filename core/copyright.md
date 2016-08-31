@@ -2,7 +2,7 @@
 
 ![Five Units of Learning](https://github.com/creativecommons/cc-cert-map/blob/master/img/copyright.png "Copyright Basics")
 
-Creative Commons provides free, easy-to-use copyright licenses providing you with a simple and standardized way to give the public permission to share and use your creative work – on conditions of your choice. To full understand Creative Commons it's helpful to know some basics about copyright. The Creative Commons CORE Copyright Basics module has five units of learning:
+Creative Commons  free, easy-to-use copyright licenses provide a simple and standardized way to give permissions to share and use your creative work – on conditions of your choice. To fully understand Creative Commons it's helpful to know some basics about copyright. The Creative Commons CORE Copyright Basics module has five units of learning:
 
 1. Understand / Explain Copyright
 2. Differentiate Copyright from other Intellectual Property Rights
@@ -12,15 +12,13 @@ Creative Commons provides free, easy-to-use copyright licenses providing you wit
 
 ## Start Learning
 
-To help you learn about Copyright Basics we've structured each unit of learning into four parts:
+To help you learn about Copyright Basics we've structured each unit of learning into three parts:
 
 1. A set of learning objectives
 
 2. Learning resources related to those objectives
 
-3. Learning activities, and 
-
-4. Assessments and or evidence you need to generate to demonstrate you've accomplished the learning.
+3. Learning activities / assessments that ask you to apply the learning to your own context and generate evidence demonstrating you've accomplished the learning.
 
 Get started with your learning now. You'll find everything you need below.
 
@@ -45,13 +43,9 @@ Get started with your learning now. You'll find everything you need below.
   *  [Resource 1](http://) (Publisher) Description
   *  [Resource 2](http://) (Publisher) Description
 
-3. Learning activities (Learn, Do, Act, Reflect) are:
-  * Activity 1
-  * Activity 2
-
-4. Assessment / evidence you must provide to show successful completion is:
-  * Assessment 1
-  * Assessment 2
+3. Learning activities / assessments are:
+  * Activity / Assessment 1
+  * Activity / Assessment 2
 
 ### Differentiate Copyright from other forms of Intellectual Property Rights
 
