@@ -4,7 +4,7 @@ Creative Commons CORE is a learning blueprint for acquiring comprehenive Creativ
 
 CORE is for those seeking deep Creative Commons expertise, including those who lead and support others in use of Creative Commons.
 
-The comprehensive nature of CORE is shown through breadth and depth. CORE breadth is conveyed through seven modules and their associated learning units. Depth is defined by learning objectives within each unit. CORE aims to be performance based with learning objectives fulfilled through applied use generating tangible evidence of capability. 
+The comprehensive nature of CORE is shown through breadth and depth. CORE breadth is conveyed through seven modules and their associated learning units. Depth is defined by learning objectives within each unit. CORE emphasizes performance based learning with learning objectives fulfilled through applied use generating tangible evidence of capability. 
 
 CORE is Creative Commons licensed including the content, learning activities, and targeted participant outputs. 
 
