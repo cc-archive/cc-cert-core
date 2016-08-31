@@ -34,16 +34,13 @@ Optional modules provide participants with the opportunity to gain deeper knowle
 ## CORE Modules
 CORE can be visualized as a set of modules that fit together like this:
 
-![Copyright Basics, The Commons, CC Licenses, and Social/Cultural Implementation](img/core-four.jpg "Four Required Modules")
-
-plus one of
-
-![Legal, Technical, or International Implementation](img/core-plus.jpg "Three Optional Modules")
+![The Commons, Copyright Basics, Creative Commons Licenses, Social/Cultural Implementation, Legal, Technical, or International Implementation](img/COREModules.jpg "CORE Modules")
 
 
 ## CORE Module Units of Learning
 
-The pale grey lines in the diagram divide each CORE module into units of learning. CORE units of learning across all modules are:
+The pale grey lines in the diagram divide each CORE module into units of learning. 
+CORE units of learning across all modules are:
 ![Expanded details of core module](img/core-expanded.jpg "Each CORE module breaks down further into units of learning")
 
 
