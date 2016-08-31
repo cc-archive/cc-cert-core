@@ -47,7 +47,7 @@ Start with the one that interests you the most.
   * Describe copyright infringement penalties
   * Give examples of what copyright restricts
 
-2. Learning resources (existing reusable OER) to be used in fulfilling these objectives are:
+2. Existing Open Educational Resources to be used in fulfilling these objectives are:
   *  [Resource 1](http://) (Publisher) Description
   *  [Resource 2](http://) (Publisher) Description
 
