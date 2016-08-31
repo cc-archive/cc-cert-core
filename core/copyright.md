@@ -31,7 +31,6 @@ Start with the one that interests you the most.
 **Unit #1**
 
 ![Understand Explain Copyright](https://github.com/creativecommons/cc-cert-map/blob/master/img/ExplainCopyright4.jpg "Understand / Explain Copyright")
-### Understand / Explain Copyright 
 
 1. Learning Objectives
   * Trace basic history of copyright
