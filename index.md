@@ -1,10 +1,19 @@
 # Introduction to Creative Commons CORE
 
-Creative Commons CORE is a learning blueprint for acquiring comprehenive Creative Commons knowledge and skill. 
+CORE is a learning blueprint for acquiring comprehenive Creative Commons knowledge and skill. 
 
-CORE is for those seeking deep Creative Commons expertise, including those who lead and support others in use of Creative Commons.
+CORE is for those seeking deep Creative Commons expertise. CORE is for those inovled in intensive use of Creative Commons and those who lead and support use of Creative Commons by others.
 
-The comprehensive nature of CORE is shown through breadth and depth. CORE breadth is conveyed through seven modules and their associated learning units. Depth is defined by learning objectives within each unit. CORE emphasizes performance based learning with learning objectives fulfilled through applied use generating tangible evidence of capability. 
+The comprehensive nature of CORE is shown through breadth and depth. Breadth is found in CORE's seven modules and their associated learning units. The seven modules are:
+  * [The Commons](core/commons.md)
+  * [Copyright Basics](core/copyright.md)
+  * [Creative Commons License Suite](core/licenses.md)
+  * [Social/Cultural Implementation](core/social-cultural.md)
+  * [Legal Implementation](core/legal.md)
+  * [Technical Implementation](core/technical.md)
+  * [International Implementation](core/international.md)
+
+Depth is defined by learning objectives within each unit. CORE emphasizes performance based learning with learning objectives fulfilled through applied use generating tangible evidence of capability. 
 
 CORE is Creative Commons licensed including the content, learning activities, and targeted participant outputs. 
 
@@ -12,7 +21,7 @@ CORE is continuously created through remix of existing Open Educational Resource
 
 Creative Commons is a curator of CORE rather than sole creator of CORE. 
 
-CORE learning activities are oriented toward applied use with participants demonstrating acquisition of knowledge and skills through personal action and use.  
+CORE learning activities are oriented toward applied use with participants demonstrating acquisition of knowledge and skills through personal action and use.
 
 CORE is foundational curricula from which specialized Creative Commons certificates can be built. 
 
