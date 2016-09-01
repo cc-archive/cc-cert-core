@@ -6,7 +6,7 @@ The Creative Commons copyright licenses offer flexible options still within copy
 
 All Creative Commons licenses helps creators retain their copyright while permitting others to copy, distribute, and make some uses of their work. Every Creative Commons license also ensures licensors get the credit for their work they deserve.  Creative Commons license works around the world and lasts as long as applicable copyright lasts.
 
-The Creative Commons CORE License Suite module has six units of learning:
+The Creative Commons License Suite module has six units of learning:
 
 1. How licenses work with respect to copyright
 2. License differences
@@ -15,23 +15,25 @@ The Creative Commons CORE License Suite module has six units of learning:
 5. Remixing different CC licensed works
 6. Legal Precedence
 
-## Start Learning
+## Learning Experience
 
-To help you learn about Copyright Basics we've structured each unit of learning into four parts:
+To help you learn The Commons each unit of learning has:
 
 1. A set of learning objectives
 
-2. Learning resources related to those objectives
+2. Open Educational Resources for you to use in fulfilling those objectives
 
-3. Learning activities, and 
+3. Learning activities / assessments that ask you to apply the learning to your own context and generate evidence demonstrating you've accomplished the learning. 
 
-4. Assessments and or evidence you need to generate to demonstrate you've accomplished the learning.
+Learning units have been sequenced to have a logical flow but you can take them in any order. Start with the one that interests you the most.
 
-Get started with your learning now. You'll find everything you need below.
+## Start Learning
 
-### How licenses work with respect to copyright
+### Unit #1: How Licenses Work with Copyright
 
-1. Learning Objectives
+![How Licenses Work with Copyright](https://github.com/creativecommons/cc-cert-map/blob/master/img/HowLicensesWork.jpg "How Licenses Work with Copyright")
+
+**Learning Objectives**
   * Explain how CC relates/interacts with copyright
   * Understand license scope and intent of licenses
   * List what content licenses can/should be used for
@@ -67,9 +69,11 @@ Get started with your learning now. You'll find everything you need below.
   * Assessment 1
   * Assessment 2
   
-### License differences  
+### Unit #2: License Differences
 
-1. Learning Objectives
+![License Differences](https://github.com/creativecommons/cc-cert-map/blob/master/img/LicenseDifferences.jpg "License Differences")
+
+**Learning Objectives** 
   * Explain CC license suite
   * Explain/describe license elements
   * Differentiate meaning of different CC icons
@@ -95,9 +99,11 @@ Get started with your learning now. You'll find everything you need below.
   * Assessment 2
 
 
-### Examples of license uses
+### Unit #3: Examples of License Uses
 
-1. Learning Objectives
+![Examples of License Uses](https://github.com/creativecommons/cc-cert-map/blob/master/img/ExamplesofLicense.jpg "Examples of License Uses")
+
+**Learning Objectives** 
   * Give examples of licenses applied for different uses, intentions
   * Evaluate CC license choice for various projects/content
   * Which CC licenses are acceptable to x community
@@ -115,9 +121,11 @@ Get started with your learning now. You'll find everything you need below.
   * Assessment 1
   * Assessment 2
 
-### Difference Between CC0 vs Public Domain Mark
+### Unit #4: Difference between CC0 and PDM
 
-1. Learning Objectives
+![Difference between CC0 and PDM](https://github.com/creativecommons/cc-cert-map/blob/master/img/CC0PDM.jpg "Difference between CC0 and PDM")
+
+**Learning Objectives** 
   * Differentiate between CC0 and PDM 
   * Understand when to use CC0 vs PDM
 
@@ -135,9 +143,11 @@ Get started with your learning now. You'll find everything you need below.
 
   
   
-### Remixing different CC licensed works
+### Unit #5: Remix Different Creative Commons Licensed Works
 
-1. Learning Objectives
+![Remix Different Creative Commons Licensed Works](https://github.com/creativecommons/cc-cert-map/blob/master/img/Remix.jpg "Remix Different Creative Commons Licensed Works")
+
+**Learning Objectives** 
   * Compare compatibility between licenses
   * Determine license compatibility/interoperability
   * Avoid license incompatibility
@@ -158,14 +168,13 @@ Get started with your learning now. You'll find everything you need below.
   * Assessment 2
   
   
-### Legal Precedence
-  * Describe CC case law (licenses have never lost)
-  * Solve a license dispute (non-legally)
+### Unit #6: Legal Precedence
 
-  
-1. Learning Objectives
-  * Differentiate between CC0 and PDM 
-  * Understand when to use CC0 vs PDM
+![Legal Precedence](https://github.com/creativecommons/cc-cert-map/blob/master/img/LegalPrecedence.jpg "Legal Precedence")
+
+**Learning Objectives**
+  * Describe Creative Commons case law (licenses have never lost)
+  * Solve a license dispute (non-legally)
   
 2. Learning resources (existing reusable OER) to be used in fulfilling these objectives are:
   *  [Resource 1](http://) (Publisher) Description
