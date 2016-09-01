@@ -48,6 +48,16 @@ Learning units have been sequenced to have a logical flow but you can take them 
   * Facilitate connections between users and creators
   * Convince X to use / adopt Creative Commons
   * Educate users
+  
+  **Existing Open Educational Resources** to be used in fulfilling these objectives are:
+  *  [Resource 1](http://) (Publisher) Description
+  *  [Resource 2](http://) (Publisher) Description
+
+**Learning activities / assessments** are:
+  * Activity / Assessment 1
+  * Activity / Assessment 2
+
+---
    
 ### Unit #2: Create Plan to Shift _____ to Open
 
@@ -62,6 +72,16 @@ Learning units have been sequenced to have a logical flow but you can take them 
   * Anticipate social implications in future
   * Construct a licensing / policy procedure
   
+**Existing Open Educational Resources** to be used in fulfilling these objectives are:
+  *  [Resource 1](http://) (Publisher) Description
+  *  [Resource 2](http://) (Publisher) Description
+
+**Learning activities / assessments** are:
+  * Activity / Assessment 1
+  * Activity / Assessment 2
+
+---
+
 ### Unit #3: Design a Campaign to Support Shift to Open
 
 ![Design a Campaign to Support Shift to Open](https://github.com/creativecommons/cc-cert-map/blob/master/img/DesignCampaign.jpg "Design a Campaign to Support Shift to Open")
@@ -72,6 +92,15 @@ Learning units have been sequenced to have a logical flow but you can take them 
   * Be ready for last minute challenges to open
   * Understand language of protection vs. sharing
   
+**Existing Open Educational Resources** to be used in fulfilling these objectives are:
+  *  [Resource 1](http://) (Publisher) Description
+  *  [Resource 2](http://) (Publisher) Description
+
+**Learning activities / assessments** are:
+  * Activity / Assessment 1
+  * Activity / Assessment 2
+
+---
 
 ### Unit #4: Community Development
 
@@ -92,3 +121,10 @@ Learning units have been sequenced to have a logical flow but you can take them 
   * Leverage Creative Commons to engage users / community
   * Negotiate Creative Commons policy adoption
 
+**Existing Open Educational Resources** to be used in fulfilling these objectives are:
+  *  [Resource 1](http://) (Publisher) Description
+  *  [Resource 2](http://) (Publisher) Description
+
+**Learning activities / assessments** are:
+  * Activity / Assessment 1
+  * Activity / Assessment 2
