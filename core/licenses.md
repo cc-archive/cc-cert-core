@@ -57,17 +57,15 @@ Learning units have been sequenced to have a logical flow but you can take them 
   * Assess proper and improper implementations
   * Ensure license compatibility
 
-2. Learning resources (existing reusable OER) to be used in fulfilling these objectives are:
+**Existing Open Educational Resources** to be used in fulfilling these objectives are:
   *  [Resource 1](http://) (Publisher) Description
   *  [Resource 2](http://) (Publisher) Description
 
-3. Learning activities (Learn, Do, Act, Reflect) are:
-  * Activity 1
-  * Activity 2
+**Learning activities / assessments** are:
+  * Activity / Assessment 1
+  * Activity / Assessment 2
 
-4. Assessment / evidence you must provide to show successful completion is:
-  * Assessment 1
-  * Assessment 2
+---
   
 ### Unit #2: License Differences
 
@@ -86,17 +84,15 @@ Learning units have been sequenced to have a logical flow but you can take them 
   * Propose ideal attribution
   * Demonstrate understanding of recommendation to use the most current version of license
 
-2. Learning resources (existing reusable OER) to be used in fulfilling these objectives are:
+**Existing Open Educational Resources** to be used in fulfilling these objectives are:
   *  [Resource 1](http://) (Publisher) Description
   *  [Resource 2](http://) (Publisher) Description
 
-3. Learning activities (Learn, Do, Act, Reflect) are:
-  * Activity 1
-  * Activity 2
+**Learning activities / assessments** are:
+  * Activity / Assessment 1
+  * Activity / Assessment 2
 
-4. Assessment / evidence you must provide to show successful completion is:
-  * Assessment 1
-  * Assessment 2
+---
 
 
 ### Unit #3: Examples of License Uses
@@ -109,17 +105,15 @@ Learning units have been sequenced to have a logical flow but you can take them 
   * Which CC licenses are acceptable to x community
   * Assess which CC licenses maximize reuse/remix
   
-2. Learning resources (existing reusable OER) to be used in fulfilling these objectives are:
+**Existing Open Educational Resources** to be used in fulfilling these objectives are:
   *  [Resource 1](http://) (Publisher) Description
   *  [Resource 2](http://) (Publisher) Description
 
-3. Learning activities (Learn, Do, Act, Reflect) are:
-  * Activity 1
-  * Activity 2
+**Learning activities / assessments** are:
+  * Activity / Assessment 1
+  * Activity / Assessment 2
 
-4. Assessment / evidence you must provide to show successful completion is:
-  * Assessment 1
-  * Assessment 2
+---
 
 ### Unit #4: Difference between CC0 and PDM
 
@@ -129,18 +123,15 @@ Learning units have been sequenced to have a logical flow but you can take them 
   * Differentiate between CC0 and PDM 
   * Understand when to use CC0 vs PDM
 
-2. Learning resources (existing reusable OER) to be used in fulfilling these objectives are:
+**Existing Open Educational Resources** to be used in fulfilling these objectives are:
   *  [Resource 1](http://) (Publisher) Description
   *  [Resource 2](http://) (Publisher) Description
 
-3. Learning activities (Learn, Do, Act, Reflect) are:
-  * Activity 1
-  * Activity 2
+**Learning activities / assessments** are:
+  * Activity / Assessment 1
+  * Activity / Assessment 2
 
-4. Assessment / evidence you must provide to show successful completion is:
-  * Assessment 1
-  * Assessment 2
-
+---
   
   
 ### Unit #5: Remix Different Creative Commons Licensed Works
@@ -155,17 +146,15 @@ Learning units have been sequenced to have a logical flow but you can take them 
   * Understand license stacking
   * Non-CC license compatibility
 
-2. Learning resources (existing reusable OER) to be used in fulfilling these objectives are:
+**Existing Open Educational Resources** to be used in fulfilling these objectives are:
   *  [Resource 1](http://) (Publisher) Description
   *  [Resource 2](http://) (Publisher) Description
 
-3. Learning activities (Learn, Do, Act, Reflect) are:
-  * Activity 1
-  * Activity 2
+**Learning activities / assessments** are:
+  * Activity / Assessment 1
+  * Activity / Assessment 2
 
-4. Assessment / evidence you must provide to show successful completion is:
-  * Assessment 1
-  * Assessment 2
+---
   
   
 ### Unit #6: Legal Precedence
@@ -176,17 +165,13 @@ Learning units have been sequenced to have a logical flow but you can take them 
   * Describe Creative Commons case law (licenses have never lost)
   * Solve a license dispute (non-legally)
   
-2. Learning resources (existing reusable OER) to be used in fulfilling these objectives are:
+**Existing Open Educational Resources** to be used in fulfilling these objectives are:
   *  [Resource 1](http://) (Publisher) Description
   *  [Resource 2](http://) (Publisher) Description
 
-3. Learning activities (Learn, Do, Act, Reflect) are:
-  * Activity 1
-  * Activity 2
-
-4. Assessment / evidence you must provide to show successful completion is:
-  * Assessment 1
-  * Assessment 2
+**Learning activities / assessments** are:
+  * Activity / Assessment 1
+  * Activity / Assessment 2
   
 
 
