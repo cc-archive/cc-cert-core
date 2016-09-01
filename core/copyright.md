@@ -54,6 +54,7 @@ Learning units have been sequenced to have a logical flow but you can take them 
   * Activity / Assessment 2
 
 
+
 ### Unit #2: Differentiate Copyright from Other Intellectual Property (IP)
 
 ![Differentiate Copyright from Other IP](https://github.com/creativecommons/cc-cert-map/blob/master/img/DifferentiateIP.jpg "Differentiate Copyright from Other IP")
@@ -70,6 +71,7 @@ Learning units have been sequenced to have a logical flow but you can take them 
 **Learning activities / assessments** are:
   * Activity / Assessment 1
   * Activity / Assessment 2
+
 
 
 ### Unit #3: Understand Scope of Public Domain
@@ -89,6 +91,7 @@ Learning units have been sequenced to have a logical flow but you can take them 
   * Activity / Assessment 2
 
 
+
 ### Unit #4: Undersand Copyright Exceptions & Limitations
 
 ![Understand Exceptions & Limitations](https://github.com/creativecommons/cc-cert-map/blob/master/img/UnderstanExceptions2.jpg "Understand Exceptions & Limitations")
@@ -105,6 +108,7 @@ Learning units have been sequenced to have a logical flow but you can take them 
 **Learning activities / assessments** are:
   * Activity / Assessment 1
   * Activity / Assessment 2
+
 
 
 ### Unit #5: Global Copyright
