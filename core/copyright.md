@@ -4,7 +4,7 @@
 
 Creative Commons  free, easy-to-use, copyright licenses provide a simple, standardized way to give permissions to share and use creative work – under conditions the creator chooses. To fully understand Creative Commons it's helpful to know some basics about copyright. 
 
-As shown in the above diagram the Copyright Basics module has five units of learning:
+The Copyright Basics module introduces you to copyright through five units of learning:
 
 1. Understand / Explain Copyright
 2. Differentiate Copyright from other Intellectual Property Rights
