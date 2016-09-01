@@ -27,11 +27,9 @@ Learning units have been sequenced to have a logical flow but you can take them 
 
 ### Unit #1: Significance of the Commons
 
-![Understand Explain Copyright](https://github.com/creativecommons/cc-cert-map/blob/master/img/ExplainCopyright5.jpg "Understand / Explain Copyright")
+![Significance of the Commmons](https://github.com/creativecommons/cc-cert-map/blob/master/img/SignificanceofCommons.jpg "Significance of the Commmons")
 
-## Performance Objectives
-
-1. Discuss Significance of Commons
+**Learning Objectives**
   * Define the public domain/commons and its historical significance
   * Describe historical and ongoing enclosure of the commons
   * Specific threat to the commons via business models
@@ -41,15 +39,25 @@ Learning units have been sequenced to have a logical flow but you can take them 
   * Describe culture as a form of Commons
   * Evaluate whether something should be in the commons
   * Contrast the closed status quo vs open
-2.  Compare / Contrast Physical vs Digital Commons
+  
+### Unit #2: Compare / Contrast Physical vs Digital Commons
+
+![Compare / Contrast Physical vs Digital Commons](https://github.com/creativecommons/cc-cert-map/blob/master/img/CompareContrastCommons.jpg "Compare / Contrast Physical vs Digital Commons")
+
+**Learning Objectives**
   * Provide examples of physical and digital commons
   * Compare scarce (physical) vs. non-scarce (digital) resources
   * Explain non-rivalrous goods
   * Consider the Internet as a copying machine
   * Evaluate marginal cost of $0
   * Analyze copyright impact on resources
-3. Understand Commons Opportunity 
-  * Dramatize problem open licensing is solving/addressing, how it is an alternative to ©
+   
+### Unit #3: Understand Commons Opportunity
+
+![Understand Commons Opportunity](https://github.com/creativecommons/cc-cert-map/blob/master/img/UnderstandCommons.jpg "Understand Commons Opportunity")
+
+**Learning Objectives**
+  * Dramatize problem open licensing is solving/addressing, how it is an alternative to copyright
   * Illustrate where open licensing exists on spectrum between public domain & copyright
   * Demonstrate how copyright increases frictions
   * Understand takedown notices (DMCA / EUCD)
@@ -61,7 +69,12 @@ Learning units have been sequenced to have a logical flow but you can take them 
   * Define opportunities / benefits of collaborative peer production
   * Demonstrate benefits of access to knowledge
   * Understand difference between licensing, policy, and law reform
-4. Creative Commons
+  
+### Unit #4: Creative Commons
+
+![Creative Commons](https://github.com/creativecommons/cc-cert-map/blob/master/img/CreativeCommons.jpg "Creative Commons")
+
+**Learning Objectives**  
   * Explain why is it necessary as an organization, mission & vision, goals
   * Summarize the history of CC and the free culture movement
   * Evaluate impact of CC, examples of program work, where it is used
