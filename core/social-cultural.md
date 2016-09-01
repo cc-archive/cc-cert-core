@@ -1,10 +1,35 @@
-# Social/Cultural Implementation
+# Socio / Cultural Implementation
 
-Placeholder for introduction to this module. This will be what provides some context.
+![Socio / Cultural Implementation](https://github.com/creativecommons/cc-cert-map/blob/master/img/SocioCultural.jpg "Socio / Cultural Implementation")
 
-## Performance Objectives
+The Commons and use of Creative Commons both involve social and cultural norms and practices. This module helps you understand how to implement use of Creative Commons within a social and cultural context.
 
-1.  Vision How/If "Open" Model is Better Than Current Model
+The Socio / Cultural Implementation module has four units of learning:
+
+1. Vision How / If Open is Better than Current Model
+2. Create Plan to Shift ____ to Open
+3. Design a Campaign to Support 
+4. Community Development
+
+## Learning Experience
+
+To help you learn the ins and outs of Socio / Cultural Implementation each unit of learning has:
+
+1. A set of learning objectives
+
+2. Open Educational Resources for you to use in fulfilling those objectives
+
+3. Learning activities / assessments that ask you to apply the learning to your own context and generate evidence demonstrating you've accomplished the learning. 
+
+Learning units have been sequenced to have a logical flow but you can take them in any order. Start with the one that interests you the most.
+
+## Start Learning
+
+### Unit #1: Vision How/If "Open" Model is Better Than Current Model
+
+![Vision How/If "Open" Model is Better Than Current Model](https://github.com/creativecommons/cc-cert-map/blob/master/img/VisionOpen.jpg "Vision How/If "Open" Model is Better Than Current Model")
+
+**Learning Objectives**
   * Assess power structure
   * Analyze money flow
   * Criticise laws / processes that are antithetical to sharing / CC licensing
@@ -23,7 +48,12 @@ Placeholder for introduction to this module. This will be what provides some con
   * Facilitate connections between users and creators
   * Convince X to use / adopt CC
   * Educate users
-2.  Create Plan to Shift _____ to Open
+   
+### Unit #2: Create Plan to Shift _____ to Open
+
+![Create Plan to Shift _____ to Open](https://github.com/creativecommons/cc-cert-map/blob/master/img/PlantoShift.jpg "Create Plan to Shift _____ to Open")
+
+**Learning Objectives**
   * Accept incremental change
   * Describe how "open" is not the solution all of the time
   * Distinguish between the Long Play vs. Short Term Play
@@ -31,12 +61,23 @@ Placeholder for introduction to this module. This will be what provides some con
   * Predict applicability of CC X date from now
   * Anticipate social implications in future
   * Construct a licensing / policy procedure
-3.  Design a Campaign to Support Shift to Open
+  
+### Unit #3: Design a Campaign to Support Shift to Open
+
+![Design a Campaign to Support Shift to Open](https://github.com/creativecommons/cc-cert-map/blob/master/img/DesignCampaign.jpg "Design a Campaign to Support Shift to Open")
+
+**Learning Objectives**  
   * Develop CC elevator pitch for various audiences
   * Listen, acknowledge and integrate others' ideas into your open project
   * Be ready for last minute challenges to open
   * Understand language of protection vs. sharing
-4.  Propose a plan for community development in support of your campaign
+  
+
+### Unit #4: Community Development
+
+![Community Development](https://github.com/creativecommons/cc-cert-map/blob/master/img/DesignCampaign.jpg "Community Development")
+
+**Learning Objectives**  
   * Explain how to create a CC community
   * Examples of a CC community
   * Think about how to get buy-in from community
@@ -50,45 +91,4 @@ Placeholder for introduction to this module. This will be what provides some con
   * Integrate CC licensing descriptions wth community projects
   * Leverage CC to engage users / community
   * Negotiate CC policy adoption
-
-
-
-## Learn Social/Cultural Implementation
-
-Placeholder for background information, can be skipped for those with prior knowledge. Include readings, videos, etc that provide foundational understanding. Maybe indicate  1-2 required/suggested?? Possibly include discussion questions if used in workshop mode or for self reflection.
-
-### Reccommended Resources
-
-* [Title](http://) (Publisher) Description
-* [Title](http://) (Publisher) Description
-
-### More Resources
-
-* [Title](http://) (Publisher) Description
-* [Title](http://) (Publisher) Description
-* [Title](http://) (Publisher) Description
-* [Title](http://) (Publisher) Description
-
-
-## Do Social/Cultural Implementation
-
-Placeholder for hands on activities from an assignment-like bank. Maybe have 1 required/suggested and certain number / star value of recommended? Each produces some kind of URL referenced summary as evidence
-
-* Suggested Activity 1
-* Suggested Activity 2
-
-## Act on Social/Cultural Implementation
-
-Placeholder for optional suggestions to do public advocacy / act as a "defender of the commons"  -- e.g.  adding open media to Wikipedia, participating in Stack Exchange, asking/answering questions in twitter, commenting on article/blog post where topic discussed?
-
-* Suggestion 1 for Actions
-* Suggestion 2 for Actions
-
-## Reflect on Social/Cultural Implementation
-
-Writing prompts or discussion questions that could help an individual feel confident the have mastered this module
-
-* Possible prompt/question 1
-* Possible prompt/question 2
-* Possible prompt/question 3
 
