@@ -32,7 +32,7 @@ Learning units have been sequenced to have a logical flow but you can take them 
 **Learning Objectives**
   * Assess power structure
   * Analyze money flow
-  * Criticise laws / processes that are antithetical to sharing / CC licensing
+  * Criticise laws / processes that are antithetical to sharing / Creative Commons licensing
   * Champion open models that support community goals / strategies
   * Criticise inefficient systems
   * Reconceptualize incentives (change behavior)
@@ -44,9 +44,9 @@ Learning units have been sequenced to have a logical flow but you can take them 
   * Avoid being / seeming exploitative
   * Demonstrate value
   * Compare practical and ideological aspects of open
-  * Give examples of CC impact
+  * Give examples of Creative Commons impact
   * Facilitate connections between users and creators
-  * Convince X to use / adopt CC
+  * Convince X to use / adopt Creative Commons
   * Educate users
    
 ### Unit #2: Create Plan to Shift _____ to Open
@@ -58,7 +58,7 @@ Learning units have been sequenced to have a logical flow but you can take them 
   * Describe how "open" is not the solution all of the time
   * Distinguish between the Long Play vs. Short Term Play
   * Identify open licensing as means to fulfill goals / mission
-  * Predict applicability of CC X date from now
+  * Predict applicability of Creative Commons X date from now
   * Anticipate social implications in future
   * Construct a licensing / policy procedure
   
@@ -67,7 +67,7 @@ Learning units have been sequenced to have a logical flow but you can take them 
 ![Design a Campaign to Support Shift to Open](https://github.com/creativecommons/cc-cert-map/blob/master/img/DesignCampaign.jpg "Design a Campaign to Support Shift to Open")
 
 **Learning Objectives**  
-  * Develop CC elevator pitch for various audiences
+  * Develop Creative Commons elevator pitch for various audiences
   * Listen, acknowledge and integrate others' ideas into your open project
   * Be ready for last minute challenges to open
   * Understand language of protection vs. sharing
@@ -78,8 +78,8 @@ Learning units have been sequenced to have a logical flow but you can take them 
 ![Community Development](https://github.com/creativecommons/cc-cert-map/blob/master/img/CommunityDevelopment.jpg "Community Development")
 
 **Learning Objectives**  
-  * Explain how to create a CC community
-  * Examples of a CC community
+  * Explain how to create a Creative Commons community
+  * Examples of a Creative Commons community
   * Think about how to get buy-in from community
   * Explain value of open to community
   * Organize community of people who share your open goals
@@ -88,7 +88,7 @@ Learning units have been sequenced to have a logical flow but you can take them 
   * Apply values of organization to licensing process
   * Thank creators
   * Respect/adjust to community norms
-  * Integrate CC licensing descriptions wth community projects
-  * Leverage CC to engage users / community
-  * Negotiate CC policy adoption
+  * Integrate Creative Commons licensing descriptions wth community projects
+  * Leverage Creative Commons to engage users / community
+  * Negotiate Creative Commons policy adoption
 
