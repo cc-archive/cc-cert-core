@@ -1,6 +1,6 @@
 # Creative Commons Licenses
 
-![Six Units of Learning](https://github.com/creativecommons/cc-cert-map/blob/master/img/cc-licenses-bricks.jpg "Creative Commons License Suite Units")
+![Creative Commons Licenses](https://github.com/creativecommons/cc-cert-map/blob/master/img/CCLicenses.jpg "Creative Commons License Suite Units")
 
 The Creative Commons copyright licenses offer flexible options still within copyright law's “all rights reserved” setting. "Our tools give everyone from individual creators to large companies and institutions a simple, standardized way to grant copyright permissions to their creative work."
 
