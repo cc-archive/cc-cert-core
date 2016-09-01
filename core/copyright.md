@@ -28,7 +28,7 @@ Learning units have been sequenced to have a logical flow but you can take them 
 
 ### Unit #1
 
-![Understand Explain Copyright](https://github.com/creativecommons/cc-cert-map/blob/master/img/ExplainCopyright5.jpg "Understand / Explain Copyright")
+![Understand Explain Copyright](https://github.com/creativecommons/cc-cert-map/blob/master/img/ExplainCopyright6.jpg "Understand / Explain Copyright")
 
 **Learning Objectives**
   * Trace basic history of copyright
