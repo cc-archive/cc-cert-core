@@ -57,7 +57,7 @@ Learning units have been sequenced to have a logical flow but you can take them 
 
 ![Differentiate Copyright from Other IP](https://github.com/creativecommons/cc-cert-map/blob/master/img/DifferentiateCopyright.jpg "Differentiate Copyright from Other IP")
 
-**Learning Objectives
+**Learning Objectives**
   * Differentiate between copyright and patent
   * Differentiate between copyright and trademark
   * Differentiate between copyright and trade secret 
@@ -74,7 +74,7 @@ Learning units have been sequenced to have a logical flow but you can take them 
 
 ![Understand Scope of Public Domain](https://github.com/creativecommons/cc-cert-map/blob/master/img/UnderstandPublicDomain.jpg "Understand Scope of Public Domain")
 
-**Learning Objectives
+**Learning Objectives**
   * Explain public domain
   * Communicate value proposition of the public domain  
   
@@ -90,7 +90,7 @@ Learning units have been sequenced to have a logical flow but you can take them 
 
 ![Understand Exceptions & Limitations](https://github.com/creativecommons/cc-cert-map/blob/master/img/UnderstandExceptions.jpg "Understand Exceptions & Limitations")
 
-**Learning objectives
+**Learning objectives**
   * Evaluate the application of fair use / fair dealing
   * Differentiate examples of fair use versus licensing
   * Illustrate fair use 
@@ -107,7 +107,7 @@ Learning units have been sequenced to have a logical flow but you can take them 
 
 ![Global Copyright](https://github.com/creativecommons/cc-cert-map/blob/master/img/GlobalCopyright.jpg "Global Copyright")
 
-**Learning Objectives
+**Learning Objectives**
   * Give examples of international copyright baselines (e.g. Berne)
   * Understand local copyright
 
