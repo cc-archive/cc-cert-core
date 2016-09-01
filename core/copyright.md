@@ -53,7 +53,7 @@ Learning units have been sequenced to have a logical flow but you can take them 
   * Activity / Assessment 1
   * Activity / Assessment 2
 
-
+---
 
 ### Unit #2: Differentiate Copyright from Other Intellectual Property (IP)
 
@@ -72,7 +72,7 @@ Learning units have been sequenced to have a logical flow but you can take them 
   * Activity / Assessment 1
   * Activity / Assessment 2
 
-
+---
 
 ### Unit #3: Understand Scope of Public Domain
 
@@ -90,7 +90,7 @@ Learning units have been sequenced to have a logical flow but you can take them 
   * Activity / Assessment 1
   * Activity / Assessment 2
 
-
+---
 
 ### Unit #4: Undersand Copyright Exceptions & Limitations
 
@@ -109,7 +109,7 @@ Learning units have been sequenced to have a logical flow but you can take them 
   * Activity / Assessment 1
   * Activity / Assessment 2
 
-
+---
 
 ### Unit #5: Global Copyright
 
