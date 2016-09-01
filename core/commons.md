@@ -25,7 +25,9 @@ Learning units have been sequenced to have a logical flow but you can take them 
 
 ## Start Learning
 
-Placeholder for introduction to this module. This will be what provides some context.
+### Unit #1: Significance of the Commons
+
+![Understand Explain Copyright](https://github.com/creativecommons/cc-cert-map/blob/master/img/ExplainCopyright5.jpg "Understand / Explain Copyright")
 
 ## Performance Objectives
 
