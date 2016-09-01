@@ -51,7 +51,7 @@ Learning units have been sequenced to have a logical flow but you can take them 
    
 ### Unit #2: Create Plan to Shift _____ to Open
 
-![Create Plan to Shift _____ to Open](https://github.com/creativecommons/cc-cert-map/blob/master/img/PlantoShift.jpg "Create Plan to Shift _____ to Open")
+![Create Plan to Shift _____ to Open](https://github.com/creativecommons/cc-cert-map/blob/master/img/PlanToShift.jpg "Create Plan to Shift _____ to Open")
 
 **Learning Objectives**
   * Accept incremental change
@@ -75,7 +75,7 @@ Learning units have been sequenced to have a logical flow but you can take them 
 
 ### Unit #4: Community Development
 
-![Community Development](https://github.com/creativecommons/cc-cert-map/blob/master/img/DesignCampaign.jpg "Community Development")
+![Community Development](https://github.com/creativecommons/cc-cert-map/blob/master/img/CommunityDevelopment.jpg "Community Development")
 
 **Learning Objectives**  
   * Explain how to create a CC community
