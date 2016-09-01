@@ -53,77 +53,69 @@ Learning units have been sequenced to have a logical flow but you can take them 
   * Activity / Assessment 1
   * Activity / Assessment 2
 
-### Differentiate Copyright from other forms of Intellectual Property Rights
+### Unit #2
 
-1. Learning Objectives
+![Differentiate Copyright from Other IP](https://github.com/creativecommons/cc-cert-map/blob/master/img/DifferentiateCopyright.jpg "Differentiate Copyright from Other IP")
+
+**Learning Objectives
   * Differentiate between copyright and patent
   * Differentiate between copyright and trademark
   * Differentiate between copyright and trade secret 
 
-2. Learning resources (existing reusable OER) to be used in fulfilling these objectives are:
+**Existing Open Educational Resources** to be used in fulfilling these objectives are:
   *  [Resource 1](http://) (Publisher) Description
   *  [Resource 2](http://) (Publisher) Description
 
-3. Learning activities (Learn, Do, Act, Reflect) are:
-  * Activity 1
-  * Activity 2
+**Learning activities / assessments** are:
+  * Activity / Assessment 1
+  * Activity / Assessment 2
 
-4. Assessment / evidence you must provide to show successful completion is:
-  * Assessment 1
-  * Assessment 2
+### Unit #3
 
-### Understand Scope of Public Domain
+![Understand Scope of Public Domain](https://github.com/creativecommons/cc-cert-map/blob/master/img/UnderstandPublicDomain.jpg "Understand Scope of Public Domain")
 
-1. Learning Objectives
+**Learning Objectives
   * Explain public domain
   * Communicate value proposition of the public domain  
   
-2. Learning resources (existing reusable OER) to be used in fulfilling these objectives are:
+**Existing Open Educational Resources** to be used in fulfilling these objectives are:
   *  [Resource 1](http://) (Publisher) Description
   *  [Resource 2](http://) (Publisher) Description
 
-3. Learning activities (Learn, Do, Act, Reflect) are:
-  * Activity 1
-  * Activity 2
+**Learning activities / assessments** are:
+  * Activity / Assessment 1
+  * Activity / Assessment 2
 
-4. Assessment / evidence you must provide to show successful completion is:
-  * Assessment 1
-  * Assessment 2
+### Unit #4
 
-### Understand exceptions and limitations of copyright
+![Understand Exceptions & Limitations](https://github.com/creativecommons/cc-cert-map/blob/master/img/UnderstandExceptions.jpg "Understand Exceptions & Limitations")
 
-1. Learning objectives
+**Learning objectives
   * Evaluate the application of fair use / fair dealing
   * Differentiate examples of fair use versus licensing
   * Illustrate fair use 
   
-2. Learning resources (existing reusable OER) to be used in fulfilling these objectives are:
+**Existing Open Educational Resources** to be used in fulfilling these objectives are:
   *  [Resource 1](http://) (Publisher) Description
   *  [Resource 2](http://) (Publisher) Description
 
-3. Learning activities (Learn, Do, Act, Reflect) are:
-  * Activity 1
-  * Activity 2
+**Learning activities / assessments** are:
+  * Activity / Assessment 1
+  * Activity / Assessment 2
 
-4. Assessment / evidence you must provide to show successful completion is:
-  * Assessment 1
-  * Assessment 2
+### Unit #5
 
-### Distinguish Baselines and Differences in Global Copyright
+![Global Copyright](https://github.com/creativecommons/cc-cert-map/blob/master/img/GlobalCopyright.jpg "Global Copyright")
 
-1. Learning Objectives
+**Learning Objectives
   * Give examples of international copyright baselines (e.g. Berne)
   * Understand local copyright
 
-2. Learning resources (existing reusable OER) to be used in fulfilling these objectives are:
+**Existing Open Educational Resources** to be used in fulfilling these objectives are:
   *  [Resource 1](http://) (Publisher) Description
   *  [Resource 2](http://) (Publisher) Description
 
-3. Learning activities (Learn, Do, Act, Reflect) are:
-  * Activity 1
-  * Activity 2
-
-4. Assessment / evidence you must provide to show successful completion is:
-  * Assessment 1
-  * Assessment 2
+**Learning activities / assessments** are:
+  * Activity / Assessment 1
+  * Activity / Assessment 2
 
