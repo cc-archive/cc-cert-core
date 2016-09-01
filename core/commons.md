@@ -40,6 +40,16 @@ Learning units have been sequenced to have a logical flow but you can take them 
   * Evaluate whether something should be in the commons
   * Contrast the closed status quo vs open
   
+**Existing Open Educational Resources** to be used in fulfilling these objectives are:
+  *  [Resource 1](http://) (Publisher) Description
+  *  [Resource 2](http://) (Publisher) Description
+
+**Learning activities / assessments** are:
+  * Activity / Assessment 1
+  * Activity / Assessment 2
+
+---
+
 ### Unit #2: Compare / Contrast Physical vs Digital Commons
 
 ![Compare / Contrast Physical vs Digital Commons](https://github.com/creativecommons/cc-cert-map/blob/master/img/CompareContrastCommons.jpg "Compare / Contrast Physical vs Digital Commons")
@@ -52,6 +62,16 @@ Learning units have been sequenced to have a logical flow but you can take them 
   * Evaluate marginal cost of $0
   * Analyze copyright impact on resources
    
+**Existing Open Educational Resources** to be used in fulfilling these objectives are:
+  *  [Resource 1](http://) (Publisher) Description
+  *  [Resource 2](http://) (Publisher) Description
+
+**Learning activities / assessments** are:
+  * Activity / Assessment 1
+  * Activity / Assessment 2
+
+---
+
 ### Unit #3: Understand Commons Opportunity
 
 ![Understand Commons Opportunity](https://github.com/creativecommons/cc-cert-map/blob/master/img/UnderstandCommons.jpg "Understand Commons Opportunity")
@@ -70,6 +90,16 @@ Learning units have been sequenced to have a logical flow but you can take them 
   * Demonstrate benefits of access to knowledge
   * Understand difference between licensing, policy, and law reform
   
+**Existing Open Educational Resources** to be used in fulfilling these objectives are:
+  *  [Resource 1](http://) (Publisher) Description
+  *  [Resource 2](http://) (Publisher) Description
+
+**Learning activities / assessments** are:
+  * Activity / Assessment 1
+  * Activity / Assessment 2
+
+---
+
 ### Unit #4: Creative Commons
 
 ![Creative Commons](https://github.com/creativecommons/cc-cert-map/blob/master/img/CreativeCommons.jpg "Creative Commons")
@@ -87,43 +117,12 @@ Learning units have been sequenced to have a logical flow but you can take them 
   * Explain how to get involved, communicate with CC
   * Describe how CC licenses are global standard
 
+**Existing Open Educational Resources** to be used in fulfilling these objectives are:
+  *  [Resource 1](http://) (Publisher) Description
+  *  [Resource 2](http://) (Publisher) Description
 
-## Learn The Commons
+**Learning activities / assessments** are:
+  * Activity / Assessment 1
+  * Activity / Assessment 2
 
-Placeholder for background information, can be skipped for those with prior knowledge. Include readings, videos, etc that provide foundational understanding. Maybe indicate  1-2 required/suggested?? Possibly include discussion questions if used in workshop mode or for self reflection.
-
-### Reccommended Resources
-
-* [Title](http://) (Publisher) Description
-* [Title](http://) (Publisher) Description
-
-### More Resources
-
-* [Title](http://) (Publisher) Description
-* [Title](http://) (Publisher) Description
-* [Title](http://) (Publisher) Description
-* [Title](http://) (Publisher) Description
-
-
-## Do The Commons
-
-Placeholder for hands on activities from an assignment-like bank. Maybe have 1 required/suggested and certain number / star value of recommended? Each produces some kind of URL referenced summary as evidence
-
-* Suggested Activity 1
-* Suggested Activity 2
-
-## Act on The Commons
-
-Placeholder for optional suggestions to do public advocacy / act as a "defender of the commons"  -- e.g.  adding open media to Wikipedia, participating in Stack Exchange, asking/answering questions in twitter, commenting on article/blog post where topic discussed?
-
-* Suggestion 1 for Actions
-* Suggestion 2 for Actions
-
-## Reflect on The Commons
-
-Writing prompts or discussion questions that could help an individual feel confident the have mastered this module
-
-* Possible prompt/question 1
-* Possible prompt/question 2
-* Possible prompt/question 3
 
