@@ -1,4 +1,4 @@
-# Creative Commons License Suite
+# Creative Commons Licenses
 
 ![Six Units of Learning](https://github.com/creativecommons/cc-cert-map/blob/master/img/cc-licenses-bricks.jpg "Creative Commons License Suite Units")
 
@@ -6,7 +6,7 @@ The Creative Commons copyright licenses offer flexible options still within copy
 
 All Creative Commons licenses helps creators retain their copyright while permitting others to copy, distribute, and make some uses of their work. Every Creative Commons license also ensures licensors get the credit for their work they deserve.  Creative Commons license works around the world and lasts as long as applicable copyright lasts.
 
-The Creative Commons License Suite module has six units of learning:
+The Creative Commons Licenses module has six units of learning:
 
 1. How licenses work with respect to copyright
 2. License differences
