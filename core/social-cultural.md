@@ -49,7 +49,7 @@ Learning units have been sequenced to have a logical flow but you can take them 
   * Convince X to use / adopt Creative Commons
   * Educate users
   
-  **Existing Open Educational Resources** to be used in fulfilling these objectives are:
+**Existing Open Educational Resources** to be used in fulfilling these objectives are:
   *  [Resource 1](http://) (Publisher) Description
   *  [Resource 2](http://) (Publisher) Description
 
