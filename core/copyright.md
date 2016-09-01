@@ -26,7 +26,7 @@ Learning units have been sequenced to have a logical flow but you can take them 
 
 ## Start Learning
 
-### Unit #1
+### Unit #1 Understand / Explain Copyright
 
 ![Understand Explain Copyright](https://github.com/creativecommons/cc-cert-map/blob/master/img/ExplainCopyright6.jpg "Understand / Explain Copyright")
 
