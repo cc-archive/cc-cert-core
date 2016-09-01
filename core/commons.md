@@ -105,17 +105,17 @@ Learning units have been sequenced to have a logical flow but you can take them 
 ![Creative Commons](https://github.com/creativecommons/cc-cert-map/blob/master/img/CreativeCommons.jpg "Creative Commons")
 
 **Learning Objectives**  
-  * Explain why is it necessary as an organization, mission & vision, goals
-  * Summarize the history of CC and the free culture movement
-  * Evaluate impact of CC, examples of program work, where it is used
-  * Locate CC in relationship to like organizations
+  * Explain why Creative Commons is necessary as an organization, mission & vision, goals
+  * Summarize the history of Creative Commons and the free culture movement
+  * Evaluate impact of Creative Commons, examples of program work, where it is used
+  * Locate Creative Commons in relationship to like organizations
   * Explain non profit status
   * Identify major initiatives, programs
-  * Explain, demonstrate CC resources and materials (including License Chooser, FAQ, and wiki)
+  * Explain, demonstrate Creative Commons resources and materials (including License Chooser, FAQ, and wiki)
   * Describe affiliate/community structures
   * Identify future plans for organization
-  * Explain how to get involved, communicate with CC
-  * Describe how CC licenses are global standard
+  * Explain how to get involved, communicate with Creative Commons
+  * Describe how Creative Commons licenses are global standard
 
 **Existing Open Educational Resources** to be used in fulfilling these objectives are:
   *  [Resource 1](http://) (Publisher) Description
