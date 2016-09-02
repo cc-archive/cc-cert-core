@@ -49,7 +49,17 @@ Learning units have been sequenced to have a logical flow but you can take them 
   * Upgrade to later version of license
   * Explain time length of license (perpetual)
   * Recommend the best license for a given scenario
-  
+    
+**Existing Open Educational Resources** to be used in fulfilling these objectives are:
+  *  [Resource 1](http://) (Publisher) Description
+  *  [Resource 2](http://) (Publisher) Description
+
+**Learning activities / assessments** are:
+  * Activity / Assessment 1
+  * Activity / Assessment 2
+
+---
+
 ### Unit #2: Clause Language
 
 ![Clause Language](https://github.com/creativecommons/cc-cert-map/blob/master/img/ClauseLanguage.jpg "Clause Language")
@@ -62,6 +72,16 @@ Learning units have been sequenced to have a logical flow but you can take them 
   * Explain how to grant additional permissions (CC+)
   * Demonstrate selling of extra permissions
   * Develop strategies for parallel distribution (e.g. CD / digital releases)
+  
+**Existing Open Educational Resources** to be used in fulfilling these objectives are:
+  *  [Resource 1](http://) (Publisher) Description
+  *  [Resource 2](http://) (Publisher) Description
+
+**Learning activities / assessments** are:
+  * Activity / Assessment 1
+  * Activity / Assessment 2
+
+---
 
 ### Unit #3: Proper Marking
 
@@ -73,6 +93,16 @@ Learning units have been sequenced to have a logical flow but you can take them 
   * Distinguish ideal from sufficient license adoption/implementation
   * Develop minimal written requirements for legal operability e.g., link
   
+**Existing Open Educational Resources** to be used in fulfilling these objectives are:
+  *  [Resource 1](http://) (Publisher) Description
+  *  [Resource 2](http://) (Publisher) Description
+
+**Learning activities / assessments** are:
+  * Activity / Assessment 1
+  * Activity / Assessment 2
+
+---
+
 ### Unit #4: Commercial Adaptations
 
 ![Commercial Adaptations](https://github.com/creativecommons/cc-cert-map/blob/master/img/CommercialAdaptations.jpg "Commercial Adaptations")
@@ -87,6 +117,16 @@ Learning units have been sequenced to have a logical flow but you can take them 
   * Describe methods of incorporating third party works with licensed works
   * Conduct a rights clearance process
   
+**Existing Open Educational Resources** to be used in fulfilling these objectives are:
+  *  [Resource 1](http://) (Publisher) Description
+  *  [Resource 2](http://) (Publisher) Description
+
+**Learning activities / assessments** are:
+  * Activity / Assessment 1
+  * Activity / Assessment 2
+
+---
+
 ### Unit #5: Where Copyright is Not Implicated
 
 ![Where Copyright is Not Implicated](https://github.com/creativecommons/cc-cert-map/blob/master/img/CopyrightNotImplicated.jpg "Where Copyright is Not Implicated")
@@ -99,13 +139,33 @@ Learning units have been sequenced to have a logical flow but you can take them 
   * Evaluate relationships to non-copyright rights
   * Explain implications of CC licenses to privacy rights
   
+**Existing Open Educational Resources** to be used in fulfilling these objectives are:
+  *  [Resource 1](http://) (Publisher) Description
+  *  [Resource 2](http://) (Publisher) Description
+
+**Learning activities / assessments** are:
+  * Activity / Assessment 1
+  * Activity / Assessment 2
+
+---
+
 ### Unit #6: Relationship to Non-Copyright Rights
 
 ![Relationship to Non-Copyright Rights](https://github.com/creativecommons/cc-cert-map/blob/master/img/RelationshipToNonC.jpg "Relationship to Non-Copyright Rights")
 
 **Learning Objectives**  
   * Explain implications of CC licenses to privacy rights
- 
+  
+**Existing Open Educational Resources** to be used in fulfilling these objectives are:
+  *  [Resource 1](http://) (Publisher) Description
+  *  [Resource 2](http://) (Publisher) Description
+
+**Learning activities / assessments** are:
+  * Activity / Assessment 1
+  * Activity / Assessment 2
+
+---
+
 ### Unit #7: Response to License Violations
 
 ![Response to License Violations](https://github.com/creativecommons/cc-cert-map/blob/master/img/ResponseToViolations.jpg "Response to License Violations")
@@ -114,6 +174,16 @@ Learning units have been sequenced to have a logical flow but you can take them 
   * Facilitate non-legal resolutions to disagreements
   * Develop strategies for international collaboration where rights differ
   
+**Existing Open Educational Resources** to be used in fulfilling these objectives are:
+  *  [Resource 1](http://) (Publisher) Description
+  *  [Resource 2](http://) (Publisher) Description
+
+**Learning activities / assessments** are:
+  * Activity / Assessment 1
+  * Activity / Assessment 2
+
+---
+
 ### Unit #8: Formulate Open Policies
 
 ![Formulate Open Policies](https://github.com/creativecommons/cc-cert-map/blob/master/img/FormulateOpenPolicies.jpg "Formulate Open Policies")
@@ -124,6 +194,14 @@ Learning units have been sequenced to have a logical flow but you can take them 
   * Understand CC licenses in relation to internal policies
   * Rewrite law/policy that prohibits using CC licenses
   * Ensure open policy language is legally accurate
+
+**Existing Open Educational Resources** to be used in fulfilling these objectives are:
+  *  [Resource 1](http://) (Publisher) Description
+  *  [Resource 2](http://) (Publisher) Description
+
+**Learning activities / assessments** are:
+  * Activity / Assessment 1
+  * Activity / Assessment 2
 
 
 
