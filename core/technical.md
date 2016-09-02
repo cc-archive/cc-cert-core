@@ -43,6 +43,16 @@ Learning units have been sequenced to have a logical flow but you can take them 
   * Evaluate building from scratch vs integrating with existing chooser
   * Develop backend compatibility w/frontend design
   
+**Existing Open Educational Resources** to be used in fulfilling these objectives are:
+  *  [Resource 1](http://) (Publisher) Description
+  *  [Resource 2](http://) (Publisher) Description
+
+**Learning activities / assessments** are:
+  * Activity / Assessment 1
+  * Activity / Assessment 2
+
+---
+
 ### Unit #2: Discovery and Upload of Creative Commons Licensed Content
 
 ![Discovery and Upload of Creative Commons Licensed Content](https://github.com/creativecommons/cc-cert-map/blob/master/img/Discovery.jpg "Discovery and Upload of Creative Commons Licensed Content")
@@ -53,6 +63,16 @@ Learning units have been sequenced to have a logical flow but you can take them 
   * Understand how to download CC content and give attribution
   * Understand how to upload CC licensed content
   
+**Existing Open Educational Resources** to be used in fulfilling these objectives are:
+  *  [Resource 1](http://) (Publisher) Description
+  *  [Resource 2](http://) (Publisher) Description
+
+**Learning activities / assessments** are:
+  * Activity / Assessment 1
+  * Activity / Assessment 2
+
+---
+
 ### Unit #3: Differentiate Legal Openness from Technical Openness
 
 ![Differentiate Legal Openness from Technical Openness](https://github.com/creativecommons/cc-cert-map/blob/master/img/LegalvsTechnical.jpg "Differentiate Legal Openness from Technical Openness")
@@ -62,6 +82,16 @@ Learning units have been sequenced to have a logical flow but you can take them 
   * Know open file formats for different types of media (text, video, audio, etc.)
   * Include technical openness in open policy requirements (so license rights can be used)
   
+**Existing Open Educational Resources** to be used in fulfilling these objectives are:
+  *  [Resource 1](http://) (Publisher) Description
+  *  [Resource 2](http://) (Publisher) Description
+
+**Learning activities / assessments** are:
+  * Activity / Assessment 1
+  * Activity / Assessment 2
+
+---
+
 ### Unit #4: Technical Integration
 
 ![Technical Integration](https://github.com/creativecommons/cc-cert-map/blob/master/img/TechIntegration.jpg "Technical Integration")
@@ -81,6 +111,16 @@ Learning units have been sequenced to have a logical flow but you can take them 
   * Evaluate the technical implementation structure of specific contexts
   * Optimize DMCA/EUCD compliance for CC licensed works
   
+**Existing Open Educational Resources** to be used in fulfilling these objectives are:
+  *  [Resource 1](http://) (Publisher) Description
+  *  [Resource 2](http://) (Publisher) Description
+
+**Learning activities / assessments** are:
+  * Activity / Assessment 1
+  * Activity / Assessment 2
+
+---
+
 ### Unit #5: Implement Display of License Logos
 
 ![Implement Display of License Logos](https://github.com/creativecommons/cc-cert-map/blob/master/img/LicenseLogo.jpg "Implement Display of License Logos")
@@ -90,6 +130,16 @@ Learning units have been sequenced to have a logical flow but you can take them 
   * Use official CC icons and buttons
   * List best practices for marking for various content types
   
+**Existing Open Educational Resources** to be used in fulfilling these objectives are:
+  *  [Resource 1](http://) (Publisher) Description
+  *  [Resource 2](http://) (Publisher) Description
+
+**Learning activities / assessments** are:
+  * Activity / Assessment 1
+  * Activity / Assessment 2
+
+---
+
 ### Unit #6: Design Discovery Tools for Creative Commons Licensed Content
 
 ![Design Discovery Tools for Creative Commons Licensed Content](https://github.com/creativecommons/cc-cert-map/blob/master/img/DesignDiscovery.jpg "Design Discovery Tools for Creative Commons Licensed Content")
@@ -98,7 +148,17 @@ Learning units have been sequenced to have a logical flow but you can take them 
   * Design CC license browse/search filters
   * Allow search by license
   * Describe how filter by license works w/search
-  
+ 
+**Existing Open Educational Resources** to be used in fulfilling these objectives are:
+  *  [Resource 1](http://) (Publisher) Description
+  *  [Resource 2](http://) (Publisher) Description
+
+**Learning activities / assessments** are:
+  * Activity / Assessment 1
+  * Activity / Assessment 2
+
+---
+
 ### Unit #7: Implement Creative Commons Metadata Standards
 
 ![Implement Creative Commons Metadata Standards](https://github.com/creativecommons/cc-cert-map/blob/master/img/Metadata.jpg "Implement Creative Commons Metadata Standards")
@@ -111,7 +171,17 @@ Learning units have been sequenced to have a logical flow but you can take them 
   * Understand metadata/RDFa
   * Know how to use html code
   * Understand purpose of metadata
-  
+
+**Existing Open Educational Resources** to be used in fulfilling these objectives are:
+  *  [Resource 1](http://) (Publisher) Description
+  *  [Resource 2](http://) (Publisher) Description
+
+**Learning activities / assessments** are:
+  * Activity / Assessment 1
+  * Activity / Assessment 2
+
+---
+
 ### Unit #8: Implement Automated Attribution
 
 ![Implement Automated Attribution](https://github.com/creativecommons/cc-cert-map/blob/master/img/AutomatingAttribution.jpg "Implement Automated Attribution")
@@ -126,44 +196,11 @@ Learning units have been sequenced to have a logical flow but you can take them 
   * Give examples of recommended attributions
   * Describe concept of normative attribution vs. attribution required via license
 
+**Existing Open Educational Resources** to be used in fulfilling these objectives are:
+  *  [Resource 1](http://) (Publisher) Description
+  *  [Resource 2](http://) (Publisher) Description
 
-
-## Learn Technical Implementation
-
-Placeholder for background information, can be skipped for those with prior knowledge. Include readings, videos, etc that provide foundational understanding. Maybe indicate  1-2 required/suggested?? Possibly include discussion questions if used in workshop mode or for self reflection.
-
-### Reccommended Resources
-
-* [Title](http://) (Publisher) Description
-* [Title](http://) (Publisher) Description
-
-### More Resources
-
-* [Title](http://) (Publisher) Description
-* [Title](http://) (Publisher) Description
-* [Title](http://) (Publisher) Description
-* [Title](http://) (Publisher) Description
-
-
-## Do Technical Implementation
-
-Placeholder for hands on activities from an assignment-like bank. Maybe have 1 required/suggested and certain number / star value of recommended? Each produces some kind of URL referenced summary as evidence
-
-* Suggested Activity 1
-* Suggested Activity 2
-
-## Act on Technical Implementation
-
-Placeholder for optional suggestions to do public advocacy / act as a "defender of the commons"  -- e.g.  adding open media to Wikipedia, participating in Stack Exchange, asking/answering questions in twitter, commenting on article/blog post where topic discussed?
-
-* Suggestion 1 for Actions
-* Suggestion 2 for Actions
-
-## Reflect on Technical Implementation
-
-Writing prompts or discussion questions that could help an individual feel confident the have mastered this module
-
-* Possible prompt/question 1
-* Possible prompt/question 2
-* Possible prompt/question 3
+**Learning activities / assessments** are:
+  * Activity / Assessment 1
+  * Activity / Assessment 2
 
