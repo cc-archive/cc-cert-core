@@ -110,3 +110,11 @@ Learning units have been sequenced to have a logical flow but you can take them 
 * TBD
 * TBD
 * TBD
+
+**Existing Open Educational Resources** to be used in fulfilling these objectives are:
+  *  [Resource 1](http://) (Publisher) Description
+  *  [Resource 2](http://) (Publisher) Description
+
+**Learning activities / assessments** are:
+  * Activity / Assessment 1
+  * Activity / Assessment 2
