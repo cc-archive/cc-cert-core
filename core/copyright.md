@@ -111,7 +111,7 @@ Learning units have been sequenced to have a logical flow but you can take them 
 
 ---
 
-### Unit #5: Global Copyright
+### Unit #5: Distinguish Baselines and Differences in Global Copyright
 
 ![Global Copyright](https://github.com/creativecommons/cc-cert-map/blob/master/img/GlobalCopyright2.jpg "Global Copyright")
 
