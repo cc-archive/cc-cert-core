@@ -17,7 +17,7 @@ The Creative Commons Licenses module has six units of learning:
 
 ## Learning Experience
 
-To help you learn The Commons each unit of learning has:
+To help you learn about Creative Commons Licenses each unit of learning has:
 
 1. A set of learning objectives
 
