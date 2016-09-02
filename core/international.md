@@ -53,9 +53,9 @@ Learning units have been sequenced to have a logical flow but you can take them 
 * TBD
 * TBD
 
-### Unit #4: Limitation of Copyright
+### Unit #4: Limitations of Copyright
 
-![Limitation of Copyright](https://github.com/creativecommons/cc-cert-map/blob/master/img/IntPublicDomain.jpg "Limitation of Copyright")
+![Limitations of Copyright](https://github.com/creativecommons/cc-cert-map/blob/master/img/IntLimitationsofCopyright.jpg "Limitations of Copyright")
 
 **Learning Objectives**
 * TBD
