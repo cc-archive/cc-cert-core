@@ -31,7 +31,7 @@ Learning units have been sequenced to have a logical flow but you can take them 
 
 ### Unit #1: Use Creative Commons License Chooser
 
-![License Chooser ](https://github.com/creativecommons/cc-cert-map/blob/master/img/SignificanceofCommons.jpg "License Chooser")
+![License Chooser ](https://github.com/creativecommons/cc-cert-map/blob/master/img/LicenseChooser.jpg "License Chooser")
 
 **Learning Objectives**
   * Get a license using CC’s License Chooser
@@ -42,16 +42,31 @@ Learning units have been sequenced to have a logical flow but you can take them 
   * Finding and using official CC icons
   * Evaluate building from scratch vs integrating with existing chooser
   * Develop backend compatibility w/frontend design
-2. Discovery & Upload of CC Licensed Content
+  
+### Unit #2: Discovery and Upload of Creative Commons Licensed Content
+
+![Discovery and Upload of Creative Commons Licensed Content](https://github.com/creativecommons/cc-cert-map/blob/master/img/Discovery.jpg "Discovery and Upload of Creative Commons Licensed Content")
+
+**Learning Objectives**
   * Identify sources of CC licensed content
   * Use search filters to browse and find content by license
   * Understand how to download CC content and give attribution
   * Understand how to upload CC licensed content
-3. Differentiate Legal Openness from Technical Openness
+  
+### Unit #3: Differentiate Legal Openness from Technical Openness
+
+![Differentiate Legal Openness from Technical Openness](https://github.com/creativecommons/cc-cert-map/blob/master/img/LegalvsTechnical.jpg "Differentiate Legal Openness from Technical Openness")
+
+**Learning Objectives**  
   * Understand the benefits of open technical file formats
   * Know open file formats for different types of media (text, video, audio, etc.)
   * Include technical openness in open policy requirements (so license rights can be used)
-4. Technical Integration
+  
+### Unit #4: Technical Integration
+
+![Technical Integration](https://github.com/creativecommons/cc-cert-map/blob/master/img/TechIntegration.jpg "Technical Integration")
+
+**Learning Objectives**    
   * Evaluate building from scratch vs. integrating with existing CC License Chooser
   * Assess technical requirements 
   * Develop backend compatibility with front end design
@@ -65,15 +80,30 @@ Learning units have been sequenced to have a logical flow but you can take them 
   * Design technical features that allow what licenses allow, e.g download
   * Evaluate the technical implementation structure of specific contexts
   * Optimize DMCA/EUCD compliance for CC licensed works
-5. Implement Display of License Logos
+  
+### Unit #5: Implement Display of License Logos
+
+![Implement Display of License Logos](https://github.com/creativecommons/cc-cert-map/blob/master/img/LicenseLogo.jpg "Implement Display of License Logos")
+
+**Learning Objectives**  
   * Design ideal U.I. for CC license/logo display
   * Use official CC icons and buttons
   * List best practices for marking for various content types
-6. Design discovery tools for CC licensed content
+  
+### Unit #6: Design Discovery Tools for Creative Commons Licensed Content
+
+![Design Discovery Tools for Creative Commons Licensed Content](https://github.com/creativecommons/cc-cert-map/blob/master/img/DesignDiscovery.jpg "Design Discovery Tools for Creative Commons Licensed Content")
+
+**Learning Objectives**  
   * Design CC license browse/search filters
   * Allow search by license
   * Describe how filter by license works w/search
-7. Implement CC Metadata Standards
+  
+### Unit #7: Implement Creative Commons Metadata Standards
+
+![Implement Creative Commons Metadata Standards](https://github.com/creativecommons/cc-cert-map/blob/master/img/Metadata.jpg "Implement Creative Commons Metadata Standards")
+
+**Learning Objectives**  
   * Provide license metadata in APIs
   * Provide license metadata in copy/paste
   * Provide license metadata in embeds
@@ -81,7 +111,12 @@ Learning units have been sequenced to have a logical flow but you can take them 
   * Understand metadata/RDFa
   * Know how to use html code
   * Understand purpose of metadata
-8. Implement automated attribution
+  
+### Unit #8: Implement Automated Attribution
+
+![Implement Automated Attribution](https://github.com/creativecommons/cc-cert-map/blob/master/img/AutomatingAttribution.jpg "Implement Automated Attribution")
+
+**Learning Objectives**   
   * Describe how platforms implement licensing of attribution differently
   * Display provenance
   * Record provenance
