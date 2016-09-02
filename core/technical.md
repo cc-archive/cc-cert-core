@@ -1,10 +1,39 @@
 # Technical Implementation
 
-Placeholder for introduction to this module. This will be what provides some context.
+![TechnicalImplementation](https://github.com/creativecommons/cc-cert-map/blob/master/img/TechnicalImplementation.jpg "TechnicalImplementation")
 
-## Performance Objectives
+Creative Commons licenses and tools are native to the Internet. Optimal use of Creative Commons involves prowess using Creative Commons technologies and integrating Creative Commons into other technologies.
 
-1. Use CC's License Chooser
+The Technical Implementation module has eight units of learning:
+
+1. Use Creative Commons License Chooser
+2. Discovery and Upload of Creative Commons Licensed Content
+3. Differentiate Legal Openness from Technical Openness 
+4. Technical Integration
+5. Implement Display of License Logos
+6. Design Discovery Tools for Creative Commons Licensed Content
+7. Implement Creative Commons Metadata Standards
+8. Implement Automated Attribution
+
+## Learning Experience
+
+To help you learn Technical Implementation each unit of learning has:
+
+1. A set of learning objectives
+
+2. Open Educational Resources for you to use in fulfilling those objectives
+
+3. Learning activities / assessments that ask you to apply the learning to your own context and generate evidence demonstrating you've accomplished the learning. 
+
+Learning units have been sequenced to have a logical flow but you can take them in any order. Start with the one that interests you the most.
+
+## Start Learning
+
+### Unit #1: Use Creative Commons License Chooser
+
+![License Chooser ](https://github.com/creativecommons/cc-cert-map/blob/master/img/SignificanceofCommons.jpg "License Chooser")
+
+**Learning Objectives**
   * Get a license using CC’s License Chooser
   * Understand how to apply license (i.e. no registration)
   * Creating Attribution metadata
