@@ -21,8 +21,8 @@ CORE has required and optional modules.
 * **Required Modules**
   * [The Commons](core/commons.md)
   * [Copyright Basics](core/copyright.md)
-  * [CC License Suite](core/licenses.md)
-  * [Social/Cultural Implementation](core/social-cultural.md)
+  * [Creative Commons License Suite](core/licenses.md)
+  * [Socio / Cultural Implementation](core/social-cultural.md)
   
 * Plus one or more **Optional Modules**
   * [Legal Implementation](core/legal.md)
@@ -34,7 +34,7 @@ Optional modules provide participants with the opportunity to gain deeper knowle
 ## CORE Modules
 CORE can be visualized as a set of modules that fit together like this:
 
-![The Commons, Copyright Basics, Creative Commons Licenses, Social/Cultural Implementation, Legal, Technical, or International Implementation](img/COREModules.jpg "CORE Modules")
+![The Commons, Copyright Basics, Creative Commons Licenses, Socio / Cultural Implementation, Legal, Technical, or International Implementation](img/COREModules.jpg "CORE Modules")
 
 The pale grey lines divide each module into units of learning. 
 
