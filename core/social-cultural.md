@@ -102,7 +102,7 @@ Learning units have been sequenced to have a logical flow but you can take them 
 
 ---
 
-### Unit #4: Community Development
+### Unit #4: Propose Plan for Community Development In Support of Campaign
 
 ![Community Development](https://github.com/creativecommons/cc-cert-map/blob/master/img/CommunityDevelopment.jpg "Community Development")
 
