@@ -29,7 +29,7 @@ Learning units have been sequenced to have a logical flow but you can take them 
 
 ## Start Learning
 
-### Unit #1: License and Attribution
+### Unit #1: Demonstrate Understanding of Legal Aspects of Implementation
 
 ![License and Attribution](https://github.com/creativecommons/cc-cert-map/blob/master/img/LicenseAttribution.jpg "License and Attribution")
 
@@ -60,7 +60,7 @@ Learning units have been sequenced to have a logical flow but you can take them 
 
 ---
 
-### Unit #2: Clause Language
+### Unit #2: Develop Coherent Clause Language
 
 ![Clause Language](https://github.com/creativecommons/cc-cert-map/blob/master/img/ClauseLanguage.jpg "Clause Language")
 
@@ -83,7 +83,7 @@ Learning units have been sequenced to have a logical flow but you can take them 
 
 ---
 
-### Unit #3: Proper Marking
+### Unit #3: Ensure Proper Marking (what is licensed, what is not)
 
 ![Proper Marking](https://github.com/creativecommons/cc-cert-map/blob/master/img/ProperMarking.jpg "Proper Marking")
 
@@ -103,7 +103,7 @@ Learning units have been sequenced to have a logical flow but you can take them 
 
 ---
 
-### Unit #4: Commercial Adaptations
+### Unit #4: Evaluate Issues & Processes for Commercial Adaptations
 
 ![Commercial Adaptations](https://github.com/creativecommons/cc-cert-map/blob/master/img/CommercialAdaptations.jpg "Commercial Adaptations")
 
@@ -127,7 +127,7 @@ Learning units have been sequenced to have a logical flow but you can take them 
 
 ---
 
-### Unit #5: Where Copyright is Not Implicated
+### Unit #5: Delineate Where Copyright is Not Implicated
 
 ![Where Copyright is Not Implicated](https://github.com/creativecommons/cc-cert-map/blob/master/img/CopyrightNotImplicated.jpg "Where Copyright is Not Implicated")
 
@@ -149,7 +149,7 @@ Learning units have been sequenced to have a logical flow but you can take them 
 
 ---
 
-### Unit #6: Relationship to Non-Copyright Rights
+### Unit #6: Evaluate Relationship to Non-Copyright Rights
 
 ![Relationship to Non-Copyright Rights](https://github.com/creativecommons/cc-cert-map/blob/master/img/RelationshipToNonC.jpg "Relationship to Non-Copyright Rights")
 
@@ -166,7 +166,7 @@ Learning units have been sequenced to have a logical flow but you can take them 
 
 ---
 
-### Unit #7: Response to License Violations
+### Unit #7: Develop Responses to License Violations
 
 ![Response to License Violations](https://github.com/creativecommons/cc-cert-map/blob/master/img/ResponseToViolations.jpg "Response to License Violations")
 
@@ -184,7 +184,7 @@ Learning units have been sequenced to have a logical flow but you can take them 
 
 ---
 
-### Unit #8: Formulate Open Policies
+### Unit #8: Formulate and Implement Open Policies
 
 ![Formulate Open Policies](https://github.com/creativecommons/cc-cert-map/blob/master/img/FormulateOpenPolicies.jpg "Formulate Open Policies")
 
