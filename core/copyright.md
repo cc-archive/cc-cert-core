@@ -94,7 +94,7 @@ Learning units have been sequenced to have a logical flow but you can take them 
 
 ### Unit #4: Undersand Copyright Exceptions & Limitations
 
-![Understand Exceptions & Limitations](https://github.com/creativecommons/cc-cert-map/blob/master/img/UnderstanExceptions2.jpg "Understand Exceptions & Limitations")
+![Understand Exceptions & Limitations](https://github.com/creativecommons/cc-cert-map/blob/master/img/UnderstandExceptions2.jpg "Understand Exceptions & Limitations")
 
 **Learning objectives**
   * Evaluate the application of fair use / fair dealing
