@@ -19,22 +19,22 @@ CORE is foundational curricula from which specialized Creative Commons certifica
 CORE has required and optional modules.
 
 * **Required Modules**
-  * [The Commons](core/commons.md)
-  * [Copyright Basics](core/copyright.md)
-  * [Creative Commons License Suite](core/licenses.md)
-  * [Socio / Cultural Implementation](core/social-cultural.md)
+  * [The Commons](commons.md)
+  * [Copyright Basics](copyright.md)
+  * [Creative Commons License Suite](licenses.md)
+  * [Socio / Cultural Implementation](social-cultural.md)
   
 * Plus one or more **Optional Modules**
-  * [Legal Implementation](core/legal.md)
-  * [Technical Implementation](core/technical.md)
-  * [International Implementation](core/international.md)
+  * [Legal Implementation](legal.md)
+  * [Technical Implementation](technical.md)
+  * [International Implementation](international.md)
 
 Optional modules provide participants with the opportunity to gain deeper knowledge directly related to their interests or needs. 
 
 ## CORE Modules
 CORE can be visualized as a set of modules that fit together like this:
 
-![The Commons, Copyright Basics, Creative Commons Licenses, Socio / Cultural Implementation, Legal, Technical, or International Implementation](img/COREModules.jpg "CORE Modules")
+![The Commons, Copyright Basics, Creative Commons Licenses, Socio / Cultural Implementation, Legal, Technical, or International Implementation](https://github.com/creativecommons/cc-cert-map/blob/master/img/COREModules.jpg "CORE Modules")
 
 The pale grey lines divide each module into units of learning. 
 
@@ -42,7 +42,7 @@ The pale grey lines divide each module into units of learning.
 
 Units of learning across all CORE modules are:
 
-![Expanded details of core modules](img/UnitsofLearning2.jpg "Each CORE module breaks down further into units of learning")
+![Expanded details of core modules](https://github.com/creativecommons/cc-cert-map/blob/master/img/UnitsofLearning2.jpg "Each CORE module breaks down further into units of learning")
 
 
 
