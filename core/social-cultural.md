@@ -1,8 +1,10 @@
 # Socio / Cultural Implementation
 
-![Socio / Cultural Implementation](https://github.com/creativecommons/cc-cert-map/blob/master/img/SocioCultural.jpg "Socio / Cultural Implementation")
+The Commons and use of Creative Commons both involve social and cultural norms and practices. 
 
-The Commons and use of Creative Commons both involve social and cultural norms and practices. This module helps you understand how to implement use of Creative Commons within a social and cultural context.
+This module helps you understand how to implement use of Creative Commons within a social and cultural context.
+
+![Socio / Cultural Implementation](https://github.com/creativecommons/cc-cert-map/blob/master/img/SocioCultural.jpg "Socio / Cultural Implementation")
 
 The Socio / Cultural Implementation module has four units of learning:
 

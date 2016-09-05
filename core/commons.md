@@ -1,8 +1,11 @@
 # The Commons
 
+The Commons has long played a historical role in making cultural and natural resources accessible to all members of a society. 
+
+Creative Commons is part of that long tradition and understanding the Commons and how it works is essential to successfully using Creative Commons.
+
 ![The Commons](https://github.com/creativecommons/cc-cert-map/blob/master/img/TheCommons.jpg "The Commons")
 
-The Commons has long played a historical role in making cultural and natural resources accessible to all members of a society. Creative Commons is part of that long tradition and understanding the Commons and how it works is essential to successfully using Creative Commons.
 
 The Commons module has four units of learning:
 

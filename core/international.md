@@ -1,8 +1,10 @@
 # International Implementation
 
-![International Implementation](https://github.com/creativecommons/cc-cert-map/blob/master/img/InternationalImplementation.jpg "International Implementation")
+Creative Commons licenses are standardized to work the same way everywhere in the world. 
 
-Creative Commons licenses are standardized to work the same way everywhere in the world. Differences in copyright law and regional practices need to be taken into account for international implementation of Creative Commons. 
+Differences in copyright law and regional practices need to be taken into account for international implementation of Creative Commons. 
+
+![International Implementation](https://github.com/creativecommons/cc-cert-map/blob/master/img/InternationalImplementation.jpg "International Implementation")
 
 The International Implementation module has five units of learning:
 

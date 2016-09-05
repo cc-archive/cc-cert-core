@@ -1,8 +1,11 @@
 # Technical Implementation
 
+Creative Commons licenses and tools are native to the Internet. 
+
+The Technical Implementation module helps you learn how to use Creative Commons technologies and integrate Creative Commons into other technologies.
+
 ![TechnicalImplementation](https://github.com/creativecommons/cc-cert-map/blob/master/img/TechnicalImplementation.jpg "TechnicalImplementation")
 
-Creative Commons licenses and tools are native to the Internet. The Technical Implementation module helps you learn how to use Creative Commons technologies and integrate Creative Commons into other technologies.
 
 The Technical Implementation module has eight units of learning:
 

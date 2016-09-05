@@ -1,10 +1,14 @@
 # Creative Commons Licenses
 
-![Creative Commons Licenses](https://github.com/creativecommons/cc-cert-map/blob/master/img/CCLicenses.jpg "Creative Commons License Suite Units")
+The Creative Commons copyright licenses offer flexible options still within copyright law's “all rights reserved” setting. 
 
-The Creative Commons copyright licenses offer flexible options still within copyright law's “all rights reserved” setting. "Our tools give everyone from individual creators to large companies and institutions a simple, standardized way to grant copyright permissions to their creative work."
+>Our tools give everyone from individual creators to large companies and institutions a simple, standardized way to grant copyright permissions to their creative work.
 
 All Creative Commons licenses helps creators retain their copyright while permitting others to copy, distribute, and make some uses of their work. Every Creative Commons license also ensures licensors get the credit for their work they deserve.  Creative Commons license works around the world and lasts as long as applicable copyright lasts.
+
+![Creative Commons Licenses](https://github.com/creativecommons/cc-cert-map/blob/master/img/CCLicenses.jpg "Creative Commons License Suite Units")
+
+
 
 The Creative Commons Licenses module has six units of learning:
 

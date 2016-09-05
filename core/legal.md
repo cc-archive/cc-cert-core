@@ -1,8 +1,12 @@
 # Legal Implementation
 
+Creative Commons licenses relate to copyright law. 
+
+Successful legal implementation of Creative Commons licenses involves knowing how the Creative Commons licenses work legally and ensuring they are used and supported within necessary legal parameters such as contracts and policy. 
+
 ![Legal Implementation](https://github.com/creativecommons/cc-cert-map/blob/master/img/LegalImplementation.jpg "Legal Implementation")
 
-Creative Commons licenses relate to copyright law. Successful legal implementation of Creative Commons licenses involves knowing how the Creative Commons licenses work legally and ensuring they are used and supported within necessary legal paramters such as contracts and policy.  
+ 
 
 The Legal Implementation module has eight units of learning:
 
