@@ -1,6 +1,6 @@
 # Copyright Basics for Educators
 
-The Copyright Basics module introduces you to copyright through five units of learning:
+The Copyright Basics module introduces you to copyright through the following units of learning:
 
 1. Copyright Defined
 2. Purpose of Copyright

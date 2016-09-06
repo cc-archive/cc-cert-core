@@ -6,9 +6,6 @@ CC Certificate for Education is aimed at formal education, both teachers and adm
 
 At the end of training people who receive the certificate should be able to use effectively CC for educational purposes like: curate and create open educational resources for their needs, provide trainings about CC in education to advance CC usage in their communities, raise awareness and plan systematic changes towards openness in education by campaigns, open policies, educational projects.
 
-* Administration & EdTech Directors
-
-
 
 ## For Educators (Teachers, Instructional Designers, Textbook Authors, Trainers)
 
