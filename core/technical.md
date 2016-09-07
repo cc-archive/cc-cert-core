@@ -7,7 +7,7 @@ The Technical Implementation module helps you learn how to use Creative Commons 
 ![TechnicalImplementation](https://github.com/creativecommons/cc-cert-map/blob/master/img/TechnicalImplementation.jpg "TechnicalImplementation")
 
 
-The Technical Implementation module has eight units of learning:
+The Technical Implementation module has the following units of learning:
 
 1. Use Creative Commons License Chooser
 2. Discovery and Upload of Creative Commons Licensed Content

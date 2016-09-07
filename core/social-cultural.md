@@ -6,7 +6,7 @@ This module helps you understand how to implement use of Creative Commons within
 
 ![Socio / Cultural Implementation](https://github.com/creativecommons/cc-cert-map/blob/master/img/SocioCultural.jpg "Socio / Cultural Implementation")
 
-The Socio / Cultural Implementation module has four units of learning:
+The Socio / Cultural Implementation module has the following units of learning:
 
 1. Vision How / If Open is Better than Current Model
 2. Create Plan to Shift ____ to Open

@@ -7,7 +7,7 @@ Creative Commons is part of that long tradition and understanding the Commons an
 ![The Commons](https://github.com/creativecommons/cc-cert-map/blob/master/img/TheCommons.jpg "The Commons")
 
 
-The Commons module has four units of learning:
+The Commons module has the following units of learning:
 
 1. Significance of the Commons
 2. Compare / Contrast Physical vs Digital Commons

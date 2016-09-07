@@ -8,7 +8,7 @@ Successful legal implementation of Creative Commons licenses involves knowing ho
 
  
 
-The Legal Implementation module has eight units of learning:
+The Legal Implementation module has the following units of learning:
 
 1. License & Attribution
 2. Clause Language

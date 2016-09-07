@@ -33,15 +33,8 @@ Learning units have been sequenced to have a logical flow but you can take them 
 ### Unit #1. Significance of the Commons
 
 **Learning Objectives**
-  * Define the public domain/commons and its historical significance
-  * Describe historical and ongoing enclosure of the commons
-  * Specific threat to the commons via business models
-  * Contrast Hardin’s theoretical “Tragedy of the Commons” to Ostrom’s findings on how communities self-govern commons in practice
-  * Provide examples of common resources
-  * Describe & provide examples of public goods
-  * Describe culture as a form of Commons
-  * Evaluate whether something should be in the commons
-  * Contrast the closed status quo vs open
+  * xxxx
+  * yyyy
   
 **Existing Open Educational Resources** to be used in fulfilling these objectives are:
   *  [Resource 1](http://) (Publisher) Description
@@ -76,18 +69,8 @@ Learning units have been sequenced to have a logical flow but you can take them 
 ### Unit #3. Commons Collaboration Potential
 
 **Learning Objectives**
-  * Dramatize problem open licensing is solving/addressing, how it is an alternative to copyright
-  * Illustrate where open licensing exists on spectrum between public domain & copyright
-  * Demonstrate how copyright increases frictions
-  * Understand takedown notices (DMCA / EUCD)
-  * Discuss open licensing as choice vs. default
-  * Explain potentials, uses of open licensing, value of sharing as a default
-  * Evaluate the demand for open content
-  * Understand open content / free culture movement
-  * Analyze the reasons for open licensing in your context
-  * Define opportunities / benefits of collaborative peer production
-  * Demonstrate benefits of access to knowledge
-  * Understand difference between licensing, policy, and law reform
+  * xxxx
+  * yyyy
   
 **Existing Open Educational Resources** to be used in fulfilling these objectives are:
   *  [Resource 1](http://) (Publisher) Description
@@ -101,18 +84,9 @@ Learning units have been sequenced to have a logical flow but you can take them 
 
 ### Unit #4. Open Content Movement
 
-**Learning Objectives**  
-  * Explain why Creative Commons is necessary as an organization, mission & vision, goals
-  * Summarize the history of Creative Commons and the free culture movement
-  * Evaluate impact of Creative Commons, examples of program work, where it is used
-  * Locate Creative Commons in relationship to like organizations
-  * Explain non profit status
-  * Identify major initiatives, programs
-  * Explain, demonstrate Creative Commons resources and materials (including License Chooser, FAQ, and wiki)
-  * Describe affiliate/community structures
-  * Identify future plans for organization
-  * Explain how to get involved, communicate with Creative Commons
-  * Describe how Creative Commons licenses are global standard
+**Learning Objectives**
+  * xxxx
+  * yyyy
 
 **Existing Open Educational Resources** to be used in fulfilling these objectives are:
   *  [Resource 1](http://) (Publisher) Description
@@ -126,18 +100,9 @@ Learning units have been sequenced to have a logical flow but you can take them 
 
 ### Unit #5. Benefits of Access to Knowledge
 
-**Learning Objectives**  
-  * Explain why Creative Commons is necessary as an organization, mission & vision, goals
-  * Summarize the history of Creative Commons and the free culture movement
-  * Evaluate impact of Creative Commons, examples of program work, where it is used
-  * Locate Creative Commons in relationship to like organizations
-  * Explain non profit status
-  * Identify major initiatives, programs
-  * Explain, demonstrate Creative Commons resources and materials (including License Chooser, FAQ, and wiki)
-  * Describe affiliate/community structures
-  * Identify future plans for organization
-  * Explain how to get involved, communicate with Creative Commons
-  * Describe how Creative Commons licenses are global standard
+**Learning Objectives**
+  * xxxx
+  * yyyy
 
 **Existing Open Educational Resources** to be used in fulfilling these objectives are:
   *  [Resource 1](http://) (Publisher) Description
@@ -152,20 +117,9 @@ Learning units have been sequenced to have a logical flow but you can take them 
 
 ### Unit #6. Collective Solutions
 
-
-
-**Learning Objectives**  
-  * Explain why Creative Commons is necessary as an organization, mission & vision, goals
-  * Summarize the history of Creative Commons and the free culture movement
-  * Evaluate impact of Creative Commons, examples of program work, where it is used
-  * Locate Creative Commons in relationship to like organizations
-  * Explain non profit status
-  * Identify major initiatives, programs
-  * Explain, demonstrate Creative Commons resources and materials (including License Chooser, FAQ, and wiki)
-  * Describe affiliate/community structures
-  * Identify future plans for organization
-  * Explain how to get involved, communicate with Creative Commons
-  * Describe how Creative Commons licenses are global standard
+**Learning Objectives**
+  * xxxx
+  * yyyy
 
 **Existing Open Educational Resources** to be used in fulfilling these objectives are:
   *  [Resource 1](http://) (Publisher) Description

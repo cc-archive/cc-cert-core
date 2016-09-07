@@ -22,7 +22,7 @@ At the end of training people who receive the certificate should be able to use 
   * [Selecting, Using, Sharing Existing OER](existing-oer.md)
   * [Creating and Sharing OER](creating-oer.md)
   * [Designing Courses](course-design.md)
-  * [Advocacy](advocacy.md)
+  * [Advocacy](advocacy-educators.md)
   
 ## For Administration & Ed-Tech Directors
 
@@ -33,9 +33,9 @@ At the end of training people who receive the certificate should be able to use 
 
 
 * **Educator Specialized Modules**
-  * [Procurement Policies](procurement.md)
-  * [State / District IP Policies](policies.md)
-  * [Professional Learning](professional.md)
+  * [Procurement Policies](procurement-admin.md)
+  * [State / District IP Policies](policies-admin.md)
+  * [Professional Learning](professional-admin.md)
   * [Advocacy](advocacy-admin.md)
 
 

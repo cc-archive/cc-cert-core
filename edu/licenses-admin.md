@@ -1,22 +1,27 @@
-# International Implementation
+# Creative Commons Licenses for Administrators and Ed-Tech Directors
 
-Creative Commons licenses are standardized to work the same way everywhere in the world. 
+The Creative Commons copyright licenses offer flexible options still within copyright law's “all rights reserved” setting. 
 
-Differences in copyright law and regional practices need to be taken into account for international implementation of Creative Commons. 
+>Our tools give everyone from individual creators to large companies and institutions a simple, standardized way to grant copyright permissions to their creative work.
 
-![International Implementation](https://github.com/creativecommons/cc-cert-map/blob/master/img/InternationalImplementation.jpg "International Implementation")
+All Creative Commons licenses helps creators retain their copyright while permitting others to copy, distribute, and make some uses of their work. Every Creative Commons license also ensures licensors get the credit for their work they deserve.  Creative Commons license works around the world and lasts as long as applicable copyright lasts.
 
-The International Implementation module has the following units of learning:
 
-1. Country Specific Copyright Regulations
-2. Copyright vs. Other Intellectual Property (IP)
-3. Public Domain 
-4. Limitation of Copyright
-5. Communicating with Creative Commons
+
+
+The Creative Commons Licenses module has the following units of learning:
+
+1. How Licenses Work / Intention of Licenses
+2. License Differences
+3. Common Features
+4. CC0 vs. Public Domain Mark
+5. License Compatibility
+6. Legal Precedence
+
 
 ## Learning Experience
 
-To help you learn International Implementation each unit of learning has:
+To help you learn about Creative Commons Licenses each unit of learning has:
 
 1. A set of learning objectives
 
@@ -28,14 +33,14 @@ Learning units have been sequenced to have a logical flow but you can take them 
 
 ## Start Learning
 
-### Unit #1: Country Specific Copyright Regulations
+---
 
-![Country Specific Copyright Regulations](https://github.com/creativecommons/cc-cert-map/blob/master/img/IntCountrySpecific.jpg "Country Specific Copyright Regulations")
+### Unit #1. How Licenses Work / Intention of Licenses
+
 
 **Learning Objectives**
-* TBD
-* TBD
-* TBD
+  * xxxx
+  * yyyy
 
 **Existing Open Educational Resources** to be used in fulfilling these objectives are:
   *  [Resource 1](http://) (Publisher) Description
@@ -47,14 +52,12 @@ Learning units have been sequenced to have a logical flow but you can take them 
 
 ---
 
-### Unit #2: Copyright vs. Other IP
+### Unit #2. License Differences
 
-![Copyright vs. Other IP](https://github.com/creativecommons/cc-cert-map/blob/master/img/IntCopyrightvsOtherIP.jpg "Copyright vs. Other IP")
 
 **Learning Objectives**
-* TBD
-* TBD
-* TBD
+  * xxxx
+  * yyyy
 
 **Existing Open Educational Resources** to be used in fulfilling these objectives are:
   *  [Resource 1](http://) (Publisher) Description
@@ -66,14 +69,12 @@ Learning units have been sequenced to have a logical flow but you can take them 
 
 ---
 
-### Unit #3: Public Domain
+### Unit #3. Common Features
 
-![Public Domain](https://github.com/creativecommons/cc-cert-map/blob/master/img/IntPublicDomain.jpg "Public Domain")
 
 **Learning Objectives**
-* TBD
-* TBD
-* TBD
+  * xxxx
+  * yyyy
 
 **Existing Open Educational Resources** to be used in fulfilling these objectives are:
   *  [Resource 1](http://) (Publisher) Description
@@ -85,14 +86,12 @@ Learning units have been sequenced to have a logical flow but you can take them 
 
 ---
 
-### Unit #4: Limitations of Copyright
+### Unit #4. CC0 vs. Public Domain Mark
 
-![Limitations of Copyright](https://github.com/creativecommons/cc-cert-map/blob/master/img/IntLimitationsofCopyright.jpg "Limitations of Copyright")
 
 **Learning Objectives**
-* TBD
-* TBD
-* TBD
+  * xxxx
+  * yyyy
 
 **Existing Open Educational Resources** to be used in fulfilling these objectives are:
   *  [Resource 1](http://) (Publisher) Description
@@ -104,14 +103,12 @@ Learning units have been sequenced to have a logical flow but you can take them 
 
 ---
 
-### Unit #5: Communicating With Creative Commons
+### Unit #5. License Compatibility
 
-![Communicating With Creative Commons](https://github.com/creativecommons/cc-cert-map/blob/master/img/IntCommunicatingCC.jpg "Communicating With Creative Commons")
 
 **Learning Objectives**
-* TBD
-* TBD
-* TBD
+  * xxxx
+  * yyyy
 
 **Existing Open Educational Resources** to be used in fulfilling these objectives are:
   *  [Resource 1](http://) (Publisher) Description
@@ -120,3 +117,21 @@ Learning units have been sequenced to have a logical flow but you can take them 
 **Learning activities / assessments** are:
   * Activity / Assessment 1
   * Activity / Assessment 2
+
+---
+
+### Unit #6. Legal Precedence
+
+**Learning Objectives**
+  * xxxx
+  * yyyy
+
+**Existing Open Educational Resources** to be used in fulfilling these objectives are:
+  *  [Resource 1](http://) (Publisher) Description
+  *  [Resource 2](http://) (Publisher) Description
+
+**Learning activities / assessments** are:
+  * Activity / Assessment 1
+  * Activity / Assessment 2
+
+

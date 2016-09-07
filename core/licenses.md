@@ -10,7 +10,7 @@ All Creative Commons licenses helps creators retain their copyright while permit
 
 
 
-The Creative Commons Licenses module has six units of learning:
+The Creative Commons Licenses module has the following units of learning:
 
 1. How licenses work with respect to copyright
 2. License differences

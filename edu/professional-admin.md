@@ -1,22 +1,19 @@
-# International Implementation
+# Professional Learning for Administrators and Ed-Tech Directors
 
-Creative Commons licenses are standardized to work the same way everywhere in the world. 
+Introduction goes here..
 
-Differences in copyright law and regional practices need to be taken into account for international implementation of Creative Commons. 
 
-![International Implementation](https://github.com/creativecommons/cc-cert-map/blob/master/img/InternationalImplementation.jpg "International Implementation")
+The Professional Learning module has the following units of learning:
 
-The International Implementation module has the following units of learning:
 
-1. Country Specific Copyright Regulations
-2. Copyright vs. Other Intellectual Property (IP)
-3. Public Domain 
-4. Limitation of Copyright
-5. Communicating with Creative Commons
+1. Supporting Faculty
+2. Identifying Teachers Needs
+3. Providing Training
+4. Evaluating OER as Professional Development
 
 ## Learning Experience
 
-To help you learn International Implementation each unit of learning has:
+To help you learn Technical Implementation each unit of learning has:
 
 1. A set of learning objectives
 
@@ -28,14 +25,14 @@ Learning units have been sequenced to have a logical flow but you can take them 
 
 ## Start Learning
 
-### Unit #1: Country Specific Copyright Regulations
+---
 
-![Country Specific Copyright Regulations](https://github.com/creativecommons/cc-cert-map/blob/master/img/IntCountrySpecific.jpg "Country Specific Copyright Regulations")
+### Unit #1. Reviewing Textbooks and curriculums
+
 
 **Learning Objectives**
-* TBD
-* TBD
-* TBD
+  * xxxx
+  * yyyy
 
 **Existing Open Educational Resources** to be used in fulfilling these objectives are:
   *  [Resource 1](http://) (Publisher) Description
@@ -47,14 +44,11 @@ Learning units have been sequenced to have a logical flow but you can take them 
 
 ---
 
-### Unit #2: Copyright vs. Other IP
-
-![Copyright vs. Other IP](https://github.com/creativecommons/cc-cert-map/blob/master/img/IntCopyrightvsOtherIP.jpg "Copyright vs. Other IP")
+### Unit #2. Knowing Recommended Policies
 
 **Learning Objectives**
-* TBD
-* TBD
-* TBD
+  * xxxx
+  * yyyy
 
 **Existing Open Educational Resources** to be used in fulfilling these objectives are:
   *  [Resource 1](http://) (Publisher) Description
@@ -66,14 +60,12 @@ Learning units have been sequenced to have a logical flow but you can take them 
 
 ---
 
-### Unit #3: Public Domain
+### Unit #3. Assessing Cost and Cost Savings of OER Implementation
 
-![Public Domain](https://github.com/creativecommons/cc-cert-map/blob/master/img/IntPublicDomain.jpg "Public Domain")
 
 **Learning Objectives**
-* TBD
-* TBD
-* TBD
+  * xxxx
+  * yyyy
 
 **Existing Open Educational Resources** to be used in fulfilling these objectives are:
   *  [Resource 1](http://) (Publisher) Description
@@ -82,17 +74,15 @@ Learning units have been sequenced to have a logical flow but you can take them 
 **Learning activities / assessments** are:
   * Activity / Assessment 1
   * Activity / Assessment 2
-
+  
 ---
 
-### Unit #4: Limitations of Copyright
+### Unit #4. Institutional Policies
 
-![Limitations of Copyright](https://github.com/creativecommons/cc-cert-map/blob/master/img/IntLimitationsofCopyright.jpg "Limitations of Copyright")
 
 **Learning Objectives**
-* TBD
-* TBD
-* TBD
+  * xxxx
+  * yyyy
 
 **Existing Open Educational Resources** to be used in fulfilling these objectives are:
   *  [Resource 1](http://) (Publisher) Description
@@ -101,17 +91,14 @@ Learning units have been sequenced to have a logical flow but you can take them 
 **Learning activities / assessments** are:
   * Activity / Assessment 1
   * Activity / Assessment 2
-
+  
 ---
 
-### Unit #5: Communicating With Creative Commons
-
-![Communicating With Creative Commons](https://github.com/creativecommons/cc-cert-map/blob/master/img/IntCommunicatingCC.jpg "Communicating With Creative Commons")
+### Unit #5. Accessibility
 
 **Learning Objectives**
-* TBD
-* TBD
-* TBD
+  * xxxx
+  * yyyy
 
 **Existing Open Educational Resources** to be used in fulfilling these objectives are:
   *  [Resource 1](http://) (Publisher) Description
@@ -120,3 +107,4 @@ Learning units have been sequenced to have a logical flow but you can take them 
 **Learning activities / assessments** are:
   * Activity / Assessment 1
   * Activity / Assessment 2
+  

@@ -8,7 +8,7 @@ To fully understand Creative Commons it's helpful to know some basics about copy
 
 
 
-The Copyright Basics module introduces you to copyright through five units of learning:
+The Copyright Basics module introduces you to copyright through the following units of learning:
 
 1. Understand / Explain Copyright
 2. Differentiate Copyright from other Intellectual Property Rights

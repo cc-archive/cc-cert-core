@@ -1,17 +1,22 @@
-# Copyright Basics for Educators
+# Socio / Cultural Implementation for Educators
 
-The Copyright Basics module introduces you to copyright through the following units of learning:
+The Commons and use of Creative Commons both involve social and cultural norms and practices. 
 
-1. Copyright Defined
-2. Purpose of Copyright
-3. Examples of What Copyright Restricts
-4. Public Domain Defined
-5. Fair Use / Fair Dealing
-6. Copyright vs.Other Intellectual Property
+This module helps you understand how to implement use of Creative Commons within a social and cultural context.
+
+
+The Socio / Cultural Implementation module has the following units of learning:
+
+
+1. Value Beyond Cost Savings
+2. Open Community Building
+3. Educating Users
+4. Open Success Stories
+
 
 ## Learning Experience
 
-To help you learn Copyright Basics each unit of learning has:
+To help you learn the ins and outs of Socio / Cultural Implementation each unit of learning has:
 
 1. A set of learning objectives
 
@@ -23,10 +28,13 @@ Learning units have been sequenced to have a logical flow but you can take them 
 
 ## Start Learning
 
-### Unit #1: Copyright Defined
+---
+
+### Unit #1. Value Beyond Cost Savings
 
 **Learning Objectives**
-  * Trace basic history of copyright
+  * xxxx
+  * yyyy
 
 **Existing Open Educational Resources** to be used in fulfilling these objectives are:
   *  [Resource 1](http://) (Publisher) Description
@@ -38,7 +46,9 @@ Learning units have been sequenced to have a logical flow but you can take them 
 
 ---
 
-### Unit #2: Purpose of Copyright
+### Unit #2. Open Community Building
+
+
 
 
 **Learning Objectives**
@@ -55,41 +65,8 @@ Learning units have been sequenced to have a logical flow but you can take them 
 
 ---
 
-### Unit #3. Examples of What Copyright Restricts
+### Unit #3. Educating Users
 
-
-**Learning Objectives**
-  * xxxx
-  * yyyy
-  
-**Existing Open Educational Resources** to be used in fulfilling these objectives are:
-  *  [Resource 1](http://) (Publisher) Description
-  *  [Resource 2](http://) (Publisher) Description
-
-**Learning activities / assessments** are:
-  * Activity / Assessment 1
-  * Activity / Assessment 2
-
----
-
-### Unit #4. Public Domain Defined
-
-
-**Learning Objectives**
-  * xxxx
-  * yyyy
-  
-**Existing Open Educational Resources** to be used in fulfilling these objectives are:
-  *  [Resource 1](http://) (Publisher) Description
-  *  [Resource 2](http://) (Publisher) Description
-
-**Learning activities / assessments** are:
-  * Activity / Assessment 1
-  * Activity / Assessment 2
-
----
-
-### Unit #5. Fair Use / Fair Dealing
 
 
 **Learning Objectives**
@@ -106,7 +83,8 @@ Learning units have been sequenced to have a logical flow but you can take them 
 
 ---
 
-### Unit #6. Copyright vs.Other Intellectual Property
+### Unit #4. Open Success Stories
+
 
 
 **Learning Objectives**
@@ -120,3 +98,5 @@ Learning units have been sequenced to have a logical flow but you can take them 
 **Learning activities / assessments** are:
   * Activity / Assessment 1
   * Activity / Assessment 2
+
+

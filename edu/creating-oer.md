@@ -1,22 +1,22 @@
-# International Implementation
+# Creating and Sharing Your Own OERS for Educators
 
-Creative Commons licenses are standardized to work the same way everywhere in the world. 
+Introduction goes here
+ 
+The Creating and Sharing OER module has the following units of learning
 
-Differences in copyright law and regional practices need to be taken into account for international implementation of Creative Commons. 
 
-![International Implementation](https://github.com/creativecommons/cc-cert-map/blob/master/img/InternationalImplementation.jpg "International Implementation")
+1. Creating Resources, Outcomes, Assessments
+2. Evaluating Resources For Publication & Sharing
+3. Choosing Right License
+4. Institutional Policies
+5. Accessibility
 
-The International Implementation module has the following units of learning:
 
-1. Country Specific Copyright Regulations
-2. Copyright vs. Other Intellectual Property (IP)
-3. Public Domain 
-4. Limitation of Copyright
-5. Communicating with Creative Commons
+
 
 ## Learning Experience
 
-To help you learn International Implementation each unit of learning has:
+To help you learn Legal Implementation each unit of learning has:
 
 1. A set of learning objectives
 
@@ -28,14 +28,15 @@ Learning units have been sequenced to have a logical flow but you can take them 
 
 ## Start Learning
 
-### Unit #1: Country Specific Copyright Regulations
 
-![Country Specific Copyright Regulations](https://github.com/creativecommons/cc-cert-map/blob/master/img/IntCountrySpecific.jpg "Country Specific Copyright Regulations")
+---
+
+### Unit #1. Creating Resources, Outcomes, Assessments
+
 
 **Learning Objectives**
-* TBD
-* TBD
-* TBD
+  * xxxx
+  * yyyy
 
 **Existing Open Educational Resources** to be used in fulfilling these objectives are:
   *  [Resource 1](http://) (Publisher) Description
@@ -47,14 +48,11 @@ Learning units have been sequenced to have a logical flow but you can take them 
 
 ---
 
-### Unit #2: Copyright vs. Other IP
-
-![Copyright vs. Other IP](https://github.com/creativecommons/cc-cert-map/blob/master/img/IntCopyrightvsOtherIP.jpg "Copyright vs. Other IP")
+### Unit #2. Evaluating Resources For Publication & Sharing
 
 **Learning Objectives**
-* TBD
-* TBD
-* TBD
+  * xxxx
+  * yyyy
 
 **Existing Open Educational Resources** to be used in fulfilling these objectives are:
   *  [Resource 1](http://) (Publisher) Description
@@ -66,14 +64,13 @@ Learning units have been sequenced to have a logical flow but you can take them 
 
 ---
 
-### Unit #3: Public Domain
+### Unit #3. Choosing Right License
 
-![Public Domain](https://github.com/creativecommons/cc-cert-map/blob/master/img/IntPublicDomain.jpg "Public Domain")
+
 
 **Learning Objectives**
-* TBD
-* TBD
-* TBD
+  * xxxx
+  * yyyy
 
 **Existing Open Educational Resources** to be used in fulfilling these objectives are:
   *  [Resource 1](http://) (Publisher) Description
@@ -85,14 +82,12 @@ Learning units have been sequenced to have a logical flow but you can take them 
 
 ---
 
-### Unit #4: Limitations of Copyright
+### Unit #4. Institutional Policies
 
-![Limitations of Copyright](https://github.com/creativecommons/cc-cert-map/blob/master/img/IntLimitationsofCopyright.jpg "Limitations of Copyright")
 
 **Learning Objectives**
-* TBD
-* TBD
-* TBD
+  * xxxx
+  * yyyy
 
 **Existing Open Educational Resources** to be used in fulfilling these objectives are:
   *  [Resource 1](http://) (Publisher) Description
@@ -104,14 +99,11 @@ Learning units have been sequenced to have a logical flow but you can take them 
 
 ---
 
-### Unit #5: Communicating With Creative Commons
-
-![Communicating With Creative Commons](https://github.com/creativecommons/cc-cert-map/blob/master/img/IntCommunicatingCC.jpg "Communicating With Creative Commons")
+### Unit #5. Accessibility
 
 **Learning Objectives**
-* TBD
-* TBD
-* TBD
+  * xxxx
+  * yyyy
 
 **Existing Open Educational Resources** to be used in fulfilling these objectives are:
   *  [Resource 1](http://) (Publisher) Description

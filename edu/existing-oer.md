@@ -1,17 +1,22 @@
-# Copyright Basics for Educators
+# Selecting, Using, Sharing Existing OERs for Educators
 
-The Copyright Basics module introduces you to copyright through the following units of learning:
+Introduction goes here
+ 
+The Existing OER module has the following units of learning
 
-1. Copyright Defined
-2. Purpose of Copyright
-3. Examples of What Copyright Restricts
-4. Public Domain Defined
-5. Fair Use / Fair Dealing
-6. Copyright vs.Other Intellectual Property
+
+
+1. Finding Resources
+2. Evaluating Resources
+3. Remixing / Adapting Resources
+4. Institutional Policies
+
+
+
 
 ## Learning Experience
 
-To help you learn Copyright Basics each unit of learning has:
+To help you learn Legal Implementation each unit of learning has:
 
 1. A set of learning objectives
 
@@ -23,10 +28,14 @@ Learning units have been sequenced to have a logical flow but you can take them 
 
 ## Start Learning
 
-### Unit #1: Copyright Defined
+
+---
+
+### Unit #1. Finding Resources
 
 **Learning Objectives**
-  * Trace basic history of copyright
+  * xxxx
+  * yyyy
 
 **Existing Open Educational Resources** to be used in fulfilling these objectives are:
   *  [Resource 1](http://) (Publisher) Description
@@ -38,7 +47,7 @@ Learning units have been sequenced to have a logical flow but you can take them 
 
 ---
 
-### Unit #2: Purpose of Copyright
+### Unit #2. Evaluating Resources
 
 
 **Learning Objectives**
@@ -55,41 +64,9 @@ Learning units have been sequenced to have a logical flow but you can take them 
 
 ---
 
-### Unit #3. Examples of What Copyright Restricts
+### Unit #3. Remixing / Adapting Resources
 
 
-**Learning Objectives**
-  * xxxx
-  * yyyy
-  
-**Existing Open Educational Resources** to be used in fulfilling these objectives are:
-  *  [Resource 1](http://) (Publisher) Description
-  *  [Resource 2](http://) (Publisher) Description
-
-**Learning activities / assessments** are:
-  * Activity / Assessment 1
-  * Activity / Assessment 2
-
----
-
-### Unit #4. Public Domain Defined
-
-
-**Learning Objectives**
-  * xxxx
-  * yyyy
-  
-**Existing Open Educational Resources** to be used in fulfilling these objectives are:
-  *  [Resource 1](http://) (Publisher) Description
-  *  [Resource 2](http://) (Publisher) Description
-
-**Learning activities / assessments** are:
-  * Activity / Assessment 1
-  * Activity / Assessment 2
-
----
-
-### Unit #5. Fair Use / Fair Dealing
 
 
 **Learning Objectives**
@@ -106,7 +83,7 @@ Learning units have been sequenced to have a logical flow but you can take them 
 
 ---
 
-### Unit #6. Copyright vs.Other Intellectual Property
+### Unit #4. Institutional Policies
 
 
 **Learning Objectives**

@@ -1,22 +1,22 @@
-# International Implementation
+# Technical Implementation  for Administrators and Ed-Tech Directors
 
-Creative Commons licenses are standardized to work the same way everywhere in the world. 
+Creative Commons licenses and tools are native to the Internet. 
 
-Differences in copyright law and regional practices need to be taken into account for international implementation of Creative Commons. 
+The Technical Implementation module helps you learn how to use Creative Commons technologies and integrate Creative Commons into other technologies.
 
-![International Implementation](https://github.com/creativecommons/cc-cert-map/blob/master/img/InternationalImplementation.jpg "International Implementation")
+The Technical Implementation module has the following units of learning:
 
-The International Implementation module has the following units of learning:
 
-1. Country Specific Copyright Regulations
-2. Copyright vs. Other Intellectual Property (IP)
-3. Public Domain 
-4. Limitation of Copyright
-5. Communicating with Creative Commons
+1. CC’s License Chooser
+2. Technical Integration
+3. Display of License Logos
+4. Discovery of CC Licensed Content
+5. Metadata Standards
+6. Automating Attribution
 
 ## Learning Experience
 
-To help you learn International Implementation each unit of learning has:
+To help you learn Technical Implementation each unit of learning has:
 
 1. A set of learning objectives
 
@@ -28,14 +28,15 @@ Learning units have been sequenced to have a logical flow but you can take them 
 
 ## Start Learning
 
-### Unit #1: Country Specific Copyright Regulations
+---
 
-![Country Specific Copyright Regulations](https://github.com/creativecommons/cc-cert-map/blob/master/img/IntCountrySpecific.jpg "Country Specific Copyright Regulations")
+### Unit #1. CC’s License Chooser
+
+
 
 **Learning Objectives**
-* TBD
-* TBD
-* TBD
+  * xxxx
+  * yyyy
 
 **Existing Open Educational Resources** to be used in fulfilling these objectives are:
   *  [Resource 1](http://) (Publisher) Description
@@ -47,14 +48,11 @@ Learning units have been sequenced to have a logical flow but you can take them 
 
 ---
 
-### Unit #2: Copyright vs. Other IP
-
-![Copyright vs. Other IP](https://github.com/creativecommons/cc-cert-map/blob/master/img/IntCopyrightvsOtherIP.jpg "Copyright vs. Other IP")
+### Unit #2. Technical Integration
 
 **Learning Objectives**
-* TBD
-* TBD
-* TBD
+  * xxxx
+  * yyyy
 
 **Existing Open Educational Resources** to be used in fulfilling these objectives are:
   *  [Resource 1](http://) (Publisher) Description
@@ -66,14 +64,13 @@ Learning units have been sequenced to have a logical flow but you can take them 
 
 ---
 
-### Unit #3: Public Domain
+### Unit #3. Display of License Logos
 
-![Public Domain](https://github.com/creativecommons/cc-cert-map/blob/master/img/IntPublicDomain.jpg "Public Domain")
+
 
 **Learning Objectives**
-* TBD
-* TBD
-* TBD
+  * xxxx
+  * yyyy
 
 **Existing Open Educational Resources** to be used in fulfilling these objectives are:
   *  [Resource 1](http://) (Publisher) Description
@@ -82,17 +79,15 @@ Learning units have been sequenced to have a logical flow but you can take them 
 **Learning activities / assessments** are:
   * Activity / Assessment 1
   * Activity / Assessment 2
-
+  
 ---
 
-### Unit #4: Limitations of Copyright
+### Unit #4. Discovery of CC Licensed Content
 
-![Limitations of Copyright](https://github.com/creativecommons/cc-cert-map/blob/master/img/IntLimitationsofCopyright.jpg "Limitations of Copyright")
 
 **Learning Objectives**
-* TBD
-* TBD
-* TBD
+  * xxxx
+  * yyyy
 
 **Existing Open Educational Resources** to be used in fulfilling these objectives are:
   *  [Resource 1](http://) (Publisher) Description
@@ -101,17 +96,35 @@ Learning units have been sequenced to have a logical flow but you can take them 
 **Learning activities / assessments** are:
   * Activity / Assessment 1
   * Activity / Assessment 2
-
+  
 ---
 
-### Unit #5: Communicating With Creative Commons
+### Unit #5. Metadata Standards
 
-![Communicating With Creative Commons](https://github.com/creativecommons/cc-cert-map/blob/master/img/IntCommunicatingCC.jpg "Communicating With Creative Commons")
+
+
 
 **Learning Objectives**
-* TBD
-* TBD
-* TBD
+  * xxxx
+  * yyyy
+
+**Existing Open Educational Resources** to be used in fulfilling these objectives are:
+  *  [Resource 1](http://) (Publisher) Description
+  *  [Resource 2](http://) (Publisher) Description
+
+**Learning activities / assessments** are:
+  * Activity / Assessment 1
+  * Activity / Assessment 2
+  
+---
+
+### Unit #6. Automating Attribution
+
+
+
+**Learning Objectives**
+  * xxxx
+  * yyyy
 
 **Existing Open Educational Resources** to be used in fulfilling these objectives are:
   *  [Resource 1](http://) (Publisher) Description
