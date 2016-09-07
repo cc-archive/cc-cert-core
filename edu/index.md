@@ -24,15 +24,15 @@ At the end of training people who receive the certificate should be able to use 
   * [Designing Courses](course-design.md)
   * [Advocacy](advocacy-educators.md)
   
-## For Administration & Ed-Tech Directors
+## For Administrators (Leaders, Ed-Tech Directors)
 
-* **Educator CORE**
+* **Administrator CORE**
   * [Copyright Basics](copyright-admin.md)
   * [Creative Commons License Suite](licenses-admin.md)
   * [Technical Implementation](technical-admin.md)
 
 
-* **Educator Specialized Modules**
+* **Administrator Specialized Modules**
   * [Procurement Policies](procurement-admin.md)
   * [State / District IP Policies](policies-admin.md)
   * [Professional Learning](professional-admin.md)
