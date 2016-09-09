@@ -8,6 +8,7 @@ This GitHub repository will be the canonical content for structure of the Creati
 ## Learn More
 
 * [Learn more about the project](https://certificates.creativecommons.org/about/)
+* [Introduction to all of the Certifications](https://certificates.creativecommons.org/certs/)
 * [Blog posts about the design and development approach](https://certificates.creativecommons.org/)
 * [View the Certificates published to Wordpress](https://certificates.creativecommons.org/certs)
 * View the Certificates in GitHub format (see below)
