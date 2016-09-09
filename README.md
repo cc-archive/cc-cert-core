@@ -33,7 +33,6 @@ This GitHub repository will be the canonical content for structure of the Creati
   * [Technical Implementation](core/technical.md)
   * [International Implementation](core/international.md)
 
-----
 
 ---- 
 
@@ -69,7 +68,7 @@ This GitHub repository will be the canonical content for structure of the Creati
   * [Advocacy](edu/advocacy-admin.md)
 
 
-
-###
-Note: This repo was original developed for a prototype as a "map" of the initial draft specification rendered as a single site http://creativecommons.github.io/cc-cert-map/ Since then the development track has shifted. This might disappear
+---- 
+### Note
+*This repo was original developed for a prototype as a "map" of the initial draft specification rendered as a single site; this is now archived at https://cogdog.github.io/cc-cert-map-archive/
 
