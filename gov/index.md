@@ -71,11 +71,6 @@ The Government certificates is made up of selected components of learning that c
   * [Legal Implementation](legal-gov2.md)
   * [Technical Implementation](technical-gov2.md)
 
-## Units of Learning
-
-Units of learning across all modules are:
-
-![Expanded details of core modules](https://github.com/creativecommons/cc-cert-map/blob/master/img/UnitsofLearning2.jpg "Each CORE module breaks down further into units of learning")
 
 
 
