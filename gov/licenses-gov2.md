@@ -1,4 +1,4 @@
-# Creative Commons Licenses
+# Creative Commons Licenses for Lawyers and Acquisitions (GOV2)
 
 The Creative Commons copyright licenses offer flexible options still within copyright law's “all rights reserved” setting. 
 

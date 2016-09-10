@@ -1,4 +1,4 @@
-# The Commons
+# The Commons for Lawyers and Acquisitions (GOV2)
 
 The Commons has long played a historical role in making cultural and natural resources accessible to all members of a society. 
 

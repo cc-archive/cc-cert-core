@@ -1,4 +1,4 @@
-# Copyright Basics
+# Copyright Basics for Lawyers and Acquisitions (GOV2)
 
 Creative Commons  free, easy-to-use, copyright licenses provide a simple, standardized way to give permissions to share and use creative work – under conditions the creator chooses. 
 

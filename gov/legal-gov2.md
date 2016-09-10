@@ -1,4 +1,4 @@
-# Legal Implementation
+# Legal Implementation for Lawyers and Acquisitions (GOV2)
 
 Creative Commons licenses relate to copyright law. 
 

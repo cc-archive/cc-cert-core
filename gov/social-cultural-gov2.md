@@ -1,4 +1,4 @@
-# Socio / Cultural Implementation
+# Socio / Cultural Implementation for Lawyers and Acquisitions (GOV2)
 
 The Commons and use of Creative Commons both involve social and cultural norms and practices. 
 
