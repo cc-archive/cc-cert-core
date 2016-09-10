@@ -69,6 +69,31 @@ This GitHub repository will be the canonical content for structure of the Creati
   * [Advocacy](edu/advocacy-admin.md)
 
 
+---- Government Certification
+
+* [Government Certification](gov/index.md) Introduction and overview
+
+* **Grants & Contracts (GOV1) Subset of CORE**
+  * [The Commons](commons-gov1.md)
+  * [Copyright Basics](copyright-gov1.md)
+  * [Creative Commons License Suite](gov1.md)
+
+* **Grants & Contracts Specialized Modules**
+  * [Socio / Cultural Implementation](social-cultural-gov1.md)
+  * [Legal Implementation](legal-gov1.md)
+  * [Technical Implementation](technical-gov1.md)
+  
+* *Lawyers and Acquisitions (GOV2) *Subset of CORE**
+  * [The Commons](commons-gov2.md)
+  * [Copyright Basics](copyright-gov2.md)
+  * [Creative Commons License Suite](gov2.md)
+
+* **Lawyers and Acquisitions Specialized Modules**
+  * [Socio / Cultural Implementation](social-cultural-gov2.md)
+  * [Legal Implementation](legal-gov2.md)
+  * [Technical Implementation](technical-gov2.md)
+
+
 ---- 
 ### Note
 *This repo was original developed for a prototype as a "map" of the initial draft specification rendered as a single site; this is now archived at https://cogdog.github.io/cc-cert-map-archive/
