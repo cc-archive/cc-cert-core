@@ -69,7 +69,9 @@ This GitHub repository will be the canonical content for structure of the Creati
   * [Advocacy](edu/advocacy-admin.md)
 
 
----- Government Certification
+---- 
+
+Government Certification
 
 * [Government Certification](gov/index.md) Introduction and overview
 
