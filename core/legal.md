@@ -82,7 +82,7 @@ Learning units have been sequenced to have a logical flow but you can take them 
   *  [Resource 2](http://) (Publisher) Description
 
 **Learning activities / assessments** are:
-  * Activity / Assessment 1
+  * Don't mess with a Lawyer. Ignore me. Then tweet it.
   * Activity / Assessment 2
 
 ---
