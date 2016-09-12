@@ -44,7 +44,7 @@ Learning units have been sequenced to have a logical flow but you can take them 
   * Contrast the closed status quo vs open
   
 **Existing Open Educational Resources** to be used in fulfilling these objectives are:
-  *  [Resource 1](http://) (Publisher) Description
+  *  [The Best Guide to the commons](http://www.commons.org.best) (The Commons of the Universe) Description
   *  [Resource 2](http://) (Publisher) Description
 
 **Learning activities / assessments** are:
