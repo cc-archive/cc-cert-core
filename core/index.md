@@ -1,6 +1,6 @@
 # Introduction to Creative Commons CORE
 
-CORE is a learning blueprint for acquiring comprehenive Creative Commons knowledge and skill. 
+CORE is a learning blueprint for acquiring comprehensive Creative Commons knowledge and skill. 
 
 CORE is for those seeking deep Creative Commons expertise, including those involved in intensive use of Creative Commons and those who lead and support use of Creative Commons by others. CORE is the means by which someone becomes certified to train others about Creative Commons.
 
