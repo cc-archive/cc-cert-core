@@ -108,7 +108,7 @@ http://bollier.org/audio/download/139/WK4-Bollier.mp3 5:00-7:47 (Unsure of copyr
 
 **Answering the Big Question**
 
-  * We’re all familiar with the ideas of markets and governments, but we tend to be less familiar with the idea of a Commons. However, once you understand what a Commons is and how it works you begin to see that they’re all around you - from online communities that develop open source software or open content to face to face communities that manage community gardens or bike co-ops. Commoning is a powerful, proven strategy for coming together to managing resources in a way that ensures that members of the community will continue to have access to the resources - without resorting to the potential abuses of markets and inefficiencies of governments.
+We’re all familiar with the ideas of markets and governments, but we tend to be less familiar with the idea of a Commons. However, once you understand what a Commons is and how it works you begin to see that they’re all around you - from online communities that develop open source software or open content to face to face communities that manage community gardens or bike co-ops. Commoning is a powerful, proven strategy for coming together to managing resources in a way that ensures that members of the community will continue to have access to the resources - without resorting to the potential abuses of markets and inefficiencies of governments.
 
 ---
 
