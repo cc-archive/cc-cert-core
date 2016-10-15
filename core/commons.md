@@ -89,6 +89,7 @@ http://bollier.org/audio/download/139/WK4-Bollier.mp3 5:00-7:47 (Unsure of copyr
 
 
 **Learning activities / assessments** are:
+
   * Identify a Commons you participate in and briefly describe the nature of the resources shared in that Commons, some of the people who participate in that Commons, and some of the community’s norms about how to create, manage, and sustain the resources in that Commons. How do you benefit from your participation in that Commons? What do you contribute to that Commons?
   * Identify a resource that you currently use and find a commons resource to replace that artifact with a commons resource
   * Select an artifact and evaluate its added contribution to the commons 
