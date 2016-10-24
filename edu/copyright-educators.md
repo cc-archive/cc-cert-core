@@ -26,7 +26,15 @@ Learning units have been sequenced to have a logical flow but you can take them 
 ### Unit #1: Copyright Defined
 
 **Learning Objectives**
-  * Trace basic history of copyright
+  * Explain copyright purpose
+  * Mark authorship and copyright
+  * Understand idea vs expression difference
+  * Understand copyright is automatic
+  * Explain general copyright terms
+  * Understand moral rights
+  * Understand copyright scope
+   
+
 
 **Existing Open Educational Resources** to be used in fulfilling these objectives are:
   *  [Resource 1](http://) (Publisher) Description
