@@ -5,7 +5,7 @@
 *Composite of [Fictional Medieval Manor](https://commons.wikimedia.org/wiki/File:Plan_mediaeval_manor.jpg) dervivative Wikimedia Commons image by William R. Shepherd (1923) licensed under [Public Domain](https://en.wikipedia.org/wiki/public_domain) and   [Wikipedia Logo 1.0](https://commons.wikimedia.org/wiki/File:Wikipedia_Logo_1.0.png)  Wikimedia Commons image by [Nohat](https://meta.wikimedia.org/wiki/User:Nohat)  licensed under [CC-BY-SA](https://creativecommons.org/licenses/by-sa/3.0/)*
 
 
-## Asking the Big Question
+## The Big Question
 
 What do Wikipedia and medieval English pasture lands have in common? (Hint: the answer is right there in the question.) And why should you care?
 
@@ -143,9 +143,9 @@ Read about the sustainability of the commons under the section 3 "Are Commons Su
 
 ---
 
-While very popular as a phrase, many have criticized "the Tragedy of the commons" most notably by Ian Angus, editor of Climate and Capitalism. In 2008, Angus published [The Myth of the Tragedy of the Commons](http://mrzine.monthlyreview.org/2008/angus250808.html) in the *Monthly Review.* 
+While very popular as a phrase, many have criticized "the tragedy of the commons" most notably Ian Angus, editor of Climate and Capitalism. In 2008 he published [The Myth of the Tragedy of the Commons](http://mrzine.monthlyreview.org/2008/angus250808.html) in the *Monthly Review.* 
 
-As summarized in  [Debunking the Tragedy of the Commons](http://www.onthecommons.org/debunking-tragedy-commons) published in [On the Commons](http://www.onthecommons.org/)
+As summarized in  [Debunking the Tragedy of the Commons](http://www.onthecommons.org/debunking-tragedy-commons) 
 
 > Angus notes that Hardin offers no empirical evidence that herders actually overgraze their cattle on shared plots of land, let alone that this is the general rule for shared resources. He also notes that Hardin provides no evidence that private ownership necessarily manages a resource more responsibly; indeed, the “tragedy of the market” is a well-documented phenomenon. Angus also reviews briefly the political usefulness of the tragedy thesis, and its continued misuse in contemporary economics and policy.
 
@@ -156,7 +156,7 @@ Explore Angus's arguments in [The Myth of the Tragedy of the Commons](http://mrz
 * [The World of the Commons: Beyond Market and State](http://wealthofthecommons.org/contents) book edited by [David Bollier](http://bollier.org/) and [Silke Helfrich](http://commonsblog.de/)  licensed under [CC-BY](http://creativecommons.org/licenses/by/3.0/us/)
 * [Free Culture Game](http://www.molleindustria.org/en/freeculturegame/) online interactive game (requires Flash) created by [Molleindustria](http://www.molleindustria.org/) licensed under [CC-BY-SA](http://creativecommons.org/licenses/by-nc-sa/3.0/deed.en_US)
   
-## The Quest: Answering the Big Question
+## Your Quest: Taking on the Big Question
 
 We’re all familiar with the ideas of markets and governments, but we tend to be less familiar with the idea of a Commons. 
 
