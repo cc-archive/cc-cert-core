@@ -12,16 +12,19 @@ A short introduction to this unit. Make it interesting, eh?
 ## What is The Commons?
 
 ![The Commons](https://github.com/creativecommons/cc-cert-map/blob/master/img/core/the-commons.jpg "The Commons")
+
 [The Commons Nature Reserve W.G.C](http://www.geograph.org.uk/photo/1257161) Geograph photo by [Paul Shreeve](http://www.geograph.org.uk/profile/20403) is licensed under [CC-BY-SA](http://creativecommons.org/licenses/by-sa/2.0/) / cropped from original
 
 To understand the commons, how the commons works and to understand some of the history of the commons, read and watch the following: 
 
+--- 
 [How Does The Commons Work?](https://www.youtube.com/watch?v=7bQiBcd7mBc) YouTube video by [The Next System Project](https://www.youtube.com/watch?v=7bQiBcd7mBc)  is licensed under [CC-BY](https://creativecommons.org/licenses/by/3.0/)
 
 > How can we use "commoning" as a process to transform the social paradigm of our current system? In his paper for our "New Systems: Possibilities and Proposals" series exploring viable political-economic alternatives to the present order, economist David Bollier suggests we rethink the traditional "tragedy of the commons" argument, moving instead toward new and innovative ways to equitably manage shared resources. 
 
 https://www.youtube.com/watch?v=7bQiBcd7mBc
 
+---
 
 [The Commons, Short and Sweet](http://bollier.org/commons-short-and-sweet) blog post by [David Bollier](http://bollier.org/)  is licensed under [CC-BY](http://creativecommons.org/licenses/by/3.0/us/)
 
@@ -36,16 +39,21 @@ https://www.youtube.com/watch?v=7bQiBcd7mBc
 
 [Read more... ](http://bollier.org/commons-short-and-sweet)
 
+---
+
 [Define the Commons - David Bollier, USA](https://www.youtube.com/watch?v=41Dr8Te1OwE) YouTube video by [Remix The Commons](https://www.youtube.com/channel/UChz4DMZKHYnAPVEjXduVFIA)  is licensed under [CC-BY](https://creativecommons.org/licenses/by/3.0/)
 
 > A definition of the "Commons" proposed by David Bollier, a member of the Commons Strategies Group (CSG), taken from an interview conducted by Alain Ambrosi, at the Economics and the Commons Conference  which took place in Berlin from 22 to 24 May 2013. 
 
 https://www.youtube.com/watch?v=41Dr8Te1OwE
 
+---
   
 ## Why is the Commons Important? 
 
 Now that we understand the Commons, let’s talk a little bit about why the commons is important.
+
+---
 
 [The Political Economy of Commons](http://www.benkler.org/Upgrade-Novatica%20Commons.pdf) a published paper in UPGRADE (European Journal for the
 Informatics Professional) PDF by  [Yochai Benkler](http://benkler.org) is licensed under [CC-BY](http://creativecommons.org/licenses/by/3.0/)
@@ -67,10 +75,12 @@ Informatics Professional) PDF by  [Yochai Benkler](http://benkler.org) is licens
 
 [Read more... ](https://web.archive.org/web/20130617041302/http://www.boell.org/downloads/Benkler_The_Political_Economy_of_the_Commons.pdf)
 
+---
 
 ## What is Enclosure?
 
 ![Enclosure Boundary](https://github.com/creativecommons/cc-cert-map/blob/master/img/core/hedge-enclosure-boundary.jpg "photo of Enclosure Boundary")
+
 [NZ0314 : Decaying hedge](http://www.geograph.org.uk/photo/1715089) Geograph photo by [Andy Waddington](http://www.geograph.org.uk/profile/34816) is licensed under [CC-BY-SA](http://creativecommons.org/licenses/by-sa/2.0/) / cropped from original
 
 
@@ -92,6 +102,7 @@ To further understand enclosure as a concept, let’s take a look at the effects
 ## The Tragedy of the Commons
 
 ![Grazing](https://github.com/creativecommons/cc-cert-map/blob/master/img/core/grazing.jpg "photo of a horse grazing")
+
 [Grazing](https://www.flickr.com/photos/pmarkham/3532783271) flickr photo by [Pete Marhham](https://www.flickr.com/photos/pmarkham/) is licensed under [CC-BY-SA](https://creativecommons.org/licenses/by-sa/2.0/)
 
 Read about the sustainability of the commons under the section 3 "Are Commons Sustainable?" from Yochai Benkler's *The Political Economy of Commons*
@@ -102,6 +113,8 @@ Read about the sustainability of the commons under the section 3 "Are Commons Su
 > In the late 1960s Garrett Hardin coined an immensely effective trope, *“the tragedy of the commons.”* Originally aimed to explain why private incentives would lead to firms to pollute their environment even against their own long term interest, and thereby to justify pollution controls, the trope took on a life of its own. It came to stand for a proposition that all commons are tragic, and that property rights are a necessary precondition to efficient, or even sustainable, resource management. Over the past twenty years or so, we have seen the development of a literature that challenges this now-standard understanding of commons. Most crisply this effort has come to be crystallized in the work of Eleanor Ostrom. A recent review and bibliographic essay by Hess and Ostrom provides an excellent overview of this literature. The crux of most of this work is that there are certain circumstances under which common property regimes are sustainable, and quite possibly more efficient than individual property regimes.
 
 [Read more...](http://www.benkler.org/Upgrade-Novatica%20Commons.pdf)
+
+---
 
 While very popular as a phrase, many have criticized "the Tragedy of the commons" most notably by Ian Angus, editor of Climate and Capitalism. In 2008, Angus published [The Myth of the Tragedy of the Commons](http://mrzine.monthlyreview.org/2008/angus250808.html) in the *Monthly Review.* 
 
