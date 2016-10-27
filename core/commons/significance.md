@@ -39,13 +39,13 @@ What Commons are you a part of? Can you think of a group you belong to that coll
 
 ![The Commons](https://github.com/creativecommons/cc-cert-map/blob/master/img/core/the-commons.jpg "The Commons")
 
-*[The Commons Nature Reserve W.G.C](http://www.geograph.org.uk/photo/1257161) Geograph photo by [Paul Shreeve](http://www.geograph.org.uk/profile/20403) is licensed under [CC-BY-SA](http://creativecommons.org/licenses/by-sa/2.0/) / cropped from original*
+*[The Commons Nature Reserve W.G.C](http://www.geograph.org.uk/photo/1257161) Geograph photo by [Paul Shreeve](http://www.geograph.org.uk/profile/20403) licensed under [CC-BY-SA](http://creativecommons.org/licenses/by-sa/2.0/) / cropped from original*
 
 
 To understand the commons, how the commons works and to understand some of the history of the commons, read and watch the following: 
 
 --- 
-[How Does The Commons Work?](https://www.youtube.com/watch?v=7bQiBcd7mBc) YouTube video by [The Next System Project](https://www.youtube.com/watch?v=7bQiBcd7mBc)  is licensed under [CC-BY](https://creativecommons.org/licenses/by/3.0/)
+[How Does The Commons Work?](https://www.youtube.com/watch?v=7bQiBcd7mBc) YouTube video by [The Next System Project](https://www.youtube.com/watch?v=7bQiBcd7mBc) licensed under [CC-BY](https://creativecommons.org/licenses/by/3.0/)
 
 > How can we use "commoning" as a process to transform the social paradigm of our current system? In his paper for our "New Systems: Possibilities and Proposals" series exploring viable political-economic alternatives to the present order, economist David Bollier suggests we rethink the traditional "tragedy of the commons" argument, moving instead toward new and innovative ways to equitably manage shared resources. 
 
@@ -53,7 +53,7 @@ https://www.youtube.com/watch?v=7bQiBcd7mBc
 
 ---
 
-[The Commons, Short and Sweet](http://bollier.org/commons-short-and-sweet) blog post by [David Bollier](http://bollier.org/)  is licensed under [CC-BY](http://creativecommons.org/licenses/by/3.0/us/)
+[The Commons, Short and Sweet](http://bollier.org/commons-short-and-sweet) blog post by [David Bollier](http://bollier.org/) licensed under [CC-BY](http://creativecommons.org/licenses/by/3.0/us/)
 
 > I am always trying to figure out how to explain the idea of the commons to newcomers who find it hard to grasp.  In preparation for a talk that I gave at the Caux Forum for Human Security, near Montreux, Switzerland, I came up with a fairly short overview, which I have copied below.  I think it gets to the nub of things. 
 
@@ -68,7 +68,7 @@ https://www.youtube.com/watch?v=7bQiBcd7mBc
 
 ---
 
-[Define the Commons - David Bollier, USA](https://www.youtube.com/watch?v=41Dr8Te1OwE) YouTube video by [Remix The Commons](https://www.youtube.com/channel/UChz4DMZKHYnAPVEjXduVFIA)  is licensed under [CC-BY](https://creativecommons.org/licenses/by/3.0/)
+[Define the Commons - David Bollier, USA](https://www.youtube.com/watch?v=41Dr8Te1OwE) YouTube video by [Remix The Commons](https://www.youtube.com/channel/UChz4DMZKHYnAPVEjXduVFIA) licensed under [CC-BY](https://creativecommons.org/licenses/by/3.0/)
 
 > A definition of the "Commons" proposed by David Bollier, a member of the Commons Strategies Group (CSG), taken from an interview conducted by Alain Ambrosi, at the Economics and the Commons Conference  which took place in Berlin from 22 to 24 May 2013. 
 
@@ -83,7 +83,7 @@ Now that we understand the Commons, let’s talk a little bit about why the comm
 ---
 
 [The Political Economy of Commons](http://www.benkler.org/Upgrade-Novatica%20Commons.pdf) a published paper in UPGRADE (European Journal for the
-Informatics Professional) PDF by  [Yochai Benkler](http://benkler.org) is licensed under [CC-BY](http://creativecommons.org/licenses/by/3.0/)
+Informatics Professional) PDF by  [Yochai Benkler](http://benkler.org) licensed under [CC-BY](http://creativecommons.org/licenses/by/3.0/)
 
   
 > Why Commons? 
@@ -108,7 +108,7 @@ Informatics Professional) PDF by  [Yochai Benkler](http://benkler.org) is licens
 
 ![Enclosure Boundary](https://github.com/creativecommons/cc-cert-map/blob/master/img/core/hedge-enclosure-boundary.jpg "photo of Enclosure Boundary")
 
-*[NZ0314 : Decaying hedge](http://www.geograph.org.uk/photo/1715089) Geograph photo by [Andy Waddington](http://www.geograph.org.uk/profile/34816) is licensed under [CC-BY-SA](http://creativecommons.org/licenses/by-sa/2.0/) / cropped from original*
+*[NZ0314 : Decaying hedge](http://www.geograph.org.uk/photo/1715089) Geograph photo by [Andy Waddington](http://www.geograph.org.uk/profile/34816) licensed under [CC-BY-SA](http://creativecommons.org/licenses/by-sa/2.0/) / cropped from original*
 
 
 Like the idea of The Commons, the process of enclosure came too from the history of land ownership in England. Explore it's history and ongoing occurrence from the definition in Wikipedia.
@@ -130,11 +130,11 @@ To further understand enclosure as a concept, let’s take a look at the effects
 
 ![Grazing](https://github.com/creativecommons/cc-cert-map/blob/master/img/core/grazing.jpg "photo of a horse grazing")
 
-*[Grazing](https://www.flickr.com/photos/pmarkham/3532783271) flickr photo by [Pete Marhham](https://www.flickr.com/photos/pmarkham/) is licensed under [CC-BY-SA](https://creativecommons.org/licenses/by-sa/2.0/)*
+*[Grazing](https://www.flickr.com/photos/pmarkham/3532783271) flickr photo by [Pete Marhham](https://www.flickr.com/photos/pmarkham/) licensed under [CC-BY-SA](https://creativecommons.org/licenses/by-sa/2.0/)*
 
 Read about the sustainability of the commons under the section 3 "Are Commons Sustainable?" from Yochai Benkler's *The Political Economy of Commons*
 
-[The Political Economy of Commons](http://www.benkler.org/Upgrade-Novatica%20Commons.pdf) a published paper in UPGRADE (European Journal for the Informatics Professional) PDF by  [Yochai Benkler](http://benkler.org) is licensed under [CC-BY](http://creativecommons.org/licenses/by/3.0/) starting on page 7
+[The Political Economy of Commons](http://www.benkler.org/Upgrade-Novatica%20Commons.pdf) a published paper in UPGRADE (European Journal for the Informatics Professional) PDF by  [Yochai Benkler](http://benkler.org) licensed under [CC-BY](http://creativecommons.org/licenses/by/3.0/) starting on page 7
 
 
 > In the late 1960s Garrett Hardin coined an immensely effective trope, *“the tragedy of the commons.”* Originally aimed to explain why private incentives would lead to firms to pollute their environment even against their own long term interest, and thereby to justify pollution controls, the trope took on a life of its own. It came to stand for a proposition that all commons are tragic, and that property rights are a necessary precondition to efficient, or even sustainable, resource management. Over the past twenty years or so, we have seen the development of a literature that challenges this now-standard understanding of commons. Most crisply this effort has come to be crystallized in the work of Eleanor Ostrom. A recent review and bibliographic essay by Hess and Ostrom provides an excellent overview of this literature. The crux of most of this work is that there are certain circumstances under which common property regimes are sustainable, and quite possibly more efficient than individual property regimes.
@@ -153,8 +153,8 @@ Explore Angus's arguments in [The Myth of the Tragedy of the Commons](http://mrz
 
 ## More to Explore
 
-* [The World of the Commons: Beyond Market and State](http://wealthofthecommons.org/contents) book edited by [David Bollier](http://bollier.org/) and [Silke Helfrich](http://commonsblog.de/)  is licensed under [CC-BY](http://creativecommons.org/licenses/by/3.0/us/)
-* [Free Culture Game](http://www.molleindustria.org/en/freeculturegame/) online interactive game (requires Flash) created by [Molleindustria](http://www.molleindustria.org/) is licensed under [CC-BY-SA](http://creativecommons.org/licenses/by-nc-sa/3.0/deed.en_US)
+* [The World of the Commons: Beyond Market and State](http://wealthofthecommons.org/contents) book edited by [David Bollier](http://bollier.org/) and [Silke Helfrich](http://commonsblog.de/)  licensed under [CC-BY](http://creativecommons.org/licenses/by/3.0/us/)
+* [Free Culture Game](http://www.molleindustria.org/en/freeculturegame/) online interactive game (requires Flash) created by [Molleindustria](http://www.molleindustria.org/) licensed under [CC-BY-SA](http://creativecommons.org/licenses/by-nc-sa/3.0/deed.en_US)
   
 ## The Quest: Answering the Big Question
 
