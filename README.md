@@ -21,7 +21,7 @@ This GitHub repository will be the canonical content for structure of the Creati
 
 ## CORE Certificate
 
-* [Core Certification](code/index.md) Introduction and overview
+* [Core Certification](core/index.md) Introduction and overview
 
 * **Required Modules**
   * [Copyright Basics](core/copyright.md)
