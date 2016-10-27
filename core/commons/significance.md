@@ -1,19 +1,46 @@
 # Unit #1: Significance of the Commons
 
-A short introduction to this unit. Make it interesting, eh?
+!["English Pasture and Wikipedia logo](https://github.com/creativecommons/cc-cert-map/blob/master/img/core/pasture-wikipedia.jpg "English Pasture and Wikipedia logo")
 
-## Learning Objectives
-* Define the public domain/commons and its historical significance
+*Composite of [Fictional Medieval Manor](https://commons.wikimedia.org/wiki/File:Plan_mediaeval_manor.jpg) dervivative Wikimedia Commons image by William R. Shepherd (1923) licensed under [Public Domain](https://en.wikipedia.org/wiki/public_domain) and   [Wikipedia Logo 1.0](https://commons.wikimedia.org/wiki/File:Wikipedia_Logo_1.0.png)  Wikimedia Commons image by [Nohat](https://meta.wikimedia.org/wiki/User:Nohat)  licensed under [CC-BY-SA](https://creativecommons.org/licenses/by-sa/3.0/)*
+
+
+## Asking the Big Question
+
+What do Wikipedia and medieval English pasture lands have in common? (Hint: the answer is right there in the question.) And why should you care?
+
+Both Wikipedia and medieval English pasture lands are examples of a Commons. [As economist David Bollier describes it](http://bollier.org/commons-short-and-sweet)
+
+> a Commons arises whenever a given community decides it wishes to manage a resource in a collective manner, with special regard for equitable access, use and sustainability”.
+
+Commons are everywhere - from modern web communities to ancient agrarian communities - and understanding what they are and how they function is key to understanding the world around us. 
+
+You probably participate in one or more Commons yourself - and by the time you finish this module you’ll be able to recognize a Commons you are part of, describe what makes it a Commons, and identify potential threats to the sustainability of your Commons.    
+
+
+## Learning Outcomes
+* Define the commons and its historical significance
 * Describe historical and ongoing enclosure of the commons
+* Specific threat to the commons via business models
 * Contrast Hardin’s theoretical “Tragedy of the Commons” to Ostrom’s findings on how communities self-govern commons in practice
 * Provide examples of common resources
+* Describe and provide examples of public goods
 * Describe culture as a form of Commons
+* Evaluate whether something should be in the commons
+* Contrast the closed status quo vs open
+
+## Opening Questions
+
+What Commons are you a part of? Can you think of a group you belong to that collectively manages a resource in order to make sure that everyone will have ongoing access to the resource? What do you contribute to your Commons? 
+
+
   
 ## What is The Commons?
 
 ![The Commons](https://github.com/creativecommons/cc-cert-map/blob/master/img/core/the-commons.jpg "The Commons")
 
-[The Commons Nature Reserve W.G.C](http://www.geograph.org.uk/photo/1257161) Geograph photo by [Paul Shreeve](http://www.geograph.org.uk/profile/20403) is licensed under [CC-BY-SA](http://creativecommons.org/licenses/by-sa/2.0/) / cropped from original
+*[The Commons Nature Reserve W.G.C](http://www.geograph.org.uk/photo/1257161) Geograph photo by [Paul Shreeve](http://www.geograph.org.uk/profile/20403) is licensed under [CC-BY-SA](http://creativecommons.org/licenses/by-sa/2.0/) / cropped from original*
+
 
 To understand the commons, how the commons works and to understand some of the history of the commons, read and watch the following: 
 
@@ -81,7 +108,7 @@ Informatics Professional) PDF by  [Yochai Benkler](http://benkler.org) is licens
 
 ![Enclosure Boundary](https://github.com/creativecommons/cc-cert-map/blob/master/img/core/hedge-enclosure-boundary.jpg "photo of Enclosure Boundary")
 
-[NZ0314 : Decaying hedge](http://www.geograph.org.uk/photo/1715089) Geograph photo by [Andy Waddington](http://www.geograph.org.uk/profile/34816) is licensed under [CC-BY-SA](http://creativecommons.org/licenses/by-sa/2.0/) / cropped from original
+*[NZ0314 : Decaying hedge](http://www.geograph.org.uk/photo/1715089) Geograph photo by [Andy Waddington](http://www.geograph.org.uk/profile/34816) is licensed under [CC-BY-SA](http://creativecommons.org/licenses/by-sa/2.0/) / cropped from original*
 
 
 Like the idea of The Commons, the process of enclosure came too from the history of land ownership in England. Explore it's history and ongoing occurrence from the definition in Wikipedia.
@@ -103,7 +130,7 @@ To further understand enclosure as a concept, let’s take a look at the effects
 
 ![Grazing](https://github.com/creativecommons/cc-cert-map/blob/master/img/core/grazing.jpg "photo of a horse grazing")
 
-[Grazing](https://www.flickr.com/photos/pmarkham/3532783271) flickr photo by [Pete Marhham](https://www.flickr.com/photos/pmarkham/) is licensed under [CC-BY-SA](https://creativecommons.org/licenses/by-sa/2.0/)
+*[Grazing](https://www.flickr.com/photos/pmarkham/3532783271) flickr photo by [Pete Marhham](https://www.flickr.com/photos/pmarkham/) is licensed under [CC-BY-SA](https://creativecommons.org/licenses/by-sa/2.0/)*
 
 Read about the sustainability of the commons under the section 3 "Are Commons Sustainable?" from Yochai Benkler's *The Political Economy of Commons*
 
@@ -123,27 +150,23 @@ As summarized in  [Debunking the Tragedy of the Commons](http://www.onthecommons
 > Angus notes that Hardin offers no empirical evidence that herders actually overgraze their cattle on shared plots of land, let alone that this is the general rule for shared resources. He also notes that Hardin provides no evidence that private ownership necessarily manages a resource more responsibly; indeed, the “tragedy of the market” is a well-documented phenomenon. Angus also reviews briefly the political usefulness of the tragedy thesis, and its continued misuse in contemporary economics and policy.
 
 Explore Angus's arguments in [The Myth of the Tragedy of the Commons](http://mrzine.monthlyreview.org/2008/angus250808.html)
+
+## More to Explore
+
+* [The World of the Commons: Beyond Market and State](http://wealthofthecommons.org/contents) book edited by [David Bollier](http://bollier.org/) and [Silke Helfrich](http://commonsblog.de/)  is licensed under [CC-BY](http://creativecommons.org/licenses/by/3.0/us/)
+* [Free Culture Game](http://www.molleindustria.org/en/freeculturegame/) online interactive game (requires Flash) created by [Molleindustria](http://www.molleindustria.org/) is licensed under [CC-BY-SA](http://creativecommons.org/licenses/by-nc-sa/3.0/deed.en_US)
   
-##  Culture as a Commons
+## The Quest: Answering the Big Question
 
-This needs some more content. What does this even mean?
+We’re all familiar with the ideas of markets and governments, but we tend to be less familiar with the idea of a Commons. 
 
-Play the free culture game to apply your understanding of Free Culture. *we need to do more then send people to a link*
+However, once you understand what a Commons is and how it works you begin to see that they’re all around you - from online communities that develop open source software or open content to face to face communities that manage community gardens or bike co-ops. Commoning is a powerful, proven strategy for coming together to managing resources in a way that ensures that members of the community will continue to have access to the resources - without resorting to the potential abuses of markets and inefficiencies of governments.
 
-http://www.molleindustria.org/en/freeculturegame/   
+Answer by completing this CC Quest:
 
+**What's Your Commons?**
 
-## Learning activities / assessments ## 
+Identify a Commons you participate in and briefly describe the nature of the resources shared in that Commons, some of the people who participate in that Commons, and some of the community’s norms about how to create, manage, and sustain the resources in that Commons. How do you benefit from your participation in that Commons? What do you contribute to that Commons? [Complete this Quest](http://quests.creativecommons.org/) (link to be added).
 
-These need to be fleshed out as full quest activities. What will they produce? What artifacts?
+Increase your CC Cred by [doing additional quests](http://quests.creativecommons.org/) (link to be added).
 
-* Identify a Commons you participate in and briefly describe the nature of the resources shared in that Commons, some of the people who participate in that Commons, and some of the community’s norms about how to create, manage, and sustain the resources in that Commons. How do you benefit from your participation in that Commons? What do you contribute to that Commons?
-* Identify a resource that you currently use and find a commons resource to replace that artifact with a commons resource
-* Select an artifact and evaluate its added contribution to the commons 
-* Identify a commons and release an artifact into the commons (can be as simple as a picture). Provide a link to this artifact along with a few sentences explaining its contribution to the commons.
-
-## Answering the Big Question
-
-We’re all familiar with the ideas of markets and governments, but we tend to be less familiar with the idea of a Commons. However, once you understand what a Commons is and how it works you begin to see that they’re all around you - from online communities that develop open source software or open content to face to face communities that manage community gardens or bike co-ops. Commoning is a powerful, proven strategy for coming together to managing resources in a way that ensures that members of the community will continue to have access to the resources - without resorting to the potential abuses of markets and inefficiencies of governments.
-
-*Is anything done for this? Is there a final assessment?*
