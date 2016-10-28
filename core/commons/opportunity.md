@@ -1,13 +1,15 @@
-# Unit X: Understand Commons Opportunity
+# Unit 3: Understand Commons Opportunity
+
+Lead provocative question, like a single sentence. Eye catching. Wow.
+
+## The Big Question
+
+Big question intro. Big question intro. Big question intro. Big question intro. Big question intro. Big question intro. Big question intro. Big question intro. Big question intro. Big question intro. Big question intro. 
 
 ![lead image](https://github.com/creativecommons/cc-cert-map/blob/master/img/core/image-placeholder.png "Lead Image")
 
 *[Image Title](http://image.link) site photo by [Person Name](http://person.link)  is licensed under [CC-XX](http://creativecommons/org/licenselink)*
 
-
-## The Big Question
-
-Big
 
 ## Learning Outcomes
 * Outcome

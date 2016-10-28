@@ -1,16 +1,20 @@
 # Unit 2: Compare / Contrast Physical vs Digital Commons
 
-![Digital and Analog](https://github.com/creativecommons/cc-cert-map/blob/master/img/core/digital-analog.jpg "Digital vs Analog image, crayons on a tablet device")
-
-*[Digital Versus Analog](https://www.flickr.com/photos/derekbruff/6134574629) flickr photo by [Derek Bruff](https://www.flickr.com/photos/derekbruff/)  is licensed under [CC-BY-NC](https://creativecommons.org/licenses/by-nc/2.0/)*
+Imagine a world in which someone has invented a machine that can produce perfect copies of any food item. 
 
 
 ## The Big Question
 
-Imagine a world in which someone has invented a machine that can produce perfect copies of any food item. All you have to do is put in a single bowl of rice, or slice of pizza, or an apple, or a piece of cake, and the machine can make an infinite number of perfect copies for anyone who asks. And it can make those copies instantaneously. And for free. What would that world be like?
+All you have to do is put in a single bowl of rice, or slice of pizza, or an apple, or a piece of cake, and the machine can make an infinite number of perfect copies for anyone who asks. And it can make those copies instantaneously. And for free. What would that world be like?
 
 
 The internet is exactly this kind of machine. All you have to do is upload a bit of writing, or an image, or a video - anything that can be represented and stored as bits - and the machine can  make an infinite number of perfect copies for anyone who asks. And it can make those copies instantaneously. And for free. And send them anywhere around the world at the speed of light. What is our world currently like? What could it be like if we leveraged this technology to its potential?
+
+![Star Trek Food Replicator](https://github.com/creativecommons/cc-cert-map/blob/master/img/core/star-trek-replicator.png "graphic of a Star Trek Food Replicator")
+
+*[Star_Trek_Replicator_and_3D_printer](https://en.wikipedia.org/wiki/File:Star_Trek_Replicator_and_3D_printer.svg) Mediawiki Commons image by [Shisma](https://commons.wikimedia.org/w/index.php?title=User:Shisma) licensed under [CC-BY-SA](http://creativecommons.org/licenses/by-sa/3.0/)*
+
+
 
 ## Learning Outcomes
 
@@ -30,9 +34,11 @@ Why do we have the internet - perhaps the perfect machine for the free and open 
   
 ## What is It?
 
-![Nice image](https://github.com/creativecommons/cc-cert-map/blob/master/img/core/image-placeholder.png "Nice Image")
+![Digital and Analog](https://github.com/creativecommons/cc-cert-map/blob/master/img/core/digital-analog.jpg "Digital vs Analog image, crayons on a tablet device")
 
-*[Image Title](http://image.link) site photo by [Person Name](http://person.link)  is licensed under [CC-XX](http://creativecommons/org/licenselink)*
+*[Digital Versus Analog](https://www.flickr.com/photos/derekbruff/6134574629) flickr photo by [Derek Bruff](https://www.flickr.com/photos/derekbruff/)  is licensed under [CC-BY-NC](https://creativecommons.org/licenses/by-nc/2.0/)*
+
+
 
 
 
@@ -41,6 +47,12 @@ Why do we have the internet - perhaps the perfect machine for the free and open 
 ---
   
 ## Another Section
+
+![Nice image](https://github.com/creativecommons/cc-cert-map/blob/master/img/core/image-placeholder.png "Nice Image")
+
+*[Image Title](http://image.link) site photo by [Person Name](http://person.link)  is licensed under [CC-XX](http://creativecommons/org/licenselink)*
+
+
 
 Now that we understand it, let’s talk a little bit about why it is important.
 

@@ -1,13 +1,8 @@
-# Unit #1: Significance of the Commons
-
-!["English Pasture and Wikipedia logo](https://github.com/creativecommons/cc-cert-map/blob/master/img/core/pasture-wikipedia.jpg "English Pasture and Wikipedia logo")
-
-*Composite of [Fictional Medieval Manor](https://commons.wikimedia.org/wiki/File:Plan_mediaeval_manor.jpg) dervivative Wikimedia Commons image by William R. Shepherd (1923) licensed under [Public Domain](https://en.wikipedia.org/wiki/public_domain) and   [Wikipedia Logo 1.0](https://commons.wikimedia.org/wiki/File:Wikipedia_Logo_1.0.png)  Wikimedia Commons image by [Nohat](https://meta.wikimedia.org/wiki/User:Nohat)  licensed under [CC-BY-SA](https://creativecommons.org/licenses/by-sa/3.0/)*
-
-
-## The Big Question
+# Unit 1: Significance of the Commons
 
 What do Wikipedia and medieval English pasture lands have in common? (Hint: the answer is right there in the question.) And why should you care?
+
+## The Big Question
 
 Both Wikipedia and medieval English pasture lands are examples of a Commons. [As economist David Bollier describes it](http://bollier.org/commons-short-and-sweet)
 
@@ -16,6 +11,11 @@ Both Wikipedia and medieval English pasture lands are examples of a Commons. [As
 Commons are everywhere - from modern web communities to ancient agrarian communities - and understanding what they are and how they function is key to understanding the world around us. 
 
 You probably participate in one or more Commons yourself - and by the time you finish this module you’ll be able to recognize a Commons you are part of, describe what makes it a Commons, and identify potential threats to the sustainability of your Commons.    
+
+!["English Pasture and Wikipedia logo](https://github.com/creativecommons/cc-cert-map/blob/master/img/core/pasture-wikipedia.jpg "English Pasture and Wikipedia logo")
+
+*Composite of [Fictional Medieval Manor](https://commons.wikimedia.org/wiki/File:Plan_mediaeval_manor.jpg) dervivative Wikimedia Commons image by William R. Shepherd (1923) licensed under [Public Domain](https://en.wikipedia.org/wiki/public_domain) and   [Wikipedia Logo 1.0](https://commons.wikimedia.org/wiki/File:Wikipedia_Logo_1.0.png)  Wikimedia Commons image by [Nohat](https://meta.wikimedia.org/wiki/User:Nohat)  licensed under [CC-BY-SA](https://creativecommons.org/licenses/by-sa/3.0/)*
+
 
 
 ## Learning Outcomes
