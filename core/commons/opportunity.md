@@ -1,6 +1,6 @@
 # Unit X: Understand Commons Opportunity
 
-![lead image](https://placeholdit.imgix.net/~text?txtsize=33&txt=CC%20licensed%20image%20here&w=800&h=480 "Lead Image")
+![lead image](https://github.com/creativecommons/cc-cert-map/blob/master/img/core/image-placeholder.png "Lead Image")
 
 *[Image Title](http://image.link) site photo by [Person Name](http://person.link)  is licensed under [CC-XX](http://creativecommons/org/licenselink)*
 
@@ -23,7 +23,7 @@ Ipso lore,?
   
 ## What is It?
 
-![Nice image](https://placeholdit.imgix.net/~text?txtsize=33&txt=CC%20licensed%20image%20here&w=800&h=480 "Nice Image")
+![Nice image](https://github.com/creativecommons/cc-cert-map/blob/master/img/core/image-placeholder.png "Nice Image")
 
 *[Image Title](http://image.link) site photo by [Person Name](http://person.link)  is licensed under [CC-XX](http://creativecommons/org/licenselink)*
 
