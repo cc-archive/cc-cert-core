@@ -7,16 +7,17 @@ Creative Commons is part of that long tradition and understanding the Commons an
 ![The Commons](https://github.com/creativecommons/cc-cert-map/blob/master/img/TheCommons.jpg "The Commons")
 
 
-The Commons module includes the following units of learning:
+The Commons module includes the following units of learning. Learning units have been sequenced to have a logical flow but you can take them in any order. Start with the one that interests you the most.
 
-1. Significance of the Commons
-2. Compare / Contrast Physical vs Digital Commons
-3. Understand Commons Opportunity 
-4. Creative Commons
+
+* [Unit #1: Significance of the Commons](significance.md) - What is the history of the idea of a Commons and how is it manifested in the world today?
+* [Unit #2: Compare / Contrast Physical vs Digital Commons](physical-digital.md) - Explore the issues of sharing physical vs digital content
+* [Unit #3: Understand Commons Opportunity](opportunity.md) - How can society benefit from a thriving commons?
+* [Unit #4: Creative Commons](creative-commons.md) - How does the Creative Commons organization exemplify the concept of a digital commons?
 
 ## Learning Experience
 
-To help you learn The Commons each unit of learning has:
+To help you learn about The Commons each unit of learning has:
 
 1. A set of learning objectives
 
@@ -24,13 +25,7 @@ To help you learn The Commons each unit of learning has:
 
 3. Learning activities / assessments that ask you to apply the learning to your own context and generate evidence demonstrating you've accomplished the learning. 
 
-Learning units have been sequenced to have a logical flow but you can take them in any order. Start with the one that interests you the most.
 
-## Start Learning
 
-* [Unit #1: Significance of the Commons](significance.md) - What is the history of the idea of a Commons and how is it manifested in the world today?
-* [Unit #2: Compare / Contrast Physical vs Digital Commons](physical-digital.md) - Explore the issues of sharing physical vs digital content
-* [Unit #3: Understand Commons Opportunity](opportunity.md) - How can society benefit from a thriving commons?
-* [Unit #4: Creative Commons](creative-commons.md) - How does the Creative Commons organization exemplify the concept of a digital commons?
 
 
