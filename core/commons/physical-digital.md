@@ -1,4 +1,4 @@
-# Unit X: Compare / Contrast Physical vs Digital Commons
+# Unit 2: Compare / Contrast Physical vs Digital Commons
 
 ![Digital and Analog](https://github.com/creativecommons/cc-cert-map/blob/master/img/core/digital-analog.jpg "Digital vs Analog image, crayons on a tablet device")
 
