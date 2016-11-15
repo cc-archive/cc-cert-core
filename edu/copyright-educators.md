@@ -37,7 +37,7 @@ Learning units have been sequenced to have a logical flow but you can take them 
 
 
 **Existing Open Educational Resources** to be used in fulfilling these objectives are:
-  *  [Resource 1](http://) (Publisher) Description
+  *  [School of Open](http://schoolofopen.p2pu.org) (Publisher) Description
   *  [Resource 2](http://) (Publisher) Description
 
 **Learning activities / assessments** are:
