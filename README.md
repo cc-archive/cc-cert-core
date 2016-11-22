@@ -25,7 +25,7 @@ This GitHub repository will be the canonical content for structure of the Creati
 
 * **Required Modules**
   * [Copyright Basics](core/copyright.md)
-  * [The Commons](core/commons.md)
+  * [The Commons](core/commons/index.md)
   * [CC License Suite](core/licenses.md)
   * [Social/Cultural Implementation](core/social-cultural.md)
   
