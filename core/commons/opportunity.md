@@ -8,7 +8,7 @@ Through the magic of a new technology which can automatically capture and upload
 
 An upgrade to the technology might help users automatically offer all images they create for sale, from mobile phone photos to crayon drawings to watercolor paintings. Future versions of the technology might provide the same functionality for videos and sound recordings. 
 
-![Technology Infographics Computer](https://github.com/creativecommons/cc-cert-map/blob/master/img/core/future-scanner.png "graphic of futuristic computer interface")
+![Technology Infographics Computer](https://github.com/creativecommons/cc-cert-map/blob/master/img/core/future-scanner.jpg "graphic of futuristic computer interface")
 
 *[Technology-298256](https://pixabay.com/en/technology-informatics-computers-298256/) Pixabay image by [andreleya](https://pixabay.com/en/users/andrelyra-201440/) licensed under [CC0](https://creativecommons.org/publicdomain/zero/1.0/)*
 
