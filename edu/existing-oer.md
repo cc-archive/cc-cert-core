@@ -39,8 +39,8 @@ Learning units have been sequenced to have a logical flow but you can take them 
   * Find adequate to your work, openly licensed resources in search engines and open repositories.
 
 **Existing Open Educational Resources** to be used in fulfilling these objectives are:
-  *  [Resource 1](http://) (Publisher) Description
-  *  [Resource 2](http://) (Publisher) Description
+  *  [How to find Creative Commons licensed materials](http://www.smartcopying.edu.au/open-education/creative-commons/creative-commons-information-pack-for-teachers-and-students/how-to-find-creative-commons-licensed-materials) (Smartcopying The Official Guide to Copyright Issues for Australian Schools and TAFE) This information pack consists of bacis instructions on how to search for Creative Commons content via CC Search tool, Google, YouTube and provides list of other CC content repositories.
+  *  [Finding relevenat Open Educatioanl Resources](https://www.jisc.ac.uk/guides/open-educational-resources) (Jisc) Guide to Open Educational resources with w number of search engines to search open educational resources.
 
 **Learning activities / assessments** are:
   * Activity / Assessment 1
@@ -73,8 +73,9 @@ Learning units have been sequenced to have a logical flow but you can take them 
 
 
 **Learning Objectives**
-  * xxxx
-  * yyyy
+  * Demonstrate how different open resources can be used togheter
+  * Ensure license compatibility of licenses in selected materials
+  * Combine selected resources into a new one
 
 **Existing Open Educational Resources** to be used in fulfilling these objectives are:
   *  [Resource 1](http://) (Publisher) Description
@@ -90,8 +91,8 @@ Learning units have been sequenced to have a logical flow but you can take them 
 
 
 **Learning Objectives**
-  * xxxx
-  * yyyy
+  * Describe your institution existing policy on educatinal resources
+  * Recognise how your institution existing policy could support Open Educational Resources
 
 **Existing Open Educational Resources** to be used in fulfilling these objectives are:
   *  [Resource 1](http://) (Publisher) Description
