@@ -34,8 +34,9 @@ Learning units have been sequenced to have a logical flow but you can take them 
 ### Unit #1. Finding Resources
 
 **Learning Objectives**
-  * xxxx
-  * yyyy
+  * Plan your search: assess what type of resources and what scope of freedoms you will need (or are required by  policy/context)?
+  * Use CC search filters in popular search engines like Google and in Creative Commons search tool.
+  * Find adequate to your work, openly licensed resources in search engines and open repositories.
 
 **Existing Open Educational Resources** to be used in fulfilling these objectives are:
   *  [Resource 1](http://) (Publisher) Description
@@ -51,8 +52,10 @@ Learning units have been sequenced to have a logical flow but you can take them 
 
 
 **Learning Objectives**
-  * xxxx
-  * yyyy
+  * Compare results under different licenses and evaluate their possible re-use.
+  * Select and group resources (search results) under compatible licenses.
+  * Compare different tools and open repositories.
+  * Educate other users on how to search for CC licensed materials.
 
 **Existing Open Educational Resources** to be used in fulfilling these objectives are:
   *  [Resource 1](http://) (Publisher) Description
