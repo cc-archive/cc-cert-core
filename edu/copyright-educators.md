@@ -50,8 +50,8 @@ Learning units have been sequenced to have a logical flow but you can take them 
 
 
 **Learning Objectives**
-  * xxxx
-  * yyyy
+  * Explain copyright purpose
+  * Explain copyright role in protecting both authors and users rights
 
 **Existing Open Educational Resources** to be used in fulfilling these objectives are:
   *  [Resource 1](http://) (Publisher) Description
@@ -67,8 +67,9 @@ Learning units have been sequenced to have a logical flow but you can take them 
 
 
 **Learning Objectives**
-  * xxxx
-  * yyyy
+  * Understand copyright scope
+  * Explain acts covered by copyright
+  * Demonstrate idea vs expression difference
   
 **Existing Open Educational Resources** to be used in fulfilling these objectives are:
   *  [Resource 1](http://) (Publisher) Description
@@ -84,8 +85,8 @@ Learning units have been sequenced to have a logical flow but you can take them 
 
 
 **Learning Objectives**
-  * xxxx
-  * yyyy
+  * Explain public domain
+  * Demonstrate public domain examples 
   
 **Existing Open Educational Resources** to be used in fulfilling these objectives are:
   *  [Resource 1](http://) (Publisher) Description
@@ -101,8 +102,9 @@ Learning units have been sequenced to have a logical flow but you can take them 
 
 
 **Learning Objectives**
-  * xxxx
-  * yyyy
+  * Evaluate the application of fair use / fair dealing
+  * Differentiate examples of fair use versus licensing
+  * Illustrate fair use in educational context
 
 **Existing Open Educational Resources** to be used in fulfilling these objectives are:
   *  [Resource 1](http://) (Publisher) Description
@@ -118,8 +120,7 @@ Learning units have been sequenced to have a logical flow but you can take them 
 
 
 **Learning Objectives**
-  * xxxx
-  * yyyy
+  * Summarise diffrences between copyright, patent and trademark
 
 **Existing Open Educational Resources** to be used in fulfilling these objectives are:
   *  [Resource 1](http://) (Publisher) Description
