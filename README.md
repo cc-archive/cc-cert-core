@@ -96,6 +96,11 @@ Government Certification
   * [Technical Implementation](technical-gov2.md)
 
 
+## Library Certification
+
+* [Library Certification](lib/index.md) Introduction and overview
+
+
 ---- 
 ### Note
 *This repo was original developed for a prototype as a "map" of the initial draft specification rendered as a single site; this is now archived at https://cogdog.github.io/cc-cert-map-archive/
