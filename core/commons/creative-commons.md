@@ -6,14 +6,14 @@ What if there was a means for creators to express willingness to share their kno
 
 What if we combined that means with the power of the Internet and digital technology making it possible to share resources globally for the near marginal cost of $0?
 
-![Creative Commons](https://github.com/creativecommons/cc-cert-map/blob/master/img/cc-logo.png "Creative Commons")
+![Creative Commons](https://github.com/creativecommons/cc-cert-map/blob/master/img/core/cc-logo.png "Creative Commons")
 
 *[Creative Commons Logo](https://creativecommons.org/about/downloads/) image by [Creative Commons](https://creativecommons.org)  is licensed under [CC-BY](https://creativecommons.org/licenses/by/4.0/)*
 
 
 [Creative Commons](https://creativecommons.org) does this very thing. Created as a US non-profit in 2002 and now with a global network, Creative Commons provides legal and technical infrastructure that helps creators legally share their knowledge and creativity to build a more equitable, accessible, and innovative world. Creative Commons licenses and digital tools, combined with the Internet, are driving new forms of development, growth and productivity.
 
-![Creative Commons Staff Berlin 17-Nov-2016](https://github.com/creativecommons/cc-cert-map/blob/master/img/cc-staff.jpg "Creative Commons Staff Berlin 17-Nov-2016")
+![Creative Commons Staff Berlin 17-Nov-2016](https://github.com/creativecommons/cc-cert-map/blob/master/img/core/cc-staff.jpg "Creative Commons Staff Berlin 17-Nov-2016")
 
 *[Creative Commons Staff Berlin 17-Nov-2016](hhttps://drive.google.com/file/d/0B8IKbRz-8utNR253c2syOUFEV0E/view?usp=sharing) photo is licensed under [CC-BY](https://creativecommons.org/licenses/by/4.0/)*
 
@@ -38,7 +38,7 @@ If you could freely access creative works what kinds of works would you seek? Bo
 
 ### Introduction to Creative Commons
 
-![Our Programs screen shot from Creative Commons web site](https://github.com/creativecommons/cc-cert-map/blob/master/img/core/cc-about.jpg "Our Programs screen shot from Creative Commons web site")
+![Our Programs screen shot from Creative Commons web site](https://github.com/creativecommons/cc-cert-map/blob/master/img/core/cc-programs.jpg "Our Programs screen shot from Creative Commons web site")
 
 *[Our Programs screen shot from Creative Commons web site](https://creativecommons.org/about/) screenshot  is licensed under [CC-BY](https://creativecommons.org/licenses/by/4.0/)*
 
