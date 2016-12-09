@@ -35,8 +35,9 @@ Learning units have been sequenced to have a logical flow but you can take them 
 
 
 **Learning Objectives**
-  * xxxx
-  * yyyy
+  * Identify open educational resources that inspire you
+  * Prototype educational resource that will be open  
+  * Imagine how your open educational resourecs will work in prcatice
 
 **Existing Open Educational Resources** to be used in fulfilling these objectives are:
   *  [Resource 1](http://) (Publisher) Description
@@ -51,8 +52,8 @@ Learning units have been sequenced to have a logical flow but you can take them 
 ### Unit #2. Evaluating Resources For Publication & Sharing
 
 **Learning Objectives**
-  * xxxx
-  * yyyy
+  * Choose license for created resource
+  * Predict other teachers coule use and remix it
 
 **Existing Open Educational Resources** to be used in fulfilling these objectives are:
   *  [Resource 1](http://) (Publisher) Description
@@ -69,8 +70,9 @@ Learning units have been sequenced to have a logical flow but you can take them 
 
 
 **Learning Objectives**
-  * xxxx
-  * yyyy
+  * Estimate use case scenarios of your resources
+  * Select licensee for your resources accordingly to the scenarios
+ 
 
 **Existing Open Educational Resources** to be used in fulfilling these objectives are:
   *  [Resource 1](http://) (Publisher) Description
@@ -86,8 +88,8 @@ Learning units have been sequenced to have a logical flow but you can take them 
 
 
 **Learning Objectives**
-  * xxxx
-  * yyyy
+  * Identify institutional policies that can affect publishing of educational resources
+  * Analyse how institutional policies can maximise or minimise potential of educational resources
 
 **Existing Open Educational Resources** to be used in fulfilling these objectives are:
   *  [Resource 1](http://) (Publisher) Description
@@ -102,8 +104,8 @@ Learning units have been sequenced to have a logical flow but you can take them 
 ### Unit #5. Accessibility
 
 **Learning Objectives**
-  * xxxx
-  * yyyy
+  * Recognise potential accessibility issues with your resources
+  * Manipulte your resources to increase its accessibilty
 
 **Existing Open Educational Resources** to be used in fulfilling these objectives are:
   *  [Resource 1](http://) (Publisher) Description
