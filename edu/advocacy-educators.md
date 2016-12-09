@@ -31,8 +31,9 @@ Learning units have been sequenced to have a logical flow but you can take them 
 ### Unit #1. Assessing Institutional Policies
 
 **Learning Objectives**
-  * xxxx
-  * yyyy
+  * Identify institutional policies that can affect publishing of educational resources
+  * Analyse how institutional policies can maximise or minimise potential of educational resources
+  * Propose changes in existing or a new policy that will maximise potential of open educational resources in your institution
 
 **Existing Open Educational Resources** to be used in fulfilling these objectives are:
   *  [Resource 1](http://) (Publisher) Description
@@ -47,8 +48,8 @@ Learning units have been sequenced to have a logical flow but you can take them 
 ### Unit #2. Mapping External Partners / Supporters / Network / Community
 
 **Learning Objectives**
-  * xxxx
-  * yyyy
+  * Discuss with coworkers succesfful open policies releted to your work 
+  * Research projects and experts that could be usead as good example for your coworkers
 
 **Existing Open Educational Resources** to be used in fulfilling these objectives are:
   *  [Resource 1](http://) (Publisher) Description
