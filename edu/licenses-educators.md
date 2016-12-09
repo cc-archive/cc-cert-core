@@ -39,9 +39,12 @@ Learning units have been sequenced to have a logical flow but you can take them 
 
 
 **Learning Objectives**
-  * xxxx
-  * yyyy
-
+  * Explain how CC relates/interacts with copyright
+  * Understand license scope and intent of licenses
+  * Give examples of what content licenses can/should be used for 
+  * Distinguish between licenses supporting Open Educational Resources (free licenses) and others
+  
+  
 **Existing Open Educational Resources** to be used in fulfilling these objectives are:
   *  [Resource 1](http://) (Publisher) Description
   *  [Resource 2](http://) (Publisher) Description
@@ -56,8 +59,10 @@ Learning units have been sequenced to have a logical flow but you can take them 
 
 
 **Learning Objectives**
-  * xxxx
-  * yyyy
+  * Explain CC license suite
+  * Order licenses in terms of freedom
+  * Employ proper attribution for own and found resources
+  
 
 **Existing Open Educational Resources** to be used in fulfilling these objectives are:
   *  [Resource 1](http://) (Publisher) Description
@@ -73,8 +78,8 @@ Learning units have been sequenced to have a logical flow but you can take them 
 
 
 **Learning Objectives**
-  * xxxx
-  * yyyy
+  * Describe common features of all licenses
+  * Demonstrate how 3 layers work in search engines and license deeds
 
 **Existing Open Educational Resources** to be used in fulfilling these objectives are:
   *  [Resource 1](http://) (Publisher) Description
@@ -91,8 +96,8 @@ Learning units have been sequenced to have a logical flow but you can take them 
 
 
 **Learning Objectives**
-  * xxxx
-  * yyyy
+  * Search for educational resources under different licenses
+ 
 
 **Existing Open Educational Resources** to be used in fulfilling these objectives are:
   *  [Resource 1](http://) (Publisher) Description
@@ -109,8 +114,10 @@ Learning units have been sequenced to have a logical flow but you can take them 
 
 
 **Learning Objectives**
-  * xxxx
-  * yyyy
+  * Predict copyright status for cultural/heritage resources
+  * Discuss how CC0 and Public Domain Mark should be used
+
+ 
 
 **Existing Open Educational Resources** to be used in fulfilling these objectives are:
   *  [Resource 1](http://) (Publisher) Description
@@ -125,8 +132,8 @@ Learning units have been sequenced to have a logical flow but you can take them 
 ### Unit #6. License Compatibility
 
 **Learning Objectives**
-  * xxxx
-  * yyyy
+  * Classify licenses by how they can be used togheter in educational resources
+  * Determinine licenses compatibility for different educational resources
 
 **Existing Open Educational Resources** to be used in fulfilling these objectives are:
   *  [Resource 1](http://) (Publisher) Description
