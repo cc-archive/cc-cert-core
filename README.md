@@ -1,107 +1,91 @@
-# Creative Commons Certifications: This is The Source
+# Unit 4: The Creative Commons Organization
 
+What if there was a means for creators to express willingness to share their knowledge and creative works? A simple and standardized way creators could use to give the public permission to use their work under certain conditions?
 
-[![Stories in Ready](https://badge.waffle.io/creativecommons/cc-cert-map.svg?label=ready&title=Waffle)](http://waffle.io/creativecommons/cc-cert-map)
+## The Big Question
 
-This GitHub repository will be the canonical content for structure of the Creative Commons Certifications. As this time, this is primarily for the design team to use as the master content. We are developing it Markdown format so it can be easily be deployed to our demonstration public Wordpress site http://certificates.creativecommons.org/certs but potential other platforms that publish web content form Markdown (see more about [our technical approach](https://certificates.creativecommons.org/category/tech/).
+What if we combined that means with the power of the Internet and digital technology making it possible to share resources globally for the near marginal cost of $0?
 
-## Learn More
+![](/img/core/cc-logo.png "Creative Commons")
 
-* [Learn more about the project](https://certificates.creativecommons.org/about/)
-* [Introduction to all of the Certifications](https://certificates.creativecommons.org/certs/)
-* [Blog posts about the design and development approach](https://certificates.creativecommons.org/)
-* [View the Certificates published to Wordpress](https://certificates.creativecommons.org/certs)
-* View the Certificates in GitHub format (see below)
+[_Creative Commons Logo_](https://creativecommons.org/about/downloads/)_ image by _[_Creative Commons_](https://creativecommons.org)_  is licensed under _[_CC-BY_](https://creativecommons.org/licenses/by/4.0/)
 
+[Creative Commons](https://creativecommons.org) does this very thing. Created as a US non-profit in 2002 and now with a global network, Creative Commons provides legal and technical infrastructure that helps creators legally share their knowledge and creativity to build a more equitable, accessible, and innovative world. Creative Commons licenses and digital tools, combined with the Internet, are driving new forms of development, growth and productivity.
 
+![](/img/core/cc-staff.jpg "Creative Commons Staff Berlin 17-Nov-2016")
 
----- 
+[_Creative Commons Staff Berlin 17-Nov-2016_](hhttps://drive.google.com/file/d/0B8IKbRz-8utNR253c2syOUFEV0E/view?usp=sharing)_ photo is licensed under _[_CC-BY_](https://creativecommons.org/licenses/by/4.0/)
 
-*Note that as structural elements these pages are not a layout design of how the world will see it*
+## Learning Outcomes
 
-## CORE Certificate
+* Explain why Creative Commons is necessary as an organization, mission & vision, goals
+* Evaluate impact of Creative Commons, examples of program work, where it is used
+* Identify major initiatives, programs
+* Explain, demonstrate Creative Commons resources and materials \(including License Chooser, FAQ, and wiki\)
+* Describe affiliate/community structures
+* Explain how to get involved, communicate with Creative Commons
 
-* [Core Certification](core/index.md) Introduction and overview
+## Personal Reflection / Why it Matters To You
 
-* **Required Modules**
-  * [Copyright Basics](core/copyright.md)
-  * [The Commons](core/commons/index.md)
-  * [CC License Suite](core/licenses.md)
-  * [Social/Cultural Implementation](core/social-cultural.md)
-  
-* Plus one or more **Optional Modules**
-  * [Legal Implementation](core/legal.md)
-  * [Technical Implementation](core/technical.md)
-  * [International Implementation](core/international.md)
+If you could freely access creative works what kinds of works would you seek? Books, music, film, cultural works? Research, education, data? What creative works do you or your organization have that have potential value to others? How might sharing those resources with others benefit you and the public?
 
+## Acquiring Essential Knowledge
 
----- 
+### Introduction to Creative Commons
 
-## Education Certification
+![](/img/core/cc-programs.jpg "Our Programs screen shot from Creative Commons web site")
 
-* [Education Certification](edu/index.md) Introduction and overview
+[_Our Programs screen shot from Creative Commons web site_](https://creativecommons.org/about/)_ screenshot  is licensed under _[_CC-BY_](https://creativecommons.org/licenses/by/4.0/)
 
-* **Educator CORE** (Teachers, Instructional Designers, Textbook Authors, Trainers)
-  * [Copyright Basics](edu/copyright-educators.md)
-  * [The Commons](edu/commons-educators.md)
-  * [Creative Commons License Suite](edu/licenses-educators.md)
-  * [Socio / Cultural Implementation](edu/social-cultural-educators.md)
-  * [Legal Implementation](edu/legal-educators.md)
-  * [Technical Implementation](edu/technical-educators.md)
+For a brief introduction to Creative Commons as an organization explore the [About](https://creativecommons.org/about/) and [Share Your Work](https://creativecommons.org/share-your-work) sections of Creative Commons web site. Watch the “Wanna Work Together” video on the Share Your Work page.
 
+[https://vimeo.com/13590841](https://vimeo.com/13590841)
 
-* **Educator Specialized Modules**
-  * [Selecting, Using, Sharing Existing OER](edu/existing-oer.md)
-  * [Creating and Sharing OER](edu/creating-oer.md)
-  * [Designing Courses](edu/course-design.md)
-  * [Advocacy](edu/advocacy-educators.md)
-  
-* **Administrator CORE** (Leaders, Ed-Tech Directors)
-  * [Copyright Basics](edu/copyright-admin.md)
-  * [Creative Commons License Suite](edu/licenses-admin.md)
-  * [Technical Implementation](edu/technical-admin.md)
+### Vision, Mission, Goals, Program Areas
 
+To learn about Creative Commons vision, mission, goals, and program areas review the[Program Areas](https://creativecommons.org/about/program-areas/) section of the Creative Commons web site.
 
-* **Administrator Specialized Modules**
-  * [Procurement Policies](edu/procurement-admin.md)
-  * [State / District IP Policies](edu/policies-admin.md)
-  * [Professional Learning](edu/professional-admin.md)
-  * [Advocacy](edu/advocacy-admin.md)
+### Global use and impact
 
+Browse through the [Creative Commons news blog](https://creativecommons.org/blog) to read stories from around the world of how people and organizations are using Creative Commons to generate personal and public good. The annual [State of the Commons report](https://stateof.creativecommons.org) provides data on size, growth, and vibrancy of the Commons.
 
----- 
+![](/img/core/cc-state-commons.jpg "2015 State of the Commons screen shot")
 
-Government Certification
+[_2015 State of the Commons screen shot_](https://stateof.creativecommons.org/2015)_ screenshot is licensed under _[_CC-BY_](https://creativecommons.org/licenses/by/4.0/)
 
-* [Government Certification](gov/index.md) Introduction and overview
+### Creative Commons Tools and Resources
 
-* **Grants & Contracts (GOV1) Subset of CORE**
-  * [The Commons](commons-gov1.md)
-  * [Copyright Basics](copyright-gov1.md)
-  * [Creative Commons License Suite](gov1.md)
+Familiarize yourself with the core tools Creative Commons provides including its [licenses and deeds](https://creativecommons.org/licenses/) and [license chooser](https://creativecommons.org/choose/). A [Frequently Asked Questions \(FAQ\)](https://creativecommons.org/faq/) and [wiki](https://wiki.creativecommons.org/) provide answers to common questions and extensive support for best practice use of Creative Commons.
 
-* **Grants & Contracts Specialized Modules**
-  * [Socio / Cultural Implementation](social-cultural-gov1.md)
-  * [Legal Implementation](legal-gov1.md)
-  * [Technical Implementation](technical-gov1.md)
-  
-* *Lawyers and Acquisitions (GOV2) *Subset of CORE**
-  * [The Commons](commons-gov2.md)
-  * [Copyright Basics](copyright-gov2.md)
-  * [Creative Commons License Suite](gov2.md)
+### Creative Commons Headquarters and Global Network
 
-* **Lawyers and Acquisitions Specialized Modules**
-  * [Socio / Cultural Implementation](social-cultural-gov2.md)
-  * [Legal Implementation](legal-gov2.md)
-  * [Technical Implementation](technical-gov2.md)
+Find out who the people running Creative Commons headquarters are from the [Team](https://creativecommons.org/about/team/) page. Creative Commons is a global movement with a network of practitioners and leaders around the world. Learn about the global community from the [global affiliate network](https://creativecommons.org/about/global-affiliate-network/) page and [identify representation from regions](https://wiki.creativecommons.org/wiki/Category:CC_Affiliate_Locale) around the world.
 
+### Communicating with Creative Commons
 
-## Library Certification
+Information on how to contact Creative Commons by phone or e-mail for general information is available on the [Contact](https://creativecommons.org/about/contact/) page. Creative Commons is active on social media and hosts numerous discussion forums and other channels of communication. If you join the [Creative Commons Slack channel](https://slack-signup.creativecommons.org/) you’ll have direct, real time access to Creative Commons staff and colleagues. Find out the many ways you can connect and communicate with Creative Commons on the [Get Involved](https://creativecommons.org/about/get-involved/) page.
 
-* [Library Certification](lib/index.md) Introduction and overview
+## Application of Learning
 
+CC Certificates aim to engage you in direct application of learning for personal and / or professional use. Toward that end the following learning activities aim to help you you use and apply basic knowledge in ways directly relevant to you. Learning activities are structured around 1. Creation of a personal learner toolkit. 2 Active participation in CC’s community, and 3. Applied practice.
 
----- 
-### Note
-*This repo was original developed for a prototype as a "map" of the initial draft specification rendered as a single site; this is now archived at https://cogdog.github.io/cc-cert-map-archive/
+### Learner Toolkit
+
+Select at least 2 or 3 resources directly relevant to your personal or work related CC needs from the Acquiring Basic Knowledge content and add them to your personal Creative Commons toolkit [link tba](#). Adding them to your toolkit makes it easy to find and use them when the need arises and makes it easy for you to pass on resources you consider important to others. Add comments explaining relevancy and importance.
+
+### Community - Collaboration, Appreciation, Recognition, Gratitude
+
+In the CC Certificate social forum post your answers to the personal reflection questions posed at the start of this learning unit. Identify and comment on posts from at least two others who have similar needs or ideas.
+
+Sign up for at least two means of connecting with Creative Commons such as following on Twitter, joining mailing lists of interest, subscribing to the Creative Commons newsletter, and joining the Creative Commons Slack channel.
+
+From the Creative Commons news blog, Facebook page, Twitter stream and web pages identify at least two other people or organizations who are using Creative Commons in a similar way you or your organization do or want to do. Note these people or organizations in your Toolkit along with questions you might have for them in concerning advice or lessons learned.
+
+### Applied Practice
+
+The [Creative Commons Share Your Work](https://creativecommons.org/share-your-work/) page lists a number of platforms like Wikipedia, Flickr, and Vimeo that provide their users with the option of licensing works with Creative Commons licenses.
+
+Using the links to the platforms on the [Share Your Work](https://creativecommons.org/share-your-work/) page or the [Creative Commons Search tool](http://search.creativecommons.org/) find and list in your Toolkit two or three resources that are representative of the kinds of creative works you said you would seek in Personal Reflections. Document the name of the resource, its url, identity of the creator, and Creative Commons license used. Make a comment beside each on how you might make use of it.
+
+**Bonus applied practice:** Join Creative Commons global network. \(note this activity will be relevant once the new global network strategy of CC is deployed.\)
 
