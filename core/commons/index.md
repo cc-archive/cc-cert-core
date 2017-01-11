@@ -7,7 +7,7 @@ Creative Commons is part of that long tradition complementing the historical loc
 
 ![The Commons](https://github.com/creativecommons/cc-cert-map/blob/master/img/GS-poster-CC-Line.jpg "CC Poster")
 
-*[CC Line](http://www.loftwork.com/downloads/sinjirou/archive/311821) Creative Commons Global Summit poster by [Shinjirou](http://www.geograph.org.uk/profile/20403) licensed under [CC BY](https://creativecommons.org/licenses/by/2.1/jp/)*
+*[CC Line](http://www.loftwork.com/downloads/sinjirou/archive/311821) Creative Commons Global Summit poster by Shinjirou licensed under [CC BY](https://creativecommons.org/licenses/by/2.1/jp/)*
 
 
 The Commons module has four units of learning that provide a grounding in the commons and Creative Commons role in stewarding and supporting it.
