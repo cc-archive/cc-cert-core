@@ -5,9 +5,9 @@ The commons has long played a historical role in making cultural and natural res
 Creative Commons is part of that long tradition complementing the historical local and natural resource based commons with a contemporary global digital commons. Understanding the commons and how it works is essential to successfully using Creative Commons.
 
 
-![The Commons](https://github.com/creativecommons/cc-cert-map/blob/master/img/core/the-commons.jpg "The Commons")
+![The Commons](https://github.com/creativecommons/cc-cert-map/blob/master/img/GS-poster-CC-Line.jpg "CC Poster")
 
-*[The Commons Nature Reserve W.G.C](http://www.geograph.org.uk/photo/1257161) Geograph photo by [Paul Shreeve](http://www.geograph.org.uk/profile/20403) licensed under [CC-BY-SA](http://creativecommons.org/licenses/by-sa/2.0/) / cropped from original*
+*[CC Line](http://www.loftwork.com/downloads/sinjirou/archive/311821) Creative Commons Global Summit poster by [Shinjirou](http://www.geograph.org.uk/profile/20403) licensed under [CC BY](https://creativecommons.org/licenses/by/2.1/jp/)*
 
 
 The Commons module has four units of learning that provide a grounding in the commons and Creative Commons role in stewarding and supporting it.
