@@ -39,9 +39,13 @@ https://www.youtube.com/watch?v=41Dr8Te1OwE
 
 [Define the Commons](https://www.youtube.com/watch?v=41Dr8Te1OwE) by [Remix The Commons](https://www.youtube.com/channel/UChz4DMZKHYnAPVEjXduVFIA) licensed under [CC-BY](https://creativecommons.org/licenses/by/3.0/)
 
+----
+
 https://www.youtube.com/watch?v=7bQiBcd7mBc
 
 [How Does the Commons Work?](https://www.youtube.com/watch?v=7bQiBcd7mBc) by [The Next System Project](https://www.youtube.com/channel/UC0Gw_ZWRG2eY_hPkAL7eNZg) licensed under [CC-BY](https://creativecommons.org/licenses/by/3.0/)
+
+----
 
 Then read [The Commons, Short and Sweet](http://bollier.org/commons-short-and-sweet)  by [David Bollier](http://bollier.org/) for more detail about how commons work and why they are important. 
 
@@ -76,7 +80,7 @@ Identify a commons you participate in - think about the nature of the resources 
 ### Applied Practice
 Complete the following activity in the Quest Bank:
 
-[Give an Example of One of Ostrom’s Eight Principles](https://quests.creativecommons.org/assignments/ostroms-eight-principles)
+* [Give an Example of One of Ostrom’s Eight Principles](https://quests.creativecommons.org/assignments/ostroms-eight-principles)
 
 
 
