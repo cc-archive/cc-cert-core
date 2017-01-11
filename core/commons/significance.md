@@ -37,11 +37,6 @@ What Commons are you a part of? Can you think of a group you belong to that coll
   
 ## What is The Commons?
 
-![The Commons](https://github.com/creativecommons/cc-cert-map/blob/master/img/core/the-commons.jpg "The Commons")
-
-*[The Commons Nature Reserve W.G.C](http://www.geograph.org.uk/photo/1257161) Geograph photo by [Paul Shreeve](http://www.geograph.org.uk/profile/20403) licensed under [CC-BY-SA](http://creativecommons.org/licenses/by-sa/2.0/) / cropped from original*
-
-
 To understand the commons, how the commons works and to understand some of the history of the commons, read and watch the following: 
 
 --- 
