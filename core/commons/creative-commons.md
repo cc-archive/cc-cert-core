@@ -94,5 +94,7 @@ The [Creative Commons Share Your Work](https://creativecommons.org/share-your-wo
 
 Using the links to the platforms on the [Share Your Work](https://creativecommons.org/share-your-work/) page or the [Creative Commons Search tool](http://search.creativecommons.org/) find and list in your Toolkit two or three resources that are representative of the kinds of creative works you said you would seek in Personal Reflections. Document the name of the resource, its url, identity of the creator, and Creative Commons license used. Make a comment beside each on how you might make use of it.
 
+Complete the following activity [Explain What Creative Commons Is](https://quests.creativecommons.org/assignments/explain-what-creative-commons-is) in the Quest Bank. Save the URL for your completed response.
+
 
 **Bonus applied practice:** Join Creative Commons global network. (note this activity will be relevant once the new global network strategy of CC is deployed.)
