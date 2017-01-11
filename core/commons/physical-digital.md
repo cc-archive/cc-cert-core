@@ -75,9 +75,3 @@ Complete one or more following activities in the Quest Bank:
 
 * [From Physical to Digital](https://quests.creativecommons.org/assignments/from-physical-to-digital)  Analyze resources that were once only available physically but are now available in both physical and digital formats.
 * [Aspects of Physical and Digital Sharing](https://quests.creativecommons.org/assignments/aspects-of-digital-vs-digital-sharing/) What are the differences and related issues of sharing a physical object (like a book, recorded music, or a piece of art) versus digital versions. 
-
-
-
-
-Increase your CC Cred by [doing additional quests](https://quests.creativecommons.org/cats/physical-digital/)
-
