@@ -19,4 +19,4 @@ The Commons module has four units of learning that provide a grounding in the co
 * [Unit #4: Creative Commons](creative-commons.md) - Understand Creative Commons role in supporting and stewarding the digital commons.
 
 
-On completion of these four units there is a mastery learning activity that combines learning across all four units into one final assignment for the whole module.
+On completion of these four units a final mastery learning activity combines learning from across all four units into one final assignment for the whole module.
