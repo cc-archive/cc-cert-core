@@ -1,4 +1,4 @@
-# Unit 4: The Creative Commons Organization
+# The Creative Commons Organization
 
 What if there was a means for creators to express willingness to share their knowledge and creative works? A simple and standardized way creators could use to give the public permission to use their work under certain conditions?
 
@@ -16,9 +16,6 @@ What if we combined that means with the power of the Internet and digital techno
 ![Creative Commons Staff Berlin 17-Nov-2016](https://github.com/creativecommons/cc-cert-map/blob/master/img/core/cc-staff.jpg "Creative Commons Staff Berlin 17-Nov-2016")
 
 *[Creative Commons Staff Berlin 17-Nov-2016](hhttps://drive.google.com/file/d/0B8IKbRz-8utNR253c2syOUFEV0E/view?usp=sharing) photo is licensed under [CC-BY](https://creativecommons.org/licenses/by/4.0/)*
-
-
-
 
 ## Learning Outcomes
 * Explain why Creative Commons is necessary as an organization, mission & vision, goals
@@ -76,7 +73,7 @@ CC Certificates aim to engage you in direct application of learning for personal
 
 
 ### Learner Toolkit
-Select at least 2 or 3 resources directly relevant to your personal or work related CC needs from the Acquiring Basic Knowledge content and add them to your personal Creative Commons toolkit [link tba](#). Adding them to your toolkit makes it easy to find and use them when the need arises and makes it easy for you to pass on resources you consider important to others. Add comments explaining relevancy and importance.
+Select at least 2 or 3 resources directly relevant to your personal or work related CC needs from the Acquiring Basic Knowledge content and add them to your personal Creative Commons toolkit. Adding them to your toolkit makes it easy to find and use them when the need arises and makes it easy for you to pass on resources you consider important to others. Add comments explaining relevancy and importance.
 
 
 ### Community - Collaboration, Appreciation, Recognition, Gratitude
@@ -85,8 +82,7 @@ In the CC Certificate social forum post your answers to the personal reflection 
 
 Sign up for at least two means of connecting with Creative Commons such as following on Twitter, joining mailing lists of interest, subscribing to the Creative Commons newsletter, and joining the Creative Commons Slack channel.
 
-
-From the Creative Commons news blog, Facebook page, Twitter stream and web pages identify at least two other people or organizations who are using Creative Commons in a similar way you or your organization do or want to do. Note these people or organizations in your Toolkit along with questions you might have for them in concerning advice or lessons learned.
+From the [Creative Commons news blog](https://creativecommons.org/blog/), [Facebook page](https://www.facebook.com/creativecommons), [Twitter stream](https://twitter.com/creativecommons) and [web pages](https://creativecommons.org/) identify at least two other people or organizations who are using Creative Commons in a similar way you or your organization do or want to do. Note these people or organizations in your Toolkit along with questions you might have for them in concerning advice or lessons learned.
 
 
 ### Applied Practice
@@ -94,7 +90,8 @@ The [Creative Commons Share Your Work](https://creativecommons.org/share-your-wo
 
 Using the links to the platforms on the [Share Your Work](https://creativecommons.org/share-your-work/) page or the [Creative Commons Search tool](http://search.creativecommons.org/) find and list in your Toolkit two or three resources that are representative of the kinds of creative works you said you would seek in Personal Reflections. Document the name of the resource, its url, identity of the creator, and Creative Commons license used. Make a comment beside each on how you might make use of it.
 
-Complete the following activity [Explain What Creative Commons Is](https://quests.creativecommons.org/assignments/explain-what-creative-commons-is) in the Quest Bank. Save the URL for your completed response.
+Complete the following activity in the Quest Bank.
 
+* [Explain What Creative Commons Is](https://quests.creativecommons.org/assignments/explain-what-creative-commons-is)  
 
 **Bonus applied practice:** Join Creative Commons global network. (note this activity will be relevant once the new global network strategy of CC is deployed.)
