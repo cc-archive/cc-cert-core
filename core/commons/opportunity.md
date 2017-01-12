@@ -14,6 +14,13 @@ This situation is utterly preposterous for many reasons, but one important reaso
 
 This is what open licenses were created to do. Open licenses are easy to use legal tools - copyright licenses - that allow people to share their work with others under a range of conditions. Rather than being forced to accept the default All Rights Reserved “protection” the law automatically forces on each and every creative work, a creator or author can choose to apply an open license license to their work. This allows the work to be copied and shared widely and legally. Many open licenses also grant permission to make changes and improvements to the work, like translating the tutorial about purifying water into other languages. By applying an open license to their creation, an author places that work within a broader commons of creative works. 
 
+## Learning Outcomes
+
+* Dramatize problem open licensing is solving/addressing, how it is an alternative to copyright
+* Illustrate where open licensing exists on spectrum between public domain & copyright
+* Explain potentials, uses of open licensing, value of sharing as a default
+* Analyze the reasons for open licensing in your context
+* Define opportunities / benefits of collaborative peer production
 
 ## Personal Reflection / Why It Matters to You  
   
