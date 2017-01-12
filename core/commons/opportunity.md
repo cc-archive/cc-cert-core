@@ -43,13 +43,14 @@ Creative Commons licenses exist along a continuum from the public domain (no rig
 
 ### The Benefits of Sharing 
 
-Why would anyone want to share the creations in which they’ve invested so much time and effort? Ryan Merkley, CEO of Creative Commons, explains many of the reasons in the short video [Creative Commons: Remix](https://vimeo.com/151666798). 
+Why would anyone want to share the creations in which they’ve invested so much time and effort? Ryan Merkley, CEO of Creative Commons, explains many of the reasons in a short video: 
 
 
 https://vimeo.com/151666798
 
+*["Creative Commons: Remix"](https://vimeo.com/151666798) by [Creative Commons](https://vimeo.com/creativecommonsvideos) is licensed under [CC BY-SA](https://creativecommons.org/licenses/by-sa/3.0)*
 
-[Creative Commons Australia](http://creativecommons.org.au) provides a more comprehensive list of of the [Benefits of Sharing Using Creative Commons](http://creativecommons.org.au/content/Benefits_of_CC_08.pdf).
+Also [Creative Commons Australia](http://creativecommons.org.au) provides a more comprehensive list of of the [Benefits of Sharing Using Creative Commons](http://creativecommons.org.au/content/Benefits_of_CC_08.pdf).
 
 
 ### The Benefits of Commons-based Peer Production 
