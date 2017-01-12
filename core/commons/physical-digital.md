@@ -24,7 +24,7 @@ The internet is exactly this kind of machine. All you have to do is upload a bit
 
 ## Personal Reflection / Why it Matters to You
 
-Why do we have the internet - perhaps the perfect machine for the free and open sharing of content - but not a copy machine for food? What are some of the differences between physical things like food and digital things like videos and web pages? How do these differences change the way you engage in Commons centered on digital resources?
+Why do we have the internet - perhaps the perfect machine for the free and open sharing of content - but not a copy machine for food? What are some of the differences between physical things like food and digital things like videos and web pages? How do these differences change the way you engage in commons centered on digital resources?
 
   
 ## Acquiring Essential Knowledge
