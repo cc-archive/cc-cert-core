@@ -15,7 +15,7 @@ What if we combined that means with the power of the Internet and digital techno
 
 ![Creative Commons Staff Berlin 17-Nov-2016](https://github.com/creativecommons/cc-cert-map/blob/master/img/core/cc-staff.jpg "Creative Commons Staff Berlin 17-Nov-2016")
 
-*[Creative Commons Staff Berlin 17-Nov-2016](hhttps://drive.google.com/file/d/0B8IKbRz-8utNR253c2syOUFEV0E/view?usp=sharing) photo is licensed under [CC-BY](https://creativecommons.org/licenses/by/4.0/)*
+*[Creative Commons Staff Berlin 17-Nov-2016](https://drive.google.com/file/d/0B8IKbRz-8utNR253c2syOUFEV0E/view?usp=sharing) photo is licensed under [CC-BY](https://creativecommons.org/licenses/by/4.0/)*
 
 ## Learning Outcomes
 * Explain why Creative Commons is necessary as an organization, mission & vision, goals
