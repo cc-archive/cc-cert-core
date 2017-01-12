@@ -1,117 +1,64 @@
-# Unit 3: Understand Commons Opportunity
+# The Commons Opportunity
 
-Imagine a time in the new future in which all writing can be commercialized. 
+Imagine a world that anticipates the commercialization of all creative works - a world in which a three year old child’s wobbly crayon drawing would be protected to the same degree as Star Wars or Harry Potter.
 
 ## The Big Question
 
-Through the magic of a new technology which can automatically capture and upload them to a website, every napkin doodle, every journal entry, and every love letter can be made available for sale as soon as you finish writing them. By means of improvements to operating systems like Windows, Mac, and Linux, all written documents like emails, homework assignments, and office memos can be automatically posted for sale on the site as soon as they are saved. 
+After joining the [Berne Convention](https://en.wikipedia.org/wiki/Berne_Convention) most countries in the world now automatically apply copyright - the legal protections necessary to effectively commercialize a creative work - to each and every  work the moment it is created. All creations are copyrighted, regardless of how personal or public they are. This is not a hypothetical future you have to imagine, it’s the actual state of affairs in the world today. 
 
-An upgrade to the technology might help users automatically offer all images they create for sale, from mobile phone photos to crayon drawings to watercolor paintings. Future versions of the technology might provide the same functionality for videos and sound recordings. 
+![Copyright Iain](https://github.com/creativecommons/cc-cert-map/blob/master/img/core/copyright-iain.jpg "Copyright Iain")
 
-![Technology Infographics Computer](https://github.com/creativecommons/cc-cert-map/blob/master/img/core/future-scanner.jpg "graphic of futuristic computer interface")
+*[Copyright Iain](https://www.flickr.com/photos/iain/4804390638/) by [Iain Farrell](https://www.flickr.com/photos/iain/) licensed under [CC BY-ND](https://creativecommons.org/licenses/by-nd/2.0/)*
 
-*[Technology-298256](https://pixabay.com/en/technology-informatics-computers-298256/) Pixabay image by [andreleya](https://pixabay.com/en/users/andrelyra-201440/) licensed under [CC0](https://creativecommons.org/publicdomain/zero/1.0/)*
+This situation is utterly preposterous for many reasons, but one important reason is that many people create things with the goal of sharing them with others. What if a creator doesn’t want their work “protected” from copying and distribution, but wants to see it copied and shared as far and wide as technologically possible?  For example, what if I’ve written a simple tutorial for purifying water after a natural disaster that I want everyone to have access to? When the law automatically copyrights my tutorial as if it were a major motion picture, how can I share it with others?
 
-Now imagine that when this final version of the software is released, the national government requires all citizens to install it on all their devices, mandating the commercialization of every creative work that will ever be produced in the future, regardless of how trivial - or personal - it is. 
-
-
-**There are a thousand things wrong with this scenario**. And while the technology sounds fantastic and distant, the legal foundation of this dystopian future is already in place. After joining the [Berne Convention](https://wikipedia.org/wiki/Berne_Convention), most countries in the world now automatically apply copyright - the legal protections necessary to effectively commercialize a creative work - to each and every creative work the moment it is created, regardless of how personal or trivial it is. In this worldview that anticipates the commercialization of all creative works, a three year old child’s wobbly pencil drawing is protected to the same degree as Star Wars or Harry Potter. And this is not a hypothetical future scenario, it’s the actual state of affairs in the world today. 
+This is what open licenses were created to do. Open licenses are easy to use legal tools - copyright licenses - that allow people to share their work with others under a range of conditions. Rather than being forced to accept the default All Rights Reserved “protection” the law automatically forces on each and every creative work, a creator or author can choose to apply an open license license to their work. This allows the work to be copied and shared widely and legally. Many open licenses also grant permission to make changes and improvements to the work, like translating the tutorial about purifying water into other languages. By applying an open license to their creation, an author places that work within a broader commons of creative works. 
 
 
-This situation is utterly preposterous for many reasons, but one important reason is that many people create things with the goal of sharing them with others, like directions for purifying water after a natural disaster. What if a creator doesn’t want their work “protected” from copying and distribution, but wants it copied and shared as far and wide as technologically possible?   
-
-
-Return to our imaginary scenario for a moment. 
-
-What if, recognizing the public backlash, a second technology company created a tool that allowed a person to remove things from the website that commercialized all creative work? While it wouldn’t be able to prevent things from being placed on the site for sale automatically (as the law required), it would provide people with an easy - and legal - way to remove things from the site that they didn’t want to commercialize.
-
-
-Returning to the real world, this is essentially what an open license does. Open licenses are easy to use legal tools - copyright licenses - that allow people to choose to share their work with others under a range of conditions. Rather than being forced to accept the default All Rights Reserved “protection” the law automatically forces on each and every creative work, a creator or author can choose to apply an open license license to their work, thereby allowing it to be copied and shared widely and legally. Many open licenses also grant permission to make changes and improvements to the work, like translating the document about purifying water into other languages. By applying an open license to their creation, an author places that work in a broader commons of creative works. 
-
-
-![lead image](https://github.com/creativecommons/cc-cert-map/blob/master/img/core/image-placeholder.png "Lead Image")
-
-*[Image Title](http://image.link) site photo by [Person Name](http://person.link)  is licensed under [CC-XX](http://creativecommons/org/licenselink)*
-
-
-## Learning Outcomes
-* Dramatize problem open licensing is solving/addressing, how it is an alternative to copyright
-* Illustrate where open licensing exists on spectrum between public domain & copyright
-* Explain potentials, uses of open licensing, value of sharing as a default
-* Analyze the reasons for open licensing in your context
-* Define opportunities / benefits of collaborative peer production
-* Demonstrate benefits of access to knowledge
-
-
-## Opening Questions
-
-Should all writing, images, videos, sound recordings, and other creative works be automatically protected by copyright so they can be commercialized? Think of all the things you create every day - emails, photos, videos, and more. You may have authored a million or more creative works over your lifetime. Even if you are a creative professional and earn your livelihood by selling creative works, over 99.999% of what you have created has rightly gone uncommercialized. What might be the benefit of sharing some of these works with colleagues, peers, other organizations, or “the community”? How might your work be improved upon if you gave others permission to make improvements?
-
+## Personal Reflection / Why It Matters to You  
   
-## What is It?
+Should all writing, images, videos, sound recordings, and other creative works be automatically protected by copyright? Think of all the things you create every day - emails, photos, videos, and more. You may have authored a million or more creative works over your lifetime. Even if you are a creative professional and earn your livelihood by selling creative works, over 99.999% of what you have created has rightly gone uncommercialized. What might be the benefit of sharing some of these works with others be? What might be the benefit of placing some of these resources in the commons?
 
-![Nice image](https://github.com/creativecommons/cc-cert-map/blob/master/img/core/image-placeholder.png "Nice Image")
+## Acquiring Essential Knowledge 
 
-*[Image Title](http://image.link) site photo by [Person Name](http://person.link)  is licensed under [CC-XX](http://creativecommons/org/licenselink)*
+### Creative Commons as an Alternative to All Rights Reserved 
 
+Traditional approaches to copyright reserve all the rights associated with a work - including the rights to copy, alter, and distribute a work - for the copyright holder exclusively. Creative Commons enables a “some rights reserved” approach, allowing authors and creators to give others permission to engage in these activities under certain conditions as explained in this [BYU Crash Course on Open Licensing](http://iptla.byu.edu/courses/copyright_crash_course_for_teachers/open_licensing).
 
+### The Spectrum Between All Rights Reserved and the Public Domain
 
+Creative Commons licenses exist along a continuum from the public domain (no rights reserved) to traditional copyright (all rights reserved) as illustrated below.
 
+![Creative commons license spectrum](https://github.com/creativecommons/cc-cert-map/blob/master/img/core/cc-license-spectrum.png "Creative commons license spectrum")
 
----
-  
-## Another Section
-
-Now that we understand it, let’s talk a little bit about why it is important.
-
-
----
-
----
-  
-## Another Section
-
-Now that we understand it, let’s talk a little bit about why it is important.
+*[Creative commons license spectrum](https://commons.wikimedia.org/wiki/File:Creative_commons_license_spectrum.svg) by [Creative Commons](https://creativecommons.org/) licensed under [CC BY](https://creativecommons.org/licenses/by/4.0/deed.en)*
 
 
----
+### The Benefits of Sharing 
 
----
-  
-## Another Section
-
-Now that we understand it, let’s talk a little bit about why it is important.
+Why would anyone want to share the creations in which they’ve invested so much time and effort? Ryan Merkley, CEO of Creative Commons, explains many of the reasons in the short video [Creative Commons: Remix](https://vimeo.com/151666798). 
 
 
----
+https://vimeo.com/151666798
 
 
-## More to Explore
+[Creative Commons Australia](http://creativecommons.org.au) provides a more comprehensive list of of the [Benefits of Sharing Using Creative Commons](http://creativecommons.org.au/content/Benefits_of_CC_08.pdf).
 
 
+### The Benefits of Commons-based Peer Production 
 
+[Commons-based peer production](https://en.wikipedia.org/wiki/Commons-based_peer_production) is a new way of producing creative and other works. In commons-based peer production, large numbers of people voluntarily self-organize to produce and provide ongoing stewardship of resources that are made broadly available. Commons-based peer production differs from traditional production models which are typically based on centralized planning and management, paid employees, and restricted access to final products.  
 
-* [Commons-based peer production](https://en.wikipedia.org/wiki/Commons-based_peer_production) is a Wikipedia entry licensed under [CC-BY-SA](http://creativecommons.org/licenses/by-sa/3.0/)
-* [Commons-based Peer Production and Virtue](https://www.nyu.edu/projects/nissenbaum/papers/jopp_235.pdf) published paper  by [Yochai Benkler](http://benkler.org) and [Helen Nissenbaum](http://www.nyu.edu/projects/nissenbaum/) from *The Journal of Political Philosophy*: Volume 14, Number 4, 2006, pp. 394–419.
+## Application of Learning
 
+### Learner Toolkit
+Select two or three resources directly relevant to your personal or work-related CC needs from the Acquiring Essential Knowledge content and add them to your personal Creative Commons toolkit. Adding them to your toolkit makes them easy to find and use when the need arises, and makes it easy for you to pass on resources you consider important to others. Annotate the resources with notes explaining why they are relevant and important for you and your work.
 
-  
-## Your Quest: Taking on the Big Question
+### Community - Collaboration, Appreciation, Recognition, Gratitude
+Post a story about how you benefited from someone who chose to share their creative works under a Creative Commons license in the CC Certificate social forum. Alternatively, share a description of (and link to, if applicable) a community that engages in commons-based peer production that others might not be aware of.
 
-Blah blah blah
+### Applied Practice
 
-Answer by completing this CC Quest:
+Complete the following activity in the Quest Bank:
 
-**What's the Opportunity of the Commons?**
-
-Select a resource that you have created. Along with sharing the resource, share an evaluation of the opportunities and benefits that could come from sharing this resource with peers (reach, critique, collaborative peer production).
-
-Share a resource you own the copyright for and make a call for collaborative peer production/improvement of the material. 
-
-Find a resource and locate the copyright on the resource. Share the steps it would take to contact the copyright holder to use their work. This will help demonstrate an understanding of how much easier it is to use and share a CC licensed work.
-
-
-Quest description [Complete this Quest](http://quests.creativecommons.org/) (link to be added).
-
-Increase your CC Cred by [doing additional quests](http://quests.creativecommons.org/) (link to be added).
-
+* [How Do We Benefit? Let Me Count the Ways...](https://quests.creativecommons.org/assignments/how-do-we-benefit)
