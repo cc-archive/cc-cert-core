@@ -14,7 +14,7 @@ As a review this summit question will draw upon your knowledge of these units:
 
 ![Top Of Mountain In Snowdon](https://github.com/creativecommons/cc-cert-map/blob/master/img/core/top-of-mountain.jpg "Top Of Mountain In Snowdon")
 
-*[Top Of Mountain In Snowdon](http://www.publicdomainpictures.net/view-image.php?image=187253) photo is licensed under [CC0](http://creativecommons.org/publicdomain/zero/1.0/)*
+*[Top Of Mountain In Snowdon](http://www.publicdomainpictures.net/view-image.php?image=187253) by [George Hodan](http://www.publicdomainpictures.net/browse-author.php?a=8245) is licensed under [CC0](http://creativecommons.org/publicdomain/zero/1.0/)*
 
 As you conclude the commons portion of the CC Certification, bring together everything you’ve learned about commons as you answer the following questions:
 
