@@ -24,15 +24,14 @@ This GitHub repository will be the canonical content for structure of the Creati
 * [Core Certification](core/index.md) Introduction and overview
 
 * **Required Modules**
-  * [Copyright Basics](core/copyright.md)
+  * [Copyright ](core/index.md)
   * [The Commons](core/commons/index.md)
   * [CC License Suite](core/licenses.md)
-  * [Social/Cultural Implementation](core/social-cultural.md)
+  * [Social/Cultural](core/social-cultural.md)
   
 * Plus one or more **Optional Modules**
-  * [Legal Implementation](core/legal.md)
-  * [Technical Implementation](core/technical.md)
-  * [International Implementation](core/international.md)
+  * [Legal](core/legal.md)
+  * [Technical](core/technical.md)
 
 
 ---- 
