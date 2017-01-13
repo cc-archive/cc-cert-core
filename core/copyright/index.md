@@ -5,7 +5,7 @@ First intro sentence to copyright.
 More sentences about copyright. More sentences about copyright. More sentences about copyright. More sentences about copyright. More sentences about copyright. 
 
 
-![The Copyright](https://github.com/creativecommons/cc-cert-map/blob/master/img/copyright.jpg "Copyright")
+![The Copyright](https://github.com/creativecommons/cc-cert-map/blob/master/img/core/copyright.jpg "Copyright")
 
 *[CC Copyright](http://thebluediamondgallery.com/c/copyright.html) by [NY Photographic](http://nyphotographic.com/) licensed under [CC BY-SA](http://creativecommons.org/licenses/by-sa/3.0/)*
 
