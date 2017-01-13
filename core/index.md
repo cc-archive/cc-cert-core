@@ -19,8 +19,8 @@ CORE is foundational curricula from which specialized Creative Commons certifica
 CORE has required and optional modules.
 
 * **Required Modules**
-  * [The Commons](commons.md)
-  * [Copyright Basics](copyright.md)
+  * [The Commons](commons/index.md)
+  * [Copyright ](copyright/index.md)
   * [Creative Commons License Suite](licenses.md)
   * [Socio / Cultural Implementation](social-cultural.md)
   
