@@ -105,12 +105,12 @@ Sites that host works in the public domain include
 
 ### Educational and advocacy resources on the public domain
 
-There are organisations and initiatives work to protect and extending the public domain. 
+There are organizations and initiatives work to protect and extending the public domain. 
 
 * [Public Domain Manifesto](http://publicdomainmanifesto.org/) 
 * [Duke’s Center for the Study on the Public Domain](http://web.law.duke.edu/cspd/) home of the comic book [Bound by Law](https://web.law.duke.edu/cspd/comics/zoomcomic.html)
 * [Public Domain Review](https://publicdomainreview.org/) 
-* [OutofCoypright](http://outofcopyright.eu/) - helps users determine when a particular piece of content will enter the public domain. 
+* [Out of Copyright](http://outofcopyright.eu/) - helps users determine when a particular piece of content will enter the public domain. 
 
 ## Application of Learning
 

@@ -6,11 +6,11 @@ How does copyright differ from intellectual property (IP) rights of trademark, p
 
 When you buy a Coca-Cola, you expect it to taste like every other Coca-Cola you have bought in the past. Have you ever stopped to wonder why that’s true?
 
-Given Coca-Cola’s worldwide popularity, why don’t other companies make soft drinks that they also call Coca-Cola and package in red and silver cans? That would let them sell their drinks very inexpensively, because they wouldn’t need to invest in marketing - the original Coca-Cola would do be doing that for them. While this sounds like a great opportunity for an unscrupulous business, it sounds like a disaster for a thirsty person who will be unpleasantly surprised when her Coke tastes different than she expected. 
-
-![Coca Cola (1944 x 1296)](https://github.com/creativecommons/cc-cert-map/blob/master/img/core/copyright-iain.jpg "Coca Cola (1944 x 1296)")
+![Coca Cola (1944 x 1296)](https://github.com/creativecommons/cc-cert-map/blob/master/img/core/coca-cola.jpg "Coca Cola (1944 x 1296)")
 
 *[Coca Cola (1944 x 1296)](https://www.flickr.com/photos/astanita/5102794371/) by [Asta Adamonyte](https://www.flickr.com/photos/astanita/) licensed under [CC BY](https://creativecommons.org/licenses/by/2.0/)*
+
+Given Coca-Cola’s worldwide popularity, why don’t other companies make soft drinks that they also call Coca-Cola and package in red and silver cans? That would let them sell their drinks very inexpensively, because they wouldn’t need to invest in marketing - the original Coca-Cola would do be doing that for them. While this sounds like a great opportunity for an unscrupulous business, it sounds like a disaster for a thirsty person who will be unpleasantly surprised when her Coke tastes different than she expected. 
  
 The reason “fake” Coca-Cola doesn’t exist is that copyright isn’t the only form of intellectual property protected by law. The law also protects trademarks and patents. Trade secrets can be legally protected, too. 
 
