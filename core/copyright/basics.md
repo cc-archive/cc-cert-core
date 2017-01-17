@@ -1,6 +1,6 @@
 # Copyright Basics
 
-Is copyright a bit fuzzy to you?
+Is copyright a bit fuzzy to you? Get some clarity by understanding it's history and purpose.
 
 ![Fuzzy Copyright](https://github.com/creativecommons/cc-cert-map/blob/master/img/core/copyright-fuzzy.jpg "Fuzzy Copyright")
 

@@ -13,15 +13,11 @@ This GitHub repository will be the canonical content for structure of the Creati
 * [View the Certificates published to Wordpress](https://certificates.creativecommons.org/certs)
 * View the Certificates in GitHub format (see below)
 
-
-
 ---- 
-
-*Note that as structural elements these pages are not a layout design of how the world will see it*
 
 ## CORE Certificate
 
-* [Core Certification](core/index.md) Introduction and overview
+* [Core Certification](core/index.md) The basic units that will be part of every certification
 
 * **Required Modules**
   * [Copyright ](core/index.md)
