@@ -1,8 +1,6 @@
 # Copyright
 
-Creative Commons free, easy-to-use, copyright licenses provide a simple, standardized way to give permissions to share and use creative work – under conditions the creator chooses.
-
-To fully understand Creative Commons it's helpful to know some basics about copyright.
+Creative Commons licenses do not replace copyright, they built on top of it. The default of copyright is that all rights are reserved. Creative Commons licenses allow creators to open up works for others to legally use by expressing rights they reserve, and rights they waive. To fully understand how Creative Commons licenses work it is imperative that you have a basic undestanding of copyright. 
 
 ![The Copyright](https://github.com/creativecommons/cc-cert-map/blob/master/img/core/copyright.jpg "Copyright")
 
