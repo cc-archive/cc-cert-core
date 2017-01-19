@@ -20,6 +20,8 @@ CORE modules are:
 
 Global differences or considerations associated with each topic are included within each module.
 
+## CORE Visualized
+
 CORE can be visualized as a set of modules that fit together like this:
 
 ![The Commons, Copyright Basics, Creative Commons Licenses, Socio / Cultural Implementation, Legal, Technical, or International Implementation](https://github.com/creativecommons/cc-cert-map/blob/master/img/CORE7.png "CORE Modules")
