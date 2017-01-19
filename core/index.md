@@ -13,8 +13,8 @@ Institutions and organizations wanting to become authorized to deliver Creative 
 CORE modules are:
 
 * **Modules**
-  * [The Commons](commons/index.md)
   * [Copyright ](copyright/index.md)
+  * [The Commons](commons/index.md)
   * [Creative Commons License Suite](licenses.md)
   * [Sociocultural](social-cultural.md)
   * [Legal](legal.md)
