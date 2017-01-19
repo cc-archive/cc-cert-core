@@ -1,4 +1,4 @@
-# The Creative Commons Organization
+# Creative Commons as an Organization in the Commons
 
 What if there was a means for creators to express willingness to share their knowledge and creative works? A simple and standardized way creators could use to give the public permission to use their work under certain conditions?
 

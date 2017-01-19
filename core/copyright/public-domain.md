@@ -1,4 +1,4 @@
-# Public Domain
+# Scope of Public Domain
 
 Copyright protection is not forever, at some point the protection expires and works enter the public domain. 
 

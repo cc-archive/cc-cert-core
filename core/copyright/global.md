@@ -1,43 +1,66 @@
-# Title
+# Global Aspects of Copyright
 
-Catchy sentence
+Copyright laws are defined by countries yet we operate in a world where media is global in reach. Complexity ensues.
+
+![Hidden Behind Globe](https://github.com/creativecommons/cc-cert-map/blob/master/img/core/vvgvlh1d10u-slava-bowman.jpg)
+
+*[Photo](https://unsplash.com/photos/VVgVlH1D10U) by [Slava Bowman](https://unsplash.com/@slavab) licensed  [CC0](https://creativecommons.org/publicdomain/zero/1.0/)*
+
 
 ## The Big Question
 
-Spicy jalapeno bacon ipsum dolor amet shank aute consectetur, enim chuck commodo duis tail sed ut leberkas ribeye beef minim lorem. Esse alcatra pancetta commodo leberkas. Pancetta cupidatat tongue, reprehenderit boudin spare ribs ipsum salami anim pig. Ut excepteur deserunt ut shank. Ham laboris doner ut, filet mignon turducken spare ribs exercitation. Shankle pork belly strip steak meatloaf, kevin fugiat est culpa ipsum qui brisket.
+**[Charade](http://www.imdb.com/title/tt0056923/)** is a classic American film starring Audrey Hepburn and Cary Grant that opened in 1963. Breaking ground as a movie spanning three genres - thriller, romance, and comedy - the film is notable for another important reason. 
 
+Because Universal Pictures published the movie with an invalid copyright notice, [the film entered the public domain in the United States immediately upon its release](https://wikipedia.org/wiki/Charade_(1963_film)#Public_domain_status) (wikipedia). Because the film is in the public domain, you can watch it online in its entirety [from Wikipedia](https://en.wikipedia.org/wiki/File:Charade_(1963).webm) as well as YouTube
 
-![Copyright Iain](https://github.com/creativecommons/cc-cert-map/blob/master/img/core/copyright-iain.jpg "Copyright Iain")
+https://www.youtube.com/watch?v=FtxtQGQwUS0
 
-*[Copyright Iain](https://www.flickr.com/photos/iain/4804390638/) by [Iain Farrell](https://www.flickr.com/photos/iain/) licensed under [CC BY-ND](https://creativecommons.org/licenses/by-nd/2.0/)*
+*["Charade (1963) - Full American Movie VO"](https://www.youtube.com/watch?v=FtxtQGQwUS0eos) is in the public domain*
 
-
-Cupidatat cupim turducken tri-tip. Sausage sunt exercitation, kevin incididunt in corned beef pig shank ut pastrami. Officia labore dolore landjaeger sausage in. Frankfurter dolor eiusmod shoulder chicken venison kielbasa duis ea porchetta cupidatat. Chicken beef ribs hamburger lorem culpa velit tail ullamco consectetur do excepteur porchetta est labore pancetta. Laborum spare ribs ut chuck sint tri-tip deserunt, ham magna turducken jerky pariatur in. Leberkas incididunt enim nulla turducken venison, short ribs filet mignon irure.
-
-Officia et aliquip, aliqua commodo ribeye fatback culpa. Spare ribs ad venison irure ham hock duis biltong kielbasa landjaeger veniam aliqua cupidatat. Velit proident veniam alcatra sausage esse landjaeger beef ribs meatball boudin turducken excepteur mollit doner. Qui biltong nulla, tempor frankfurter ground round bacon. Aliqua pork belly enim tri-tip labore pork loin corned beef eu kielbasa strip steak. Rump short loin esse cupidatat strip steak, ex consectetur ut laborum ullamco exercitation reprehenderit flank venison.
+Should a technicality like this prevent a major motion picture from being protected by copyright? What if the technicalities for providing the copyright notice differed from country to country? Wouldn’t things be easier for everyone involved if the process for getting copyright protection was simplified and harmonized across countries? Are there valid reasons for copyright to differ from country to country?
 
 ## Learning Outcomes
 
-* In chicken ut mollit est, anim pork pastrami venison ground round nostrud laboris swine elit proident. 
-* Fugiat short ribs corned beef turkey bacon, aliqua meatloaf excepteur jowl. 
-* Pork hamburger ipsum, bresaola cupim dolore nisi aliquip chuck cow qui ham hock kielbasa. 
-* Qui porchetta sirloin irure, proident landjaeger consequat shank venison excepteur pork ribeye ground round.
+* Give examples of international copyright baselines (e.g. Berne Convention)
+* Understand moral rights and other rights situated alongside copyright
+* Understand local copyright
 
 ## Personal Reflection / Why It Matters to You  
   
-Pork belly boudin in ham hock porchetta chicken shankle eiusmod laborum sint occaecat. Minim duis fatback, pastrami drumstick deserunt spare ribs sed short loin proident cow aliqua swine. Consectetur ut pork, ball tip filet mignon ipsum culpa id pork chop short loin. Fatback t-bone aliquip, jowl kevin ea venison velit nisi brisket. Commodo mollit pork belly andouille id, shoulder labore est meatball consequat ball tip tempor occaecat ipsum shankle. Excepteur chuck dolore ut cow, beef ribs beef voluptate cillum pork belly velit burgdoggen nisi qui ipsum. Swine commodo et meatloaf, ea tongue eu beef magna.
+Have you ever missed an important opportunity because of a technicality? Maybe you misread the directions on an important test? Or maybe you didn’t format the resume you submitted for a job exactly the way the employer asked? Have you ever wished that things could just be simpler? 
+
+Have you ever told someone “be careful what you wish for?”
 
 
 ## Acquiring Essential Knowledge 
 
-### Laborum capicola filet mignon, short loin aliqua anim do consequat leberkas. 
+### Introduction to a global copyright system
 
-Cow sausage spare ribs pork loin dolore, exercitation pork ex aute lorem culpa officia nulla ipsum enim. Proident laborum dolore t-bone id, adipisicing tri-tip alcatra. Alcatra dolore quis tenderloin rump velit ut reprehenderit nulla ribeye tongue ham hock drumstick fugiat salami. Anim deserunt eiusmod dolore biltong nostrud aliquip jowl shoulder laboris.
+Watch the YouTube video from #FixCopyright to understand the basic history of copyright and its relation to creativity and sharing. 
 
-### Eu meatball shank labore ham hock ipsum ad in jowl officia ham ea. 
+https://www.youtube.com/watch?v=0fdUDecJ6jc
 
-Pancetta veniam ground round, sausage pork chop consectetur ad cow tri-tip et landjaeger enim. Aute turducken pork, ipsum esse anim tail rump brisket elit. Excepteur ball tip mollit ribeye picanha ground round sunt et tenderloin. Ipsum lorem nostrud, exercitation nulla shoulder kevin shankle.
+*["#FixCopyright: Copy (aka copyright) Tells the Story of His Life"](https://www.youtube.com/watch?v=0fdUDecJ6jc) by [FixCopyright](https://www.youtube.com/channel/UCqIxBYe-_0ubkx3LlyyNPhA) is licensed under [CC BY](https://creativecommons.org/licenses/by/3.0)*
 
+
+While copyright law was originally tailored to local laws and customs, over the years there has been harmonisation of copyright provisions--meaning that most copyright law is quite similar in most of the world. This has taken place through the ratification and implementation of international copyright treaties and agreements. Read up on these agreements, such as the [World Intellectual Property Organisation’s (WIPO)](www.wipo.int) [Berne Convention](https://en.wikipedia.org/wiki/Berne_Convention), and the [World Trade Organisation’s](https://www.wto.org/) [TRIPS Agreement](https://en.wikipedia.org/wiki/TRIPS_Agreement). Explore the role of [WIPO](www.wipo.int) in international copyright policymaking, including a recently-ratified treaty on [access to copyright works for the visually impaired](http://www.wipo.int/pressroom/en/briefs/limitations.html). 
+
+![The signatories of the Berne Convention for the Protection of Literary and Artistic Works](https://github.com/creativecommons/cc-cert-map/blob/master/img/core/berne-convention.png "The signatories of the Berne Convention for the Protection of Literary and Artistic Works)
+
+
+
+
+, 
+
+*[The signatories of the Berne Convention for the Protection of Literary and Artistic Works](https://commons.wikimedia.org/wiki/File:Berne_Convention.png) as of 2012 licensed  [CC BY-SA](https://creativecommons.org/licenses/by-sa/3.0/)*
+
+### Features common to copyright today
+
+Through the ratification of international copyright agreements, "[copyright formalities](https://en.wikipedia.org/wiki/Copyright_formalities)" have been mostly harmonised.
+
+Copyright formalities are legal requirements that an author needs to undertake in order to receive copyright protection for a work they create. Review several of these copyright formalities, including registration, renewal, notice, and deposit.
+
+From country to country, the duration of copyright is also quite similar. Review the Wikipedia pages on copyright term, and view the page that lists the the duration of copyright based on country. 
 
 
 ### Pork chop short loin cupidatat brisket turkey esse aliquip andouille beef ribs. 
