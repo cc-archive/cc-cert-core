@@ -11,8 +11,6 @@ None of the certificates for librarians, educators, or government require partic
 Institutions and organizations wanting to become authorized to deliver Creative Commons certificate training will be required to go through a train-the-trainer process involving all of CORE and the additional specialized learning associated with each of the librarian, educator, and government certificates. 
 
 CORE modules are:
-
-* **Modules**
   * [Copyright ](copyright/index.md)
   * [The Commons](commons/index.md)
   * [Creative Commons License Suite](licenses.md)
@@ -22,7 +20,6 @@ CORE modules are:
  
  The international and global considerations have been authored within each of these modules.
 
-## CORE Modules
 CORE can be visualized as a set of modules that fit together like this:
 
 ![The Commons, Copyright Basics, Creative Commons Licenses, Socio / Cultural Implementation, Legal, Technical, or International Implementation](https://github.com/creativecommons/cc-cert-map/blob/master/img/CORE6.png "CORE Modules")
