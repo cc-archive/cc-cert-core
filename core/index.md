@@ -18,7 +18,7 @@ CORE modules are:
   * [Legal](legal.md)
   * [Technical](technical.md)
 
-Global differences or considerations are included within each module.
+Global differences or considerations associated with each topic are included within each module.
 
 CORE can be visualized as a set of modules that fit together like this:
 
