@@ -25,7 +25,7 @@ CORE modules are:
 ## CORE Modules
 CORE can be visualized as a set of modules that fit together like this:
 
-![The Commons, Copyright Basics, Creative Commons Licenses, Socio / Cultural Implementation, Legal, Technical, or International Implementation](https://github.com/creativecommons/cc-cert-map/blob/master/img/COREModules.jpg "CORE Modules")
+![The Commons, Copyright Basics, Creative Commons Licenses, Socio / Cultural Implementation, Legal, Technical, or International Implementation](https://github.com/creativecommons/cc-cert-map/blob/master/img/CORE6.png "CORE Modules")
 
 The pale grey lines divide each module into units of learning. 
 
