@@ -32,7 +32,7 @@ The pale grey lines divide each module into units of learning.
 
 Units of learning across all CORE modules are:
 
-![Expanded details of core modules](https://github.com/creativecommons/cc-cert-map/blob/master/img/UnitsofLearning2.jpg "Each CORE module breaks down further into units of learning")
+![Expanded details of core modules](https://github.com/creativecommons/cc-cert-map/blob/master/img/LearningUnits6.png "Each CORE module breaks down further into units of learning")
 
 
 
