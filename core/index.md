@@ -1,35 +1,26 @@
-# Introduction to Creative Commons CORE
+# Creative Commons CORE
 
-CORE is a learning blueprint for acquiring comprehensive Creative Commons knowledge and skill. 
+CORE defines the extensive range of knowledge and skills associated with becoming expert in all aspects of Creative Commons. The comprehensive breadth of CORE is depicted as a set of module topics and their associated learning units. Depth is defined by learning objectives within each unit. 
 
-CORE is for those seeking deep Creative Commons expertise, including those involved in intensive use of Creative Commons and those who lead and support use of Creative Commons by others. CORE is the means by which someone becomes certified to train others about Creative Commons.
+Creative Commons created CORE as foundational curricula from which specialized Creative Commons certificates can be built. The first phase of CC certificate development for librarians, educators and government involved identifying which CORE modules and learning units were relevant to people in those professions. A unique subset of CORE was identified as relevant for each. The corresponding CORE modules and learning units form the first part of learning for the librarian, educator, and government certificates.
 
-The comprehensive breadth of CORE is shown across seven modules and their associated learning units. Depth is defined by learning objectives within each unit. 
+Librarians, educators, and government each have their own unique Creative Commons use cases. On top of CORE a second part of the learning was designed to provide the additional specialized learning associated with how each profession uses Creative Commons. Each of the certificates combines parts of CORE with specialized learning associated with how CC is used in practice.
 
-CORE emphasizes performance based learning with learning objectives fulfilled through applied use. Acquisition of knowledge and skill is demonstrated through generation of Creative Commons licensed works. CORE aims to have you doing Creative Commons for your own personal reasons and for a larger social good. 
+None of the certificates for librarians, educators, or government require participants to learn all of CORE. However, Creative Commons has authored CORE curricula as Open Educational Resources open and accessible to all. As a result librarians, educators and government staff interested in exploring CORE modules and learning units not required as part of their learning path will be welcome to do so.
 
-CORE is Creative Commons licensed including the content, learning activities, and participant proof of completion. 
+Institutions and organizations wanting to become authorized to deliver Creative Commons certificate training will be required to go through a train-the-trainer process involving all of CORE and the additional specialized learning associated with each of the librarian, educator, and government certificates. 
 
-CORE is continuously created through remix of existing Open Educational Resources (OER) and participant creation of new OER. 
+CORE modules are:
 
-Creative Commons is the curator of CORE with CORE learning materials and activities aggregated from across the entire Creative Commons community. 
-
-CORE is foundational curricula from which specialized Creative Commons certificates can be built. 
-
-CORE has required and optional modules.
-
-* **Required Modules**
+* **Modules**
   * [The Commons](commons/index.md)
   * [Copyright ](copyright/index.md)
   * [Creative Commons License Suite](licenses.md)
-  * [Socio / Cultural Implementation](social-cultural.md)
-  
-* Plus one or more **Optional Modules**
-  * [Legal Implementation](legal.md)
-  * [Technical Implementation](technical.md)
-  * [International Implementation](international.md)
-
-Optional modules provide participants with the opportunity to gain deeper knowledge directly related to their interests or needs. 
+  * [Sociocultural](social-cultural.md)
+  * [Legal](legal.md)
+  * [Technical](technical.md)
+ 
+ The international and global considerations have been authored within each of these modules.
 
 ## CORE Modules
 CORE can be visualized as a set of modules that fit together like this:
