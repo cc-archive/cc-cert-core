@@ -6,7 +6,7 @@ Creative Commons created CORE as foundational curricula from which specialized C
 
 Librarians, educators, and government each have their own unique Creative Commons use cases. On top of CORE a second part of the learning was designed to provide the additional specialized learning associated with how each profession uses Creative Commons. Each of the certificates combines parts of CORE with specialized learning associated with how CC is used in practice.
 
-None of the certificates for librarians, educators, or government require participants to learn all of CORE. However, Creative Commons has authored CORE curricula as Open Educational Resources open and accessible to all. As a result librarians, educators and government staff interested in exploring CORE modules and learning units not required as part of their learning path will be welcome to do so.
+None of the certificates for librarians, educators, or government require participants to learn all of CORE. However, Creative Commons has authored CORE curricula as Open Educational Resources open and accessible to all. As a result, librarians, educators, and government staff interested in exploring CORE modules and learning units not required as part of their learning path are welcome to do so.
 
 Institutions and organizations wanting to become authorized to deliver Creative Commons certificate training will be required to go through a train-the-trainer process involving all of CORE and the additional specialized learning associated with each of the librarian, educator, and government certificates. 
 
