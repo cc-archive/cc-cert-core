@@ -13,16 +13,16 @@ Institutions and organizations wanting to become authorized to deliver Creative 
 CORE modules are:
   * [Copyright ](copyright/index.md)
   * [The Commons](commons/index.md)
-  * [Creative Commons License Suite](licenses.md)
+  * [Using Creative Commons Licenses](licenses.md)
   * [Sociocultural](social-cultural.md)
   * [Legal](legal.md)
   * [Technical](technical.md)
 
-International and global considerations have been authored within each of these modules.
+Global differences or considerations are included within each module.
 
 CORE can be visualized as a set of modules that fit together like this:
 
-![The Commons, Copyright Basics, Creative Commons Licenses, Socio / Cultural Implementation, Legal, Technical, or International Implementation](https://github.com/creativecommons/cc-cert-map/blob/master/img/CORE6.png "CORE Modules")
+![The Commons, Copyright Basics, Creative Commons Licenses, Socio / Cultural Implementation, Legal, Technical, or International Implementation](https://github.com/creativecommons/cc-cert-map/blob/master/img/CORE7.png "CORE Modules")
 
 The pale grey lines divide each module into units of learning. 
 
