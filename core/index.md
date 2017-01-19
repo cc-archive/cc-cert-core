@@ -17,8 +17,8 @@ CORE modules are:
   * [Sociocultural](social-cultural.md)
   * [Legal](legal.md)
   * [Technical](technical.md)
- 
- The international and global considerations have been authored within each of these modules.
+
+International and global considerations have been authored within each of these modules.
 
 CORE can be visualized as a set of modules that fit together like this:
 
