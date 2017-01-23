@@ -10,7 +10,11 @@ CORE is comprised of modules and learning units.
 ## Units of learning
 ![CORE UnitsofLearning](https://github.com/creativecommons/cc-cert-map/blob/master/img/LearningUnits6.png "CORE Module Learning Units")
 
-Use these links to access all Creative Commons Core module and learning unit content.
+In addition to being its own standalone certificate, CORE is foundational curricula from which specialized Creative Commons certificates are built. Creative Commons certificates for librarians, educators, and government start with a subset of CORE as foundation, on top of which specialized learning is added specific to how each profession uses Creative Commons. Getting a Creative Commons librarian, educator, or government certificate involves completing both the CORE and specialized learning parts.
+
+While only a subset of CORE is used for each specialized certificate, all of CORE is open and accessible. Librarians, educators, and government staff wanting to pursue deeper knowledge can access and learn from all of CORE even parts not on their learning path.
+
+You can access all of CORE  using these links:
 
 ## Access Learning Links
 * [Copyright](copyright/index.md)
@@ -54,9 +58,6 @@ Use these links to access all Creative Commons Core module and learning unit con
    * Searching for CC Licensed Content
    * Legal vs Technical Openness
 
-In addition to being its own standalone certificate, CORE is foundational curricula from which specialized Creative Commons certificates are built. Creative Commons certificates for librarians, educators, and government start with a subset of CORE as foundation, on top of which specialized learning is added specific to how each profession uses Creative Commons. Getting a Creative Commons librarian, educator, or government certificate involves completing both the CORE and specialized learning parts.
-
-While only a subset of CORE is used for each specialized certificate, all of CORE is open and accessible. Librarians, educators, and government staff wanting to pursue deeper knowledge can access and learn from all of CORE even parts not on their learning path.
 
  
 
