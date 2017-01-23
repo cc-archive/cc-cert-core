@@ -6,7 +6,10 @@ CORE is comprised of the following modules.
 
 ![CORE Modules](https://github.com/creativecommons/cc-cert-map/blob/master/img/CORE6.jpg "CORE Modules")
 
-broken down into smaller units of learning.
+CORE modules break down into smaller units of learning.
+
+![CORE UnitsofLearning](https://github.com/creativecommons/cc-cert-map/blob/master/img/LearningUnits6.jpg "CORE Module Learning Units")
+
 
 ## Modules and units
 
