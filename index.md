@@ -4,7 +4,7 @@ CORE defines the range of knowledge and skills associated with being expert in a
 
 CORE is comprised of the following modules.
 
-![CORE Modules](https://github.com/creativecommons/cc-cert-map/blob/master/img/CORE6.pdf "CORE Modules")
+![CORE Modules](https://github.com/creativecommons/cc-cert-map/blob/master/img/CORE6.jpg "CORE Modules")
 
 broken down into smaller units of learning.
 
