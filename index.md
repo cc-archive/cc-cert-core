@@ -1,14 +1,8 @@
 # Creative Commons CORE
 
-CORE defines the extensive range of knowledge and skills associated with becoming expert in all aspects of Creative Commons. The comprehensive breadth of CORE is depicted as a set of module topics and their associated learning units. Depth is defined by learning objectives within each unit. 
+CORE defines the range of knowledge and skills associated with being expert in all aspects of Creative Commons. CORE is for those who need deep and comprehensive knowledge of Creative Commons including individuals and organizations wanting to become authorized to deliver Creative Commons certificate training. 
 
-Creative Commons created CORE as foundational curricula from which specialized Creative Commons certificates can be built. The first phase of CC certificate development for librarians, educators and government involved identifying which CORE modules and learning units were relevant to people in those professions. A unique subset of CORE was identified as relevant for each. The corresponding CORE modules and learning units form the first part of learning for the librarian, educator, and government certificates.
-
-Librarians, educators, and government each have their own unique Creative Commons use cases. On top of CORE a second part of the learning was designed to provide the additional specialized learning associated with how each profession uses Creative Commons. Each of the certificates combines parts of CORE with specialized learning associated with how CC is used in practice.
-
-None of the certificates for librarians, educators, or government require participants to learn all of CORE. However, Creative Commons has authored CORE curricula as Open Educational Resources open and accessible to all. As a result, librarians, educators, and government staff interested in exploring CORE modules and learning units not required as part of their learning path are welcome to do so.
-
-Institutions and organizations wanting to become authorized to deliver Creative Commons certificate training will be required to go through a train-the-trainer process involving all of CORE and the additional specialized learning associated with each of the librarian, educator, and government certificates. 
+CORE is comprised of modules broken down into smaller units of learning.
 
 ## Modules and units
 
@@ -48,11 +42,18 @@ Institutions and organizations wanting to become authorized to deliver Creative 
    * Responding to Creative Commons License Violations
    * Formulating Open Policies
 
-
 * [Technical](technical/index.md)
    * Using License Choosers
    * Searching for CC Licensed Content
    * Legal vs Technical Openness
+
+In addition to being its own standalone certificate, CORE is foundational curricula from which specialized Creative Commons certificates are built. Creative Commons certificates for librarians, educators, and government start with a subset of CORE as foundation, on top of which specialized learning is added specific to how each profession uses Creative Commons. Getting a Creative Commons librarian, educator, or government certificate involves completing both the CORE and specialized learning parts.
+
+While only a subset of CORE is used for each specialized certificate, all of CORE is open and accessible. Librarians, educators, and government staff wanting to pursue deeper knowledge can access and learn from all of CORE even parts not on their learning path.
+
+ 
+
+
 
 
 
