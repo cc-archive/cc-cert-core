@@ -2,12 +2,12 @@
 
 CORE defines the range of knowledge and skills associated with being expert in all aspects of Creative Commons. CORE is for those who need deep and comprehensive knowledge of Creative Commons including individuals and organizations wanting to become authorized to deliver Creative Commons certificate training. 
 
-CORE is comprised of the following modules.
+CORE is comprised of modules and learning units.
 
+## Modules
 ![CORE Modules](https://github.com/creativecommons/cc-cert-map/blob/master/img/CORE6.jpg "CORE Modules")
 
-CORE modules break down into smaller units of learning.
-
+## Units of learning
 ![CORE UnitsofLearning](https://github.com/creativecommons/cc-cert-map/blob/master/img/LearningUnits6.png "CORE Module Learning Units")
 
 
