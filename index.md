@@ -10,9 +10,9 @@ CORE is comprised of modules and learning units.
 ## Units of learning
 ![CORE UnitsofLearning](https://github.com/creativecommons/cc-cert-map/blob/master/img/LearningUnits6.png "CORE Module Learning Units")
 
+Use these links to access all Creative Commons Core module and learning unit content.
 
-## Modules and units
-
+## Access Learning Links
 * [Copyright](copyright/index.md)
   * [Copyright Basics](copyright/basics.md)
   * [Copyright vs Other Intellectual Property](copyright/other-ip.md)
