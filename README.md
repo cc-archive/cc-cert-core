@@ -8,17 +8,19 @@ This GitHub repository will be the canonical content for structure of the core u
 
 This repository is primarily for the design team to use as the master content. We are developing it Markdown format so it can be easily be deployed to our demonstration public Wordpress site http://certificates.creativecommons.org/certs but potentially other platforms that publish web content form Markdown (see more about [our technical approach](https://certificates.creativecommons.org/category/tech/).
 
+---- 
+
+* [Enter the CORE Certification](index.md)
+* [About the Core Certification](about/index.md)
+* [CORE Content](content/index.md)
+
+
+----
+
 ## Learn More
 
 * [Learn more about the project](https://certificates.creativecommons.org/about/)
 * [Blog posts about the design and development approach](https://certificates.creativecommons.org/)
 * [View the Certificates published to Wordpress](https://certificates.creativecommons.org/certs)
-
----- 
-
-[Enter the CORE Certification](index.md)
-[About the Core Certification](about/index.md)
-[CORE Content](content/index.md)
-
 
 
