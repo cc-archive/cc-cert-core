@@ -19,5 +19,5 @@ While only a subset of CORE is used for each specialized certificate, all of COR
 
 ## Get Certified
 
-[Explore the CORE modules and units](contents/index.md)
+[Explore the CORE modules and units](../contents/index.md)
 
