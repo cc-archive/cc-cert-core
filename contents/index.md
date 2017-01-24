@@ -1,6 +1,6 @@
 # CORE Contents
 
-The Creative Commons librarian certificate is made up of a six modules broken down into learning units. These modules and learning units have been organized sequentially in a recommended learning path as follows:
+The Creative Commons CORE certificate is made up of a six modules broken down into learning units. These modules and learning units have been organized sequentially in a recommended learning path as follows:
 
 * [Copyright](copyright/index.md)
   * [Copyright Basics](copyright/basics.md)
