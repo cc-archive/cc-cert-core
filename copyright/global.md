@@ -47,11 +47,6 @@ While copyright law was originally tailored to local laws and customs, over the 
 
 ![The signatories of the Berne Convention for the Protection of Literary and Artistic Works](https://github.com/creativecommons/cc-cert-map/blob/master/images/copyright/berne-convention.png "The signatories of the Berne Convention for the Protection of Literary and Artistic Works)
 
-
-
-
-, 
-
 *[The signatories of the Berne Convention for the Protection of Literary and Artistic Works](https://commons.wikimedia.org/wiki/File:Berne_Convention.png) as of 2012 licensed  [CC BY-SA](https://creativecommons.org/licenses/by-sa/3.0/)*
 
 ### Features common to copyright today
