@@ -1,6 +1,8 @@
 # Creative Commons CORE
 
-CORE defines the range of knowledge and skills associated with being expert in all aspects of Creative Commons. CORE is for those who need deep and comprehensive knowledge of Creative Commons including individuals and organizations wanting to become authorized to deliver Creative Commons certificate training. 
+CORE defines the range of knowledge and skills associated with being expert in all aspects of Creative Commons. 
+
+CORE is for those who need deep and comprehensive knowledge of Creative Commons including individuals and organizations wanting to become authorized to deliver Creative Commons certificate training. 
 
 CORE is comprised of modules and learning units.
 
@@ -57,11 +59,3 @@ You can access all of CORE  using these links:
    * Using License Choosers
    * Searching for CC Licensed Content
    * Legal vs Technical Openness
-
-
- 
-
-
-
-
-
