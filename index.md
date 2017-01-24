@@ -18,7 +18,7 @@ While only a subset of CORE is used for each specialized certificate, all of COR
 
 You can access all of CORE  using these links:
 
-## Access Learning Links
+## Access CORE
 * [Copyright](copyright/index.md)
   * [Copyright Basics](copyright/basics.md)
   * [Copyright vs Other Intellectual Property](copyright/other-ip.md)
