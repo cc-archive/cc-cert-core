@@ -4,6 +4,6 @@
 
 *[Magnetic toroidal core (sample)](https://commons.wikimedia.org/wiki/File:Magnetic_toroidal_core_(sample).jpg) by Stan Zurek licensed under [CC BY-SA](https://creativecommons.org/licenses/by-sa/3.0/)*
 
-* [About the Creative Commons Core Certification](about/index.md) 
+* [About the Creative Commons Core Certification](overview/index.md) 
 * [Creative Commons Core Certification Contents](contents/index.md)  
 

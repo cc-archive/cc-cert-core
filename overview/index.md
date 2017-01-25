@@ -1,4 +1,4 @@
-# About the Creative Commons CORE Certification
+# Creative Commons CORE Certification Overview
 
 CORE defines the range of knowledge and skills associated with being expert in all aspects of Creative Commons. 
 

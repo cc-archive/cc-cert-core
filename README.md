@@ -13,13 +13,13 @@ This repository is primarily for the design team to use as the master content. W
 ---- 
 
 * [Enter the CORE Certification](index.md)
-* [About the Core Certification](about/index.md)
+* [CORE Certification Overview](overiew/index.md)
 * [CORE Content](contents/index.md)
 
 
 ----
 
-## Learn More
+## Learn More...
 
 * [Learn more about the project](https://certificates.creativecommons.org/about/)
 * [Blog posts about the design and development approach](https://certificates.creativecommons.org/)
