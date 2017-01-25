@@ -1,6 +1,6 @@
 # Creative Commons Core Certification
 
-**CC-CERT-CORE v0.2 Jan 27 2017**
+*CC-CERT-CORE v0.2 Jan 27 2017*
 
 This GitHub repository will be the canonical content for structure of the core units of Creative Commons certifications that will be incorporated into the three specialty offerings
 
