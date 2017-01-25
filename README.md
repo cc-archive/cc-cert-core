@@ -13,7 +13,7 @@ This repository is primarily for the design team to use as the master content. W
 ---- 
 
 * [Enter the CORE Certification](index.md)
-* [About the Core Certification](about.md)
+* [About the Core Certification](about/index.md)
 * [CORE Content](contents/index.md)
 
 
