@@ -1,9 +1,10 @@
-# Creative Commons Core Certification
+# Creative Commons Library Certification
 
-![Magnetic toroidal core (sample)](https://github.com/creativecommons/cc-cert-map/blob/master/images/toroidal-core.jpg "agnetic toroidal core (sample)")
+![Stuttgart library interior](https://github.com/creativecommons/cc-cert-lib/blob/master/images/stuttgart-library.jpg "Stuttgart library interior")
 
-*[Magnetic toroidal core (sample)](https://commons.wikimedia.org/wiki/File:Magnetic_toroidal_core_(sample).jpg) by Stan Zurek licensed under [CC BY-SA](https://creativecommons.org/licenses/by-sa/3.0/)*
+*[Stuttgart library interior](https://www.flickr.com/photos/41346951@N05/9786288611) by [Thomas Leuthard](https://www.flickr.com/photos/thomasleuthard/) licensed under [CC BY](https://creativecommons.org/licenses/by/2.0/)*
 
-* [About the Creative Commons Core Certification](overview/index.md) 
-* [Creative Commons Core Certification Contents](contents/index.md)  
+* [Overview of the Creative Commons Library Certification](overview/index.md) 
+* [Details of the Creative Commons Library Certification](details/index.md) 
+* [Library Certification Contents](contents/index.md)  
 

@@ -45,7 +45,7 @@ https://www.youtube.com/watch?v=0fdUDecJ6jc
 
 While copyright law was originally tailored to local laws and customs, over the years there has been harmonisation of copyright provisions--meaning that most copyright law is quite similar in most of the world. This has taken place through the ratification and implementation of international copyright treaties and agreements. Read up on these agreements, such as the [World Intellectual Property Organisation’s (WIPO)](www.wipo.int) [Berne Convention](https://en.wikipedia.org/wiki/Berne_Convention), and the [World Trade Organisation’s](https://www.wto.org/) [TRIPS Agreement](https://en.wikipedia.org/wiki/TRIPS_Agreement). Explore the role of [WIPO](www.wipo.int) in international copyright policymaking, including a recently-ratified treaty on [access to copyright works for the visually impaired](http://www.wipo.int/pressroom/en/briefs/limitations.html). 
 
-![The signatories of the Berne Convention for the Protection of Literary and Artistic Works](https://github.com/creativecommons/cc-cert-map/blob/master/images/copyright/berne-convention.png "The signatories of the Berne Convention for the Protection of Literary and Artistic Works)
+![The signatories of the Berne Convention for the Protection of Literary and Artistic Works](https://github.com/creativecommons/cc-cert-map/blob/master/images/copyright/berne-convention.png "The signatories of the Berne Convention for the Protection of Literary and Artistic Works")
 
 *[The signatories of the Berne Convention for the Protection of Literary and Artistic Works](https://commons.wikimedia.org/wiki/File:Berne_Convention.png) as of 2012 licensed  [CC BY-SA](https://creativecommons.org/licenses/by-sa/3.0/)*
 
@@ -55,30 +55,24 @@ Through the ratification of international copyright agreements, "[copyright form
 
 Copyright formalities are legal requirements that an author needs to undertake in order to receive copyright protection for a work they create. Review several of these copyright formalities, including registration, renewal, notice, and deposit.
 
-From country to country, the duration of copyright is also quite similar. Review the Wikipedia pages on copyright term, and view the page that lists the the duration of copyright based on country. 
+From country to country, the duration of copyright is also quite similar. Review the Wikipedia pages on [copyright term](https://en.wikipedia.org/wiki/Copyright_term), and view the page that lists the the duration of copyright based on country. 
 
+![World Copyright Terms](https://github.com/creativecommons/cc-cert-map/blob/master/images/copyright/world-copyright-terms.png "World Copyright Terms")
 
-### Pork chop short loin cupidatat brisket turkey esse aliquip andouille beef ribs. 
+*[World Copyright Terms](https://commons.wikimedia.org/wiki/File:World_copyright_terms.svg) by Balfour Smith licensed  [CC BY](https://creativecommons.org/licenses/by/3.0/)*
 
-Tongue strip steak ea porchetta rump pork loin. Turducken ea nisi, duis ad pork pig sunt ipsum consequat andouille turkey. Reprehenderit veniam in strip steak burgdoggen beef. Consectetur short loin jowl velit incididunt nulla. Pancetta sunt ex, quis bacon tempor anim chuck sed bresaola ham esse pastrami consectetur elit. Boudin enim shankle, ipsum excepteur in laborum.
-
-https://vimeo.com/151666798
-
-*["Creative Commons: Remix"](https://vimeo.com/151666798) by [Creative Commons](https://vimeo.com/creativecommonsvideos) is licensed under [CC BY-SA](https://creativecommons.org/licenses/by-sa/3.0)*
-
-Also [Creative Commons Australia](http://creativecommons.org.au) provides a more comprehensive list of of the [Benefits of Sharing Using Creative Commons](http://creativecommons.org.au/content/Benefits_of_CC_08.pdf).
-
+There are types of rights that operate in parallel with copyright. One of these is moral rights, which are generally understood as a right of attribution above and beyond intellectual property rights. [Read about moral rights](https://en.wikipedia.org/wiki/Moral_rights) to understand how it is different than copyright.  
 
 ## Application of Learning
 
 ### Learner Toolkit
-Select two or three resources directly relevant to your personal or work-related CC needs from the Acquiring Essential Knowledge content and add them to your personal Creative Commons toolkit. Adding them to your toolkit makes them easy to find and use when the need arises, and makes it easy for you to pass on resources you consider important to others. Annotate the resources with notes explaining why they are relevant and important for you and your work.
+Select at least 2 or 3 resources directly relevant to your personal or work related CC needs from the Acquiring Basic Knowledge content and add them to your personal Creative Commons toolkit. Adding them to your toolkit makes it easy to find and use them when the need arises and makes it easy for you to pass on resources you consider important to others. Add comments explaining relevancy and importance.
 
 ### Community - Collaboration, Appreciation, Recognition, Gratitude
-Post a story about how you benefited from someone who chose to share their creative works under a Creative Commons license in the CC Certificate social forum. Alternatively, share a description of (and link to, if applicable) a community that engages in commons-based peer production that others might not be aware of.
+In the CC Certificate social forum post your answers to the personal reflection questions posed at the start of this learning unit. Identify and comment on posts from at least two others who have similar needs or ideas.
 
 ### Applied Practice
 
 Complete the following activity in the Quest Bank:
 
-* 
+* [Where is your country on global copyright map?](https://quests.creativecommons.org/assignments/where-is-your-country)
