@@ -23,7 +23,7 @@ The Creative Commons CORE certificate is made up of a six modules broken down in
    * Legal Precedence of Creative Commons Licenses
    
 * [Sociocultural](sociocultural/index.md)
-   * How the Open Model is Better
+   * [How the Open Model is Better](sociocultural/open-better.md)
    * Shift to Openness
    * Promoting Openness
    * Community Development for Openness
