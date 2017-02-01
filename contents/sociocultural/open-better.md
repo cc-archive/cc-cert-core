@@ -2,7 +2,7 @@
 
 How do you convince the people who you work with to openly share their work when their response is “Why would I give away what I made for free?”
 
-![DNA Origami by Alex Bateman @alexbateman1 @sangerinstitute @emblebi #DNAOrigami](https://github.com/creativecommons/cc-cert-map/blob/master/images/sociocultural/dna-origami.jpg "DNA Origami by Alex Bateman @alexbateman1 @sangerinstitute @emblebi #DNAOrigami")
+![DNA Origami by Alex Bateman @alexbateman1 @sangerinstitute @emblebi #DNAOrigami](https://github.com/creativecommons/cc-cert-map/blob/master/images/sociocultural/dna-origami-lg.jpg "DNA Origami by Alex Bateman @alexbateman1 @sangerinstitute @emblebi #DNAOrigami")
 
 [DNA Origami by Alex Bateman @alexbateman1 @sangerinstitute @emblebi #DNAOrigami](https://flickr.com/photos/dullhunk/4422952742 "DNA Origami by Alex Bateman @alexbateman1 @sangerinstitute @emblebi #DNAOrigami") by [dullhunk](https://flickr.com/people/dullhunk) is licensed under [CC BY](https://creativecommons.org/licenses/by/2.0/)
 
