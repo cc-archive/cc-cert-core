@@ -4,7 +4,7 @@ Creative Commons licenses do not replace copyright, they built on top of it.
 
 The default of copyright is that all rights are reserved. Creative Commons licenses allow creators to open up works for others to legally use by expressing rights they reserve, and rights they waive. To fully understand how Creative Commons licenses work it is imperative that you have a basic undestanding of copyright. 
 
-![The Copyright](https://github.com/creativecommons/cc-cert-map/blob/master/images/copyright/copyright.jpg "Copyright")
+![The Copyright](https://github.com/creativecommons/cc-cert-core/blob/master/images/copyright/copyright.jpg "Copyright")
 
 *[CC Copyright](http://thebluediamondgallery.com/c/copyright.html) by [NY Photographic](http://nyphotographic.com/) licensed under [CC BY-SA](http://creativecommons.org/licenses/by-sa/3.0/)*
 

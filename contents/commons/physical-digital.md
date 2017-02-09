@@ -10,7 +10,7 @@ All you have to do is put in a single bowl of rice, or slice of pizza, or an app
 
 The internet is exactly this kind of machine. All you have to do is upload a bit of writing, or an image, or a video - anything that can be represented and stored as bits - and the machine can  make an infinite number of perfect copies for anyone who asks. And it can make those copies instantaneously. And for free. And send them anywhere around the world at the speed of light. What is our world currently like? What *could* it be like if we leveraged this technology to its potential?
 
-![Copy Notices](https://github.com/creativecommons/cc-cert-map/blob/master/images/commons/commons-copy.jpg "image of copy notices")
+![Copy Notices](https://github.com/creativecommons/cc-cert-core/blob/master/images/commons/commons-copy.jpg "image of copy notices")
 
 *[Copy Notices](https://www.flickr.com/photos/unkle_cheese/828876896/) by [Jimmy Jim Jim Shabadoo](https://www.flickr.com/photos/unkle_cheese/) licensed under [CC-BY-SA](http://creativecommons.org/licenses/by-sa/2.0/)*
 
@@ -31,7 +31,7 @@ Why do we have the internet - perhaps the perfect machine for the free and open 
 
 ### Physical and Digital Commons 
 
-![Digital and Analog](https://github.com/creativecommons/cc-cert-map/blob/master/images/commons/digital-analog.jpg "Digital vs Analog image, crayons on a tablet device")
+![Digital and Analog](https://github.com/creativecommons/cc-cert-core/blob/master/images/commons/digital-analog.jpg "Digital vs Analog image, crayons on a tablet device")
 
 *[Digital Versus Analog](https://www.flickr.com/photos/derekbruff/6134574629) flickr photo by [Derek Bruff](https://www.flickr.com/photos/derekbruff/) is licensed under [CC-BY-NC](https://creativecommons.org/licenses/by-nc/2.0/)*
 

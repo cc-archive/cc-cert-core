@@ -6,7 +6,7 @@ How does copyright differ from intellectual property (IP) rights of trademark, p
 
 When you buy a Coca-Cola, you expect it to taste like every other Coca-Cola you have bought in the past. Have you ever stopped to wonder why that’s true?
 
-![Coca Cola (1944 x 1296)](https://github.com/creativecommons/cc-cert-map/blob/master/images/copyright/coca-cola.jpg "Coca Cola (1944 x 1296)")
+![Coca Cola (1944 x 1296)](https://github.com/creativecommons/cc-cert-core/blob/master/images/copyright/coca-cola.jpg "Coca Cola (1944 x 1296)")
 
 *[Coca Cola (1944 x 1296)](https://www.flickr.com/photos/astanita/5102794371/) by [Asta Adamonyte](https://www.flickr.com/photos/astanita/) licensed under [CC BY](https://creativecommons.org/licenses/by/2.0/)*
 

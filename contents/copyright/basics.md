@@ -2,7 +2,7 @@
 
 Is copyright a bit fuzzy to you? Get some clarity by understanding it's history and purpose.
 
-![Fuzzy Copyright](https://github.com/creativecommons/cc-cert-map/blob/master/images/copyright/copyright-fuzzy.jpg "Fuzzy Copyright")
+![Fuzzy Copyright](https://github.com/creativecommons/cc-cert-core/blob/master/images/copyright/copyright-fuzzy.jpg "Fuzzy Copyright")
 
 *[Fuzzy Copyright](https://www.flickr.com/photos/pugno_muliebriter/1384247192/) by [Nancy Sims](https://www.flickr.com/photos/pugno_muliebriter/) licensed under [CC BY-NC](https://creativecommons.org/licenses/by-nc/2.0/)*
 
@@ -12,7 +12,7 @@ Generally speaking, people are willing to invest time and effort in projects tha
 
 The law makes it a crime for someone to sneak into the garden overnight and steal away the harvest the gardener has toiled for all summer long. Likewise, copyright laws make it a crime for someone to copy and sell an author’s book without their permission, denying them the income they labored to receive. Considered in this context, how do copyright laws promote the creation of things like books, movies, and songs?
 
-![herbs & spices that burn my tongue...](https://github.com/creativecommons/cc-cert-map/blob/master/images/copyright/spices.jpg "herbs & spices that burn my tongue...")
+![herbs & spices that burn my tongue...](https://github.com/creativecommons/cc-cert-core/blob/master/images/copyright/spices.jpg "herbs & spices that burn my tongue...")
 
 *[herbs & spices that burn my tongue...](https://www.flickr.com/photos/erikpoehler/5467004374/) by [Erik Pöhler](https://www.flickr.com/photos/erikpoehler/) licensed under [CC BY](https://creativecommons.org/licenses/by/2.0/)*
 

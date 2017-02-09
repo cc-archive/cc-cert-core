@@ -2,7 +2,7 @@
 
 Copyright laws are defined by countries yet we operate in a world where media is global in reach. Complexity ensues.
 
-![Hidden Behind Globe](https://github.com/creativecommons/cc-cert-map/blob/master/images/copyright/vvgvlh1d10u-slava-bowman.jpg)
+![Hidden Behind Globe](https://github.com/creativecommons/cc-cert-core/blob/master/images/copyright/vvgvlh1d10u-slava-bowman.jpg)
 
 *[Photo](https://unsplash.com/photos/VVgVlH1D10U) by [Slava Bowman](https://unsplash.com/@slavab) licensed  [CC0](https://creativecommons.org/publicdomain/zero/1.0/)*
 
@@ -45,7 +45,7 @@ https://www.youtube.com/watch?v=0fdUDecJ6jc
 
 While copyright law was originally tailored to local laws and customs, over the years there has been harmonisation of copyright provisions--meaning that most copyright law is quite similar in most of the world. This has taken place through the ratification and implementation of international copyright treaties and agreements. Read up on these agreements, such as the [World Intellectual Property Organisation’s (WIPO)](www.wipo.int) [Berne Convention](https://en.wikipedia.org/wiki/Berne_Convention), and the [World Trade Organisation’s](https://www.wto.org/) [TRIPS Agreement](https://en.wikipedia.org/wiki/TRIPS_Agreement). Explore the role of [WIPO](www.wipo.int) in international copyright policymaking, including a recently-ratified treaty on [access to copyright works for the visually impaired](http://www.wipo.int/pressroom/en/briefs/limitations.html). 
 
-![The signatories of the Berne Convention for the Protection of Literary and Artistic Works](https://github.com/creativecommons/cc-cert-map/blob/master/images/copyright/berne-convention.png "The signatories of the Berne Convention for the Protection of Literary and Artistic Works")
+![The signatories of the Berne Convention for the Protection of Literary and Artistic Works](https://github.com/creativecommons/cc-cert-core/blob/master/images/copyright/berne-convention.png "The signatories of the Berne Convention for the Protection of Literary and Artistic Works")
 
 *[The signatories of the Berne Convention for the Protection of Literary and Artistic Works](https://commons.wikimedia.org/wiki/File:Berne_Convention.png) as of 2012 licensed  [CC BY-SA](https://creativecommons.org/licenses/by-sa/3.0/)*
 
@@ -57,7 +57,7 @@ Copyright formalities are legal requirements that an author needs to undertake i
 
 From country to country, the duration of copyright is also quite similar. Review the Wikipedia pages on [copyright term](https://en.wikipedia.org/wiki/Copyright_term), and view the page that lists the the duration of copyright based on country. 
 
-![World Copyright Terms](https://github.com/creativecommons/cc-cert-map/blob/master/images/copyright/world-copyright-terms.png "World Copyright Terms")
+![World Copyright Terms](https://github.com/creativecommons/cc-cert-core/blob/master/images/copyright/world-copyright-terms.png "World Copyright Terms")
 
 *[World Copyright Terms](https://commons.wikimedia.org/wiki/File:World_copyright_terms.svg) by Balfour Smith licensed  [CC BY](https://creativecommons.org/licenses/by/3.0/)*
 

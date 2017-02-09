@@ -8,7 +8,7 @@ Works in the public domain are collective cultural inheritance. Before the compl
 
 Today, when a creative work’s copyright protection ends, the work enters the public domain, free for all to use, without permission, indefinitely.  Works in the public domain are not protected by intellectual property law including copyright, trademark or patent. The public owns this work, the work cannot be owned by an individual.  Length of copyright terms vary from country to country.  The US is life plus 70 years, Canada is 50 years following a creator’s death, length of copyright terms by country can be found here. 
 
-![Melies color Voyage dans la lune](https://github.com/creativecommons/cc-cert-map/blob/master/images/copyright/voyage-dans-la-lune.jpg "Melies color Voyage dans la lune")
+![Melies color Voyage dans la lune](https://github.com/creativecommons/cc-cert-core/blob/master/images/copyright/voyage-dans-la-lune.jpg "Melies color Voyage dans la lune")
 
 *[Melies color Voyage dans la lune]https://commons.wikimedia.org/wiki/File:Melies_color_Voyage_dans_la_lune.jpg) by [Georges Méliès](https://en.wikipedia.org/wiki/Georges_M%C3%A9li%C3%A8s) in the Public Domain)*
 
@@ -29,7 +29,7 @@ A strong public domain is the basis for a creative society. New uses can be buil
   
 Works in the public domain have resulted in many interesting and creative works.  The [Digital Public Library Association](https://dp.la/) runs [an annual gif competition](https://dp.la/info/gif-it-up/) using images in the public domain.  
 
-![Dissension](https://github.com/creativecommons/cc-cert-map/blob/master/images/copyright/dissension.gif "Dissension 2015 GIF IT UP Winner")
+![Dissension](https://github.com/creativecommons/cc-cert-core/blob/master/images/copyright/dissension.gif "Dissension 2015 GIF IT UP Winner")
 
 *[Dissension](http://gifitup2015.tumblr.com/post/131439542373/gif-it-up-2015-entry-dissension-from-tobias) by Tobias Rothe is licensed [CC BY](https://creativecommons.org/licenses/by/3.0/)*
 
@@ -68,8 +68,8 @@ Detailed overview of the concept of public domain can be found  at the [Stanford
 
 ### Tools for the public domain
 
-![Public Domain CC0](https://github.com/creativecommons/cc-cert-map/blob/master/images/copyright/cc-zero.png "Public Domain CC0")
-![Public Domain](https://github.com/creativecommons/cc-cert-map/blob/master/images/copyright/publicdomain.png "Public Domain")
+![Public Domain CC0](https://github.com/creativecommons/cc-cert-core/blob/master/images/copyright/cc-zero.png "Public Domain CC0")
+![Public Domain](https://github.com/creativecommons/cc-cert-core/blob/master/images/copyright/publicdomain.png "Public Domain")
 
 *Creative Commons public domain legal tool buttons, via https://creativecommons.org/about/downloads/*
 
@@ -81,7 +81,7 @@ Creative Commons has a tool that allows for easy dedication to the public domain
 With millions of creative works whose copyright has expired—and thousands more added each week with tools like the CC0 Public Domain Dedication, the size of the public domain is huge! As of 2015, there were over 35 million works marked as in the public domain using the Creative Commons tools. 
 
 
-![CC Works in the Public Domain](https://github.com/creativecommons/cc-cert-map/blob/master/images/copyright/public-domain-2015.jpg "CC Works in the Public Domain")
+![CC Works in the Public Domain](https://github.com/creativecommons/cc-cert-core/blob/master/images/copyright/public-domain-2015.jpg "CC Works in the Public Domain")
 
 *image from [2015 State of the Commons](https://stateof.creativecommons.org/2015/) report by Creative Commons is licensed [CC BY](https://creativecommons.org/licenses/by/4.0/)*
 

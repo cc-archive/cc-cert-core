@@ -2,7 +2,7 @@
 
 How do you convince the people who you work with to openly share their work when their response is “Why would I give away what I made for free?”
 
-![DNA Origami by Alex Bateman @alexbateman1 @sangerinstitute @emblebi #DNAOrigami](https://github.com/creativecommons/cc-cert-map/blob/master/images/sociocultural/dna-origami-lg.jpg "DNA Origami by Alex Bateman @alexbateman1 @sangerinstitute @emblebi #DNAOrigami")
+![DNA Origami by Alex Bateman @alexbateman1 @sangerinstitute @emblebi #DNAOrigami](https://github.com/creativecommons/cc-cert-core/blob/master/images/sociocultural/dna-origami-lg.jpg "DNA Origami by Alex Bateman @alexbateman1 @sangerinstitute @emblebi #DNAOrigami")
 
 [DNA Origami by Alex Bateman @alexbateman1 @sangerinstitute @emblebi #DNAOrigami](https://flickr.com/photos/dullhunk/4422952742 "DNA Origami by Alex Bateman @alexbateman1 @sangerinstitute @emblebi #DNAOrigami") by [dullhunk](https://flickr.com/people/dullhunk) is licensed under [CC BY](https://creativecommons.org/licenses/by/2.0/)
 
@@ -33,7 +33,7 @@ Then take into account the information you do have access to freely is actually 
 
 ### On Openness
 
-![Cover image from The Power of Open](https://github.com/creativecommons/cc-cert-map/blob/master/images/sociocultural/power-open.jpg "Cover image from The Power of Open")
+![Cover image from The Power of Open](https://github.com/creativecommons/cc-cert-core/blob/master/images/sociocultural/power-open.jpg "Cover image from The Power of Open")
 
 [Cover image from The Power of Open PDF](http://thepowerofopen.org/ "The Power of Open") by [Creative Commons](https://creativecommons.org) is licensed under [CC BY](http://creativecommons.org/licenses/by/3.0/)
 

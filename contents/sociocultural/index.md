@@ -4,7 +4,7 @@ While Creative Commons provides licenses written in legal language, the practice
 
 The Sociocultural module has four units of learning that can help you understand the social and cultural issues of openness so you can advocate for it in your own work.
 
-![Johan Zoffany - Tribuna of the Uffizi](https://github.com/creativecommons/cc-cert-map/blob/master/images/sociocultural/tribuna-uffizi.jpg "Johan Zoffany - Tribuna of the Uffizi")
+![Johan Zoffany - Tribuna of the Uffizi](https://github.com/creativecommons/cc-cert-core/blob/master/images/sociocultural/tribuna-uffizi.jpg "Johan Zoffany - Tribuna of the Uffizi")
 
 *[Johan Zoffany - Tribuna of the Uffizi](https://en.wikipedia.org/wiki/File:Johan_Zoffany_-_Tribuna_of_the_Uffizi_-_Google_Art_Project.jpg) by Johan Zoffany is in the public domain using [CC PDM](https://creativecommons.org/publicdomain/mark/1.0/deed.en)*
 

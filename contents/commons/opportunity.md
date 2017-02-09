@@ -6,7 +6,7 @@ Imagine a world that anticipates the commercialization of all creative works - a
 
 After joining the [Berne Convention](https://en.wikipedia.org/wiki/Berne_Convention) most countries in the world now automatically apply copyright - the legal protections necessary to effectively commercialize a creative work - to each and every  work the moment it is created. All creations are copyrighted, regardless of how personal or public they are. This is not a hypothetical future you have to imagine, it’s the actual state of affairs in the world today. 
 
-![Copyright Iain](https://github.com/creativecommons/cc-cert-map/blob/master/images/commons/copyright-iain.jpg "Copyright Iain")
+![Copyright Iain](https://github.com/creativecommons/cc-cert-core/blob/master/images/commons/copyright-iain.jpg "Copyright Iain")
 
 *[Copyright Iain](https://www.flickr.com/photos/iain/4804390638/) by [Iain Farrell](https://www.flickr.com/photos/iain/) licensed under [CC BY-ND](https://creativecommons.org/licenses/by-nd/2.0/)*
 
@@ -36,7 +36,7 @@ Traditional approaches to copyright reserve all the rights associated with a wor
 
 Creative Commons licenses exist along a continuum from the public domain (no rights reserved) to traditional copyright (all rights reserved) as illustrated below.
 
-![Creative commons license spectrum](https://github.com/creativecommons/cc-cert-map/blob/master/images/commons/cc-license-spectrum.png "Creative commons license spectrum")
+![Creative commons license spectrum](https://github.com/creativecommons/cc-cert-core/blob/master/images/commons/cc-license-spectrum.png "Creative commons license spectrum")
 
 *[Creative commons license spectrum](https://commons.wikimedia.org/wiki/File:Creative_commons_license_spectrum.svg) by [Creative Commons](https://creativecommons.org/) licensed under [CC BY](https://creativecommons.org/licenses/by/4.0/deed.en)*
 

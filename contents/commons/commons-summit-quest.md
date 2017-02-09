@@ -12,7 +12,7 @@ As a review this summit question will draw upon your knowledge of these units:
 
 ## The Summit Quest
 
-![Top Of Mountain In Snowdon](https://github.com/creativecommons/cc-cert-map/blob/master/images/commons/top-of-mountain.jpg "Top Of Mountain In Snowdon")
+![Top Of Mountain In Snowdon](https://github.com/creativecommons/cc-cert-core/blob/master/images/commons/top-of-mountain.jpg "Top Of Mountain In Snowdon")
 
 *[Top Of Mountain In Snowdon](http://www.publicdomainpictures.net/view-image.php?image=187253) by [George Hodan](http://www.publicdomainpictures.net/browse-author.php?a=8245) is licensed under [CC0](http://creativecommons.org/publicdomain/zero/1.0/)*
 

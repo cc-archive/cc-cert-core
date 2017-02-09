@@ -5,7 +5,7 @@ The commons has long played a historical role in making cultural and natural res
 Creative Commons is part of that long tradition complementing the historical local and natural resource based commons with a contemporary global digital commons. Understanding the commons and how it works is essential to successfully using Creative Commons.
 
 
-![The Commons](https://github.com/creativecommons/cc-cert-map/blob/master/images/commons/gs-poster.jpg "CC Poster")
+![The Commons](https://github.com/creativecommons/cc-cert-core/blob/master/images/commons/gs-poster.jpg "CC Poster")
 
 *[CC Line](http://www.loftwork.com/downloads/sinjirou/archive/311821) Creative Commons Global Summit poster by Shinjirou licensed under [CC BY](https://creativecommons.org/licenses/by/2.1/jp/)*
 

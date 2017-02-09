@@ -12,7 +12,7 @@ Only then do you hear a news update on the television saying something about Goo
 
 Fortunately, this court ruling has **not** happened. 
 
-![Parody Is Not Infringement](https://github.com/creativecommons/cc-cert-map/blob/master/images/copyright/parody-not-infringement.jpg "Parody Is Not Infringement")
+![Parody Is Not Infringement](https://github.com/creativecommons/cc-cert-core/blob/master/images/copyright/parody-not-infringement.jpg "Parody Is Not Infringement")
 
 *[Parody Is Not Infringement](https://flickr.com/photos/joegratz/25627356) by [Joe Gratz](https://flickr.com/photos/joegratz) licensed under [CC BY-NC](https://creativecommons.org/licenses/by-nc/2.0/)*
 
@@ -50,7 +50,7 @@ Read [Wikipedia’s introduction to this concept](https://wikipedia.org/wiki/Lim
 
 Pay particular attention to the ["four factors" that go into making a fair use determination](http://fairuse.stanford.edu/overview/fair-use/four-factors/). 
 
-![Four Factors for Fair Use](https://github.com/creativecommons/cc-cert-map/blob/master/images/copyright/fair-use-4-factors.jpg "Four Factors for Fair Use")
+![Four Factors for Fair Use](https://github.com/creativecommons/cc-cert-core/blob/master/images/copyright/fair-use-4-factors.jpg "Four Factors for Fair Use")
 
 *from [Fair Use Fundamentals](http://www.arl.org/storage/documents/arl-fuw-infographic-r4.pdf) by [Association of Research Librarians](http://www.arl.org) licensed under [CC BY](https://creativecommons.org/licenses/by/4.0/) This infographic is specific to the United States. Exceptions and limitations differ around the world.*
 
@@ -72,7 +72,7 @@ The are many websites, digital resources, and initiatives that aim to explain an
 
 Different countries have different limitations and exceptions. There are [global discussions around how to harmonize them](http://oerpolicy.eu/oer-and-copyright-mapping-exempted-uses-in-europe/).
 
-![Educational Resources and Copyright Exceptions and Limitations](https://github.com/creativecommons/cc-cert-map/blob/master/images/copyright/depends-on-location.png
+![Educational Resources and Copyright Exceptions and Limitations](https://github.com/creativecommons/cc-cert-core/blob/master/images/copyright/depends-on-location.png
  "Educational Resources and Copyright Exceptions and Limitations")
 
 *image from [Our new report on Educational Resources and Copyright Exceptions and Limitations](http://oerpolicy.eu/our-new-report-on-educational-resources-end-copyright-exceptions-and-limitations/) by [Open Educational Resources Policy in Europe](http://oerpolicy.eu/) licensed under [CC BY](https://creativecommons.org/licenses/by/3.0/)*
