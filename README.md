@@ -15,7 +15,7 @@ This repository is primarily for the design team to use as the master content. W
 
 * [Enter the CORE Certification](index.md)
 * [CORE Certification Overview](overview/index.md)
-* [CORE Certification Detils](details/index.md)
+* [CORE Certification Details](details/index.md)
 * [CORE Content](contents/index.md)
 
 
