@@ -78,6 +78,3 @@ Complete one of the following activities in the Quest Bank. Now share it in pers
 * [Create an Infographic that makes a case for open being better](https://quests.creativecommons.org/assignments/open-better-infographic)
 * [Make a 3 minute elevator pitch for openness in video or audio format](https://quests.creativecommons.org/assignments/elevator-pitch-open-better)
 
-
-
-* 
