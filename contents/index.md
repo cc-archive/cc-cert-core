@@ -19,7 +19,7 @@ The Creative Commons CORE certificate is made up of a six modules broken down in
    * How Licenses Work with Copyright
    * Overview of the Licenses
    * Examples of Licenses in Action
-   * Remixing Differently Licensed Works
+   * [Remixing Differently Licensed Works](licenses/remixed.md)
    * Legal Precedence of Creative Commons Licenses
    
 4. [Sociocultural](sociocultural/index.md)
