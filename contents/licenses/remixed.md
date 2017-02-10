@@ -68,37 +68,28 @@ Also, try the [OER Remix Game](http://indstudy1.org/univ/355460515034/Flash/Less
 
 ![OER Remix Game screenshot](https://github.com/creativecommons/cc-cert-core/blob/master/images/licenses/oer-remix-game.jpg "OER Remix Game screenshot")
 
-*OER Remix Game](http://indstudy1.org/univ/355460515034/Flash/Lesson2/PracticeVersion.html) by [Creative Commons](https://creativecommons.org/) is licensed under [CC BNC-SA](http://creativecommons.org/licenses/by-nc-sa/3.0/us/)*
-
-
-
-### Eu meatball shank labore ham hock ipsum ad in jowl officia ham ea. 
-
-Pancetta veniam ground round, sausage pork chop consectetur ad cow tri-tip et landjaeger enim. Aute turducken pork, ipsum esse anim tail rump brisket elit. Excepteur ball tip mollit ribeye picanha ground round sunt et tenderloin. Ipsum lorem nostrud, exercitation nulla shoulder kevin shankle.
-
-
-
-### Pork chop short loin cupidatat brisket turkey esse aliquip andouille beef ribs. 
-
-Tongue strip steak ea porchetta rump pork loin. Turducken ea nisi, duis ad pork pig sunt ipsum consequat andouille turkey. Reprehenderit veniam in strip steak burgdoggen beef. Consectetur short loin jowl velit incididunt nulla. Pancetta sunt ex, quis bacon tempor anim chuck sed bresaola ham esse pastrami consectetur elit. Boudin enim shankle, ipsum excepteur in laborum.
-
-https://vimeo.com/151666798
-
-*["Creative Commons: Remix"](https://vimeo.com/151666798) by [Creative Commons](https://vimeo.com/creativecommonsvideos) is licensed under [CC BY-SA](https://creativecommons.org/licenses/by-sa/3.0)*
-
-Also [Creative Commons Australia](http://creativecommons.org.au) provides a more comprehensive list of of the [Benefits of Sharing Using Creative Commons](http://creativecommons.org.au/content/Benefits_of_CC_08.pdf).
-
+*[OER Remix Game](http://indstudy1.org/univ/355460515034/Flash/Lesson2/PracticeVersion.html) by [BYU Independent Study](https://is.byu.edu/) is licensed under [CC BNC-SA](http://creativecommons.org/licenses/by-nc-sa/3.0/us/)*
 
 ## Application of Learning
 
+CC Certificates aim to support participants in direct application of learning for personal and / or professional use. This requires authoring learning activities that engage learners in using and applying the basic knowledge they acquire from content we provide. 
+
+For each learning unit three learning activities need to be authored. 1. Creation of a personal learner toolkit. 2 Active participation in CC’s community, and 3. Applied practice. Here are guidelines for each:
+
+
 ### Learner Toolkit
-Select two or three resources directly relevant to your personal or work-related CC needs from the Acquiring Essential Knowledge content and add them to your personal Creative Commons toolkit. Adding them to your toolkit makes them easy to find and use when the need arises, and makes it easy for you to pass on resources you consider important to others. Annotate the resources with notes explaining why they are relevant and important for you and your work.
+Select at least 2 or 3 resources directly relevant to your personal or work related CC needs from the Acquiring Basic Knowledge content and add them to your personal Creative Commons toolkit. Adding them to your toolkit makes it easy to find and use them when the need arises and makes it easy for you to pass on resources you consider important to others. Add comments explaining relevancy and importance. 
 
 ### Community - Collaboration, Appreciation, Recognition, Gratitude
-Post a story about how you benefited from someone who chose to share their creative works under a Creative Commons license in the CC Certificate social forum. Alternatively, share a description of (and link to, if applicable) a community that engages in commons-based peer production that others might not be aware of.
+In the CC Certificate social forum post your answers to the personal reflection questions posed at the start of this learning unit. Identify and comment on posts from at least two others who have similar needs or ideas.
+
+Sign up for at least two means of connecting with Creative Commons such as following on Twitter, joining mailing lists of interest, subscribing to the Creative Commons newsletter, and joining the Creative Commons Slack channel.
+
+From the Creative Commons news blog, Facebook page, Twitter stream and web pages identify at least two other people or organizations who are using Creative Commons in a similar way you or your organization do or want to do. Note these people or organizations in your Toolkit along with questions you might have for them in concerning advice or lessons learne
 
 ### Applied Practice
 
+
 Complete the following activity in the Quest Bank:
 
-* 
+* [Wikipedia, NC and Citation Test](https://quests.creativecommons.org/assignments/wikipedia-nc-and-citation)
