@@ -11,9 +11,9 @@ Libraries are adding makerspaces, learning labs, 3D printing, and digital media 
 
 The CC Librarian Certificate aims to ensure all librarians have the 21st century knowledge and skills they need to successfully perform Creative Commons related library functions and help patrons extend access to knowledge.  
 
-![House of Knowledge](https://github.com/creativecommons/cc-cert-lib/blob/master/images/HouseofKnowledge.jpg)
+![Foundations](https://github.com/creativecommons/cc-cert-lib/blob/master/images/Foundations.jpg)
 
-*[House of Knowledge](https://flic.kr/p/gwNP1s) by [Adrian Sifre](https://www.flickr.com/photos/adriensifre/) is licensed [CC BY-NC-ND](https://creativecommons.org/licenses/by-nc-nd/2.0/)*
+*[Foundations](https://flic.kr/p/8Tbb1W) by [Gregory Bodnar](https://www.flickr.com/photos/sapheron/) is licensed [CC BY-SA](https://creativecommons.org/licenses/by-sa/2.0/)*
 
 ## Who is this for?
 
