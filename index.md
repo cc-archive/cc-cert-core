@@ -1,8 +1,8 @@
 # Creative Commons Core Certification
 
-![Magnetic toroidal core (sample)](https://github.com/creativecommons/cc-cert-core/blob/master/images/toroidal-core.jpg "agnetic toroidal core (sample)")
+![The core](https://github.com/creativecommons/cc-cert-core/blob/master/images/CORE.jpg "Core")
 
-*[Magnetic toroidal core (sample)](https://commons.wikimedia.org/wiki/File:Magnetic_toroidal_core_(sample).jpg) by Stan Zurek licensed under [CC BY-SA](https://creativecommons.org/licenses/by-sa/3.0/)*
+*[The core](https://flic.kr/p/sa1x) by [Hendrick Kueck](https://www.flickr.com/photos/hendrik/) licensed under [CC BY](https://creativecommons.org/licenses/by/2.0/)*
 
 * [Overview of the Creative Commons Core Certification](overview/index.md) 
 * [Details of the Creative Commons Core Certification](details/index.md) 
