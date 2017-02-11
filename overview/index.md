@@ -1,3 +1,7 @@
+![Magnetized Object](https://github.com/creativecommons/cc-cert-core/blob/master/images/MagnetizedObject.jpg "Magnetized Object")
+
+*[Most Magnetized Object in the Universe](https://flic.kr/p/6wYoR8) by [NASA Goddard Space Flight Center](https://www.flickr.com/photos/gsfc/) licensed under [CC BY](https://creativecommons.org/licenses/by/2.0/)*
+
 CORE defines the range of knowledge and skills associated with being expert in all aspects of Creative Commons. 
 
 CORE is for those who need deep and comprehensive knowledge of Creative Commons including individuals and organizations wanting to become authorized to deliver Creative Commons certificate training. 
