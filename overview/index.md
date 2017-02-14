@@ -21,7 +21,7 @@ The Creative Commons CORE Certificate is for those who need deep and comprehensi
 
 ## What skills and knowledge will you gain?
 
-On completion of the certificate librarians will be able to:
+On completion of the certificate you will be able to:
 
 * explain relationship of Creative Commons to the public domain, copyright, and the commons
 * state the benefits of Creative Commons licenses
