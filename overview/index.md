@@ -19,7 +19,7 @@ The Creative Commons CORE certificate covers the full breadth and depth of learn
 
 The Creative Commons CORE Certificate is for those who need deep and comprehensive knowledge of Creative Commons including individuals and organizations wanting to become authorized to deliver Creative Commons certificate training.
 
-## What you skills and knowledge will you gain?
+## What skills and knowledge will you gain?
 
 On completion of the certificate librarians will be able to:
 
