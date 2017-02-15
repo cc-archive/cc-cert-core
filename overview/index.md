@@ -31,15 +31,6 @@ On completion of the certificate you will be able to:
 * provide Creative Commons related training and support services
 * plan and advocate for institutional systematic changes towards openness 
 
-CORE is comprised of modules and learning units.
-
-## Modules
-![CORE Modules](https://creativecommons.github.io/cc-cert-core/images/core6.jpg "CORE Modules")
-
-## Units of learning
-![CORE UnitsofLearning](https://creativecommons.github.io/cc-cert-core/images/learning-units-6.png "CORE Module Learning Units")
-
-
 ## How does it work? What will I learn?
 
 Learn more [about the delivery format and process](../details/index.md) or [explore the modules and units](../contents/index.md)
