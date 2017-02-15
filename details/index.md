@@ -1,13 +1,12 @@
-# Certification Delivery Format
+# CORE Certificate Delivery Format
 
 Delivery of formal certificate training is done by Creative Commons and its authorized partners. Authorized partners include institutions and organizations who have gone through a “train-the-trainer” process with Creative Commons. 
 
-Creative Commons uses a “flipped classroom” approach for formal delivery of the CC Librarian Certificate. The flipped classroom is a pedagogical model in which the typical lecture and homework elements of a course are reversed. 
+Creative Commons uses a “flipped classroom” approach for formal delivery of the CC CORE Certificate. The flipped classroom is a pedagogical model in which the typical lecture and homework elements of a course are reversed. 
 
+Once online learning has been completed Creative Commons facilitators come on site to deliver a 2 day in person facilitated component of delivery. Using the flipped classroom approach the live in person component of delivery focuses on helping participants generate evidence of learning completion, demonstrate mastery by completing a final assignment for each module, and learn from each other through shared learning activities and discussion. Based on demand, a live facilitated online version of this component of delivery may also be scheduled.)
 
-Once online learning has been completed Creative Commons facilitators come on site to deliver a 2 day in person facilitated component of delivery. Using the flipped classroom approach the live in person component of delivery focuses on helping participants generate evidence of learning completion, demonstrate mastery by completing a final assignment for each module, and learn from each other through shared learning activities and discussion. (Note: On site facilitated delivery will be scheduled and done for organizations with numerous librarians seeking certification based on request. Creative Commons will also schedule open enrollment facilitated deliveries at various times throughout the year, usually in association with significant  events and convenings. Based on demand, a live facilitated online version of this component of delivery may also be scheduled.)
-
-Upon successful completion of the online learning and the 2 day facilitated learning activities participating librarians will be invited to assemble and submit evidence of learning to claim their certification. Evidence will be comprised of a personal toolkit, community engagement, applied practice portfolio, and culminating module mastery learning outputs. Submitted evidence will be reviewed by CC certificate facilitators to ensure successful completion of learning outcomes. On confirmation of completion a Creative Commons certificate will be awarded and recipients listed publicly on Creative Commons web site.
+Upon successful completion of the online learning and the 2 day facilitated learning activities participating participants will be invited to assemble and submit evidence of learning to claim their certification. Evidence will be comprised of a personal toolkit, community engagement, applied practice portfolio, and culminating module mastery learning outputs. Submitted evidence will be reviewed by CC certificate facilitators to ensure successful completion of learning outcomes. On confirmation of completion a Creative Commons certificate will be awarded and recipients listed publicly on Creative Commons web site.
 
 
 ## Duration
