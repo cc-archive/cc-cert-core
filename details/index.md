@@ -46,6 +46,10 @@ Note: Fee payment is necessary for cost recovery reasons. We acknowledge some pa
 
 ## Other forms of participation and delivery options
 
+![Read On](https://github.com/creativecommons/cc-cert-lib/blob/master/images/ReadOn.jpg)
+
+*[Read On!](https://flic.kr/p/8CBVH2) by [Enokson](https://www.flickr.com/photos/vblibrary/) is licensed [CC BY](https://creativecommons.org/licenses/by/2.0/)*
+
 CC certificates have been authored in a way that is independent of delivery mode. Participation can be done in a 100% online mode of delivery, a mixed/hybrid (partly online / partly face-to-face), or a completely in person. 
 
 Certificate participation can be informal (no certificate sought) or formal (certificate sought), scheduled or unscheduled.
