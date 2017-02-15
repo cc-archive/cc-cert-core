@@ -1,6 +1,6 @@
 # CORE Certificate Delivery Format
 
-![light](https://github.com/creativecommons/cc-cert-edu/blob/master/images/light.jpg)
+![light](https://github.com/creativecommons/cc-cert-core/blob/master/images/light.jpg)
 
 *[Photo](https://unsplash.com/collections/400956/play?photo=uf4oyaimWwg) by [Jamison McAndie](https://unsplash.com/@jamomca) has been placed in the Public Domain using [CC0](https://creativecommons.org/publicdomain/zero/1.0/)*
 
