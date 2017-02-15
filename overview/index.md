@@ -9,7 +9,7 @@ Since its launch in 2001 use of Creative Commons around the world has grown dram
 
 With this growth comes a corresponding need to ensure creators, staff, and organizations have a thorough working knowledge of what Creative Commons is and how it works.  
 
-The Creative Commons CORE certificate covers the full breadth and depth of learning associated with acquiring comprehensive knowledge about all aspects of Creative Commons. CORE covers a composite set of knowledge and skills associated with responsibilities across multiple roles including practitioners, advocates, and legal counsel. In addition to being its own standalone certificate, CORE is foundational curricula from which specialized Creative Commons certificates are built. Creative Commons certificates for librarians, educators, and government start with a subset of CORE as foundation, on top of which specialized learning is added specific to how each profession uses Creative Commons.
+The Creative Commons CORE certificate covers the full breadth and depth of learning associated with acquiring comprehensive knowledge about all aspects of Creative Commons. CORE covers a composite set of knowledge and skills associated with responsibilities across multiple roles including practitioners, administrators, and leaders. In addition to being its own standalone certificate, CORE is foundational curricula from which specialized Creative Commons certificates are built. Creative Commons certificates for librarians, educators, and government start with a subset of CORE as foundation, on top of which specialized learning is added specific to how each profession uses Creative Commons.
 
 ![Foundations](https://github.com/creativecommons/cc-cert-core/blob/master/images/Foundations.jpg)
 
