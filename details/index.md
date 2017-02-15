@@ -1,5 +1,9 @@
 # CORE Certificate Delivery Format
 
+![light](https://github.com/creativecommons/cc-cert-edu/blob/master/images/light.jpg)
+
+*[Photo](https://unsplash.com/collections/400956/play?photo=uf4oyaimWwg) by [Jamison McAndie](https://unsplash.com/@jamomca) has been placed in the Public Domain using [CC0](https://creativecommons.org/publicdomain/zero/1.0/)*
+
 Delivery of formal certificate training is done by Creative Commons and its authorized partners. Authorized partners include institutions and organizations who have gone through a “train-the-trainer” process with Creative Commons. 
 
 Creative Commons uses a “flipped classroom” approach for formal delivery of the CC CORE Certificate. The flipped classroom is a pedagogical model in which the typical lecture and homework elements of a course are reversed. The CC CORE Certificate starts with everyone having access to the online CORE curricula and learning activities. Participants complete the learning modules and activities in advance of a live facilitated portion of the delivery.
