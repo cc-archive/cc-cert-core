@@ -9,7 +9,7 @@ There has been a huge dramatic growth in use of Creative Commons around the worl
 
 With this growth comes a corresponding need to ensure creators, staff, and organizations have a thorough working knowledge of what Creative Commons is and how it works.  
 
-The Creative Commons CORE certificate covers the full breadth and depth of learning associated with acquiring comprehensive knowledge about all aspects of Creative Commons. In addition to being its own standalone certificate, CORE is foundational curricula from which specialized Creative Commons certificates are built. Creative Commons certificates for librarians, educators, and government start with a subset of CORE as foundation, on top of which specialized learning is added specific to how each profession uses Creative Commons.
+The Creative Commons CORE certificate covers the full breadth and depth of learning associated with acquiring comprehensive knowledge about all aspects of Creative Commons. CORE covers a composite set of knowledge and skills associated with responsibilities across multiple roles including practitioners, advocates, and legal counsel. In addition to being its own standalone certificate, CORE is foundational curricula from which specialized Creative Commons certificates are built. Creative Commons certificates for librarians, educators, and government start with a subset of CORE as foundation, on top of which specialized learning is added specific to how each profession uses Creative Commons.
 
 ![Foundations](https://github.com/creativecommons/cc-cert-core/blob/master/images/Foundations.jpg)
 
@@ -27,6 +27,7 @@ On completion of the certificate you will be able to:
 * state the benefits of Creative Commons licenses
 * effectively use Creative Commons to make resources open and shareable
 * find and use Creative Commons licensed resources
+* advise on strategic use of Creative Commons
 * provide Creative Commons related training and support services
 * plan and advocate for institutional systematic changes towards openness 
 
