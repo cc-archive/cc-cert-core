@@ -14,7 +14,7 @@ You probably participate in one or more commons yourself - and by the time you f
 
 !["English Pasture and Wikipedia logo](https://github.com/creativecommons/cc-cert-core/blob/master/images/commons/pasture-wikipedia.jpg "English Pasture and Wikipedia logo")
 
-*Composite of [Fictional Medieval Manor](https://commons.wikimedia.org/wiki/File:Plan_mediaeval_manor.jpg) dervivative Wikimedia Commons image by William R. Shepherd (1923) licensed under [Public Domain](https://en.wikipedia.org/wiki/public_domain) and   [Wikipedia Logo 1.0](https://commons.wikimedia.org/wiki/File:Wikipedia_Logo_1.0.png)  Wikimedia Commons image by [Nohat](https://meta.wikimedia.org/wiki/User:Nohat)  licensed under [CC-BY-SA](https://creativecommons.org/licenses/by-sa/3.0/)*
+*Composite of "[Fictional Medieval Manor](https://commons.wikimedia.org/wiki/File:Plan_mediaeval_manor.jpg)" dervivative Wikimedia Commons image by William R. Shepherd (1923) is shared into the [Public Domain](https://en.wikipedia.org/wiki/public_domain) and  "[Wikipedia Logo 1.0](https://commons.wikimedia.org/wiki/File:Wikipedia_Logo_1.0.png)"  Wikimedia Commons image by [Nohat](https://meta.wikimedia.org/wiki/User:Nohat)  licensed under [CC-BY-SA](https://creativecommons.org/licenses/by-sa/3.0/)*
 
 
 
@@ -35,13 +35,13 @@ For a brief introduction to the idea of a commons, watch these short videos
 
 https://www.youtube.com/watch?v=41Dr8Te1OwE
 
-[Define the Commons](https://www.youtube.com/watch?v=41Dr8Te1OwE) by [Remix The Commons](https://www.youtube.com/channel/UChz4DMZKHYnAPVEjXduVFIA) licensed under [CC-BY](https://creativecommons.org/licenses/by/3.0/)
+"[Define the Commons](https://www.youtube.com/watch?v=41Dr8Te1OwE)" by [Remix The Commons](https://www.youtube.com/channel/UChz4DMZKHYnAPVEjXduVFIA) licensed under [CC-BY](https://creativecommons.org/licenses/by/3.0/)
 
 ----
 
 https://www.youtube.com/watch?v=7bQiBcd7mBc
 
-[How Does the Commons Work?](https://www.youtube.com/watch?v=7bQiBcd7mBc) by [The Next System Project](https://www.youtube.com/channel/UC0Gw_ZWRG2eY_hPkAL7eNZg) licensed under [CC-BY](https://creativecommons.org/licenses/by/3.0/)
+"[How Does the Commons Work?](https://www.youtube.com/watch?v=7bQiBcd7mBc)" by [The Next System Project](https://www.youtube.com/channel/UC0Gw_ZWRG2eY_hPkAL7eNZg) licensed under [CC-BY](https://creativecommons.org/licenses/by/3.0/)
 
 ----
 
@@ -55,7 +55,7 @@ Many historic commons ended in enclosure, and enclosure continues to be the sing
 
 ![Enclosure Boundary](https://github.com/creativecommons/cc-cert-core/blob/master/images/commons/hedge-enclosure-boundary.jpg "photo of Enclosure Boundary")
 
-*[NZ0314 : Decaying hedge](http://www.geograph.org.uk/photo/1715089) Geograph photo by [Andy Waddington](http://www.geograph.org.uk/profile/34816) licensed under [CC-BY-SA](http://creativecommons.org/licenses/by-sa/2.0/) / cropped from original*
+*"[NZ0314 : Decaying hedge](http://www.geograph.org.uk/photo/1715089)" by [Andy Waddington](http://www.geograph.org.uk/profile/34816) licensed under [CC-BY-SA](http://creativecommons.org/licenses/by-sa/2.0/) / cropped from original*
 
 Many historic commons ended in enclosure, and enclosure continues to be the single largest threat to modern commons. For a review of historical enclosures of physical commons and modern attempts to enclose the commons of ideas and culture, read [The Second Enclosure Movement](http://boyle.yupnet.org/chapter-3-second-enclosure-movement/). 
 
@@ -79,6 +79,16 @@ Identify a commons you participate in - think about the nature of the resources 
 Complete the following activity in the Quest Bank:
 
 * [Give an Example of One of Ostrom’s Eight Principles](https://quests.creativecommons.org/assignments/ostroms-eight-principles)
+
+----
+
+![Creative Commons Attribution-ShareAlike license](https://github.com/creativecommons/cc-cert-core/blob/master/images/cc-by-sa-88x31.png "CC BY-SA")
+Licensed under a [Creative Commons Attribution-ShareAlike license (CC BY-SA) version 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+
+Except where otherwise noted, this content is published under a [CC BY-SA license](https://creativecommons.org/licenses/by-sa/4.0/), which means that you can copy, redistribute, remix, transform and build upon the content for any purpose even commercially as long as you give appropriate credit, provide a link to the license, and indicate if changes were made. If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
+License details: https://creativecommons.org/licenses/by-sa/4.0/
+
+*Creative Commons Certificates have been created with the kind support of [Creative Commons](http://creativecommons.org/), the [Institute of Museum and Library Services](https://www.imls.gov/), and the [Bill & Melinda Gates Foundation](http://www.gatesfoundation.org/).*
 
 
 

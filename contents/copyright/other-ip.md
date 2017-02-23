@@ -8,7 +8,7 @@ When you buy a Coca-Cola, you expect it to taste like every other Coca-Cola you 
 
 ![Coca Cola (1944 x 1296)](https://github.com/creativecommons/cc-cert-core/blob/master/images/copyright/coca-cola.jpg "Coca Cola (1944 x 1296)")
 
-*[Coca Cola (1944 x 1296)](https://www.flickr.com/photos/astanita/5102794371/) by [Asta Adamonyte](https://www.flickr.com/photos/astanita/) licensed under [CC BY](https://creativecommons.org/licenses/by/2.0/)*
+*"[Coca Cola (1944 x 1296)](https://www.flickr.com/photos/astanita/5102794371/)" by [Asta Adamonyte](https://www.flickr.com/photos/astanita/) licensed under [CC BY](https://creativecommons.org/licenses/by/2.0/)*
 
 Given Coca-Cola’s worldwide popularity, why don’t other companies make soft drinks that they also call Coca-Cola and package in red and silver cans? That would let them sell their drinks very inexpensively, because they wouldn’t need to invest in marketing - the original Coca-Cola would do be doing that for them. While this sounds like a great opportunity for an unscrupulous business, it sounds like a disaster for a thirsty person who will be unpleasantly surprised when her Coke tastes different than she expected. 
  
@@ -61,3 +61,15 @@ It’s relatively straightforward to identify examples of creations that would e
 Complete the following activity in the Quest Bank:
 
 * [Poetic Forms of IP](https://quests.creativecommons.org/assignments/poetic-ip)
+
+----
+
+![Creative Commons Attribution-ShareAlike license](https://github.com/creativecommons/cc-cert-core/blob/master/images/cc-by-sa-88x31.png "CC BY-SA")
+Licensed under a [Creative Commons Attribution-ShareAlike license (CC BY-SA) version 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+
+Except where otherwise noted, this content is published under a [CC BY-SA license](https://creativecommons.org/licenses/by-sa/4.0/), which means that you can copy, redistribute, remix, transform and build upon the content for any purpose even commercially as long as you give appropriate credit, provide a link to the license, and indicate if changes were made. If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
+License details: https://creativecommons.org/licenses/by-sa/4.0/
+
+*Creative Commons Certificates have been created with the kind support of [Creative Commons](http://creativecommons.org/), the [Institute of Museum and Library Services](https://www.imls.gov/), and the [Bill & Melinda Gates Foundation](http://www.gatesfoundation.org/).*
+
+

@@ -14,7 +14,7 @@ Fortunately, this court ruling has **not** happened.
 
 ![Parody Is Not Infringement](https://github.com/creativecommons/cc-cert-core/blob/master/images/copyright/parody-not-infringement.jpg "Parody Is Not Infringement")
 
-*[Parody Is Not Infringement](https://flickr.com/photos/joegratz/25627356) by [Joe Gratz](https://flickr.com/photos/joegratz) licensed under [CC BY-NC](https://creativecommons.org/licenses/by-nc/2.0/)*
+*"[Parody Is Not Infringement](https://flickr.com/photos/joegratz/25627356)" by [Joe Gratz](https://flickr.com/photos/joegratz) licensed under [CC BY-NC](https://creativecommons.org/licenses/by-nc/2.0/)*
 
 As you will find in the [Public Domain unit](public-domain.md), before copyright, all creative works were in the public domain. When legislators created copyright protections, they realized that allowing copyright to restrict all uses of creative works would be highly problematic. 
 
@@ -52,7 +52,7 @@ Pay particular attention to the ["four factors" that go into making a fair use d
 
 ![Four Factors for Fair Use](https://github.com/creativecommons/cc-cert-core/blob/master/images/copyright/fair-use-4-factors.jpg "Four Factors for Fair Use")
 
-*from [Fair Use Fundamentals](http://www.arl.org/storage/documents/arl-fuw-infographic-r4.pdf) by [Association of Research Librarians](http://www.arl.org) licensed under [CC BY](https://creativecommons.org/licenses/by/4.0/) This infographic is specific to the United States. Exceptions and limitations differ around the world.*
+*from "[Fair Use Fundamentals](http://www.arl.org/storage/documents/arl-fuw-infographic-r4.pdf)" by [Association of Research Librarians](http://www.arl.org) licensed under [CC BY](https://creativecommons.org/licenses/by/4.0/) This infographic is specific to the United States. Exceptions and limitations differ around the world.*
 
 Read over the [Teaching Copyright FAQ on fair use](https://www.teachingcopyright.org/handout/fair-use-faq.html). Check out the [Fair Use Fundamentals infographic from the Association of Research Librarians](http://www.arl.org/storage/documents/arl-fuw-infographic-r4.pdf). 
 
@@ -60,7 +60,7 @@ Watch the creative educational fair use mashup ["A Fair(y) Use Tale"](http://cyb
 
 https://www.youtube.com/watch?v=CJn_jC4FNDo
 
-*["A Fair(y) Use Tale"](http://cyberlaw.stanford.edu/blog/2007/03/fairy-use-tale) by [Eric Faden](http://www.facstaff.bucknell.edu/efaden/) is licensed under [CC BY-NC-SA](http://creativecommons.org/licenses/by-nc-sa/3.0/)*
+*"[A Fair(y) Use Tale](http://cyberlaw.stanford.edu/blog/2007/03/fairy-use-tale)" by [Eric Faden](http://www.facstaff.bucknell.edu/efaden/) is licensed under [CC BY-NC-SA](http://creativecommons.org/licenses/by-nc-sa/3.0/)*
 
 ### Differences between Limitations and Exceptions vs Open Licensing
 
@@ -75,7 +75,7 @@ Different countries have different limitations and exceptions. There are [global
 ![Educational Resources and Copyright Exceptions and Limitations](https://github.com/creativecommons/cc-cert-core/blob/master/images/copyright/depends-on-location.png
  "Educational Resources and Copyright Exceptions and Limitations")
 
-*image from [Our new report on Educational Resources and Copyright Exceptions and Limitations](http://oerpolicy.eu/our-new-report-on-educational-resources-end-copyright-exceptions-and-limitations/) by [Open Educational Resources Policy in Europe](http://oerpolicy.eu/) licensed under [CC BY](https://creativecommons.org/licenses/by/3.0/)*
+*image from "[Our new report on Educational Resources and Copyright Exceptions and Limitations](http://oerpolicy.eu/our-new-report-on-educational-resources-end-copyright-exceptions-and-limitations/)" by [Open Educational Resources Policy in Europe](http://oerpolicy.eu/) licensed under [CC BY](https://creativecommons.org/licenses/by/3.0/)*
 
 ## Application of Learning
 
@@ -91,3 +91,15 @@ Complete one or more of the following activities in the Quest Bank:
 
 * [Copyright Decision Tree](https://quests.creativecommons.org/assignments/copyright-decision-tree)
 * [Fair Use Free For All](https://quests.creativecommons.org/assignments/fair-use-free-for-all)
+
+----
+
+![Creative Commons Attribution-ShareAlike license](https://github.com/creativecommons/cc-cert-core/blob/master/images/cc-by-sa-88x31.png "CC BY-SA")
+Licensed under a [Creative Commons Attribution-ShareAlike license (CC BY-SA) version 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+
+Except where otherwise noted, this content is published under a [CC BY-SA license](https://creativecommons.org/licenses/by-sa/4.0/), which means that you can copy, redistribute, remix, transform and build upon the content for any purpose even commercially as long as you give appropriate credit, provide a link to the license, and indicate if changes were made. If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
+License details: https://creativecommons.org/licenses/by-sa/4.0/
+
+*Creative Commons Certificates have been created with the kind support of [Creative Commons](http://creativecommons.org/), the [Institute of Museum and Library Services](https://www.imls.gov/), and the [Bill & Melinda Gates Foundation](http://www.gatesfoundation.org/).*
+
+

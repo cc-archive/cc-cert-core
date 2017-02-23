@@ -14,7 +14,7 @@ As a review this summit question will draw upon your knowledge of these units:
 
 ![Top Of Mountain In Snowdon](https://github.com/creativecommons/cc-cert-core/blob/master/images/commons/top-of-mountain.jpg "Top Of Mountain In Snowdon")
 
-*[Top Of Mountain In Snowdon](http://www.publicdomainpictures.net/view-image.php?image=187253) by [George Hodan](http://www.publicdomainpictures.net/browse-author.php?a=8245) is licensed under [CC0](http://creativecommons.org/publicdomain/zero/1.0/)*
+*"[Top Of Mountain In Snowdon](http://www.publicdomainpictures.net/view-image.php?image=187253)" place into the Public Domain by [George Hodan](http://www.publicdomainpictures.net/browse-author.php?a=8245) using  [CC0](http://creativecommons.org/publicdomain/zero/1.0/)*
 
 As you conclude the commons portion of the CC Certification, bring together everything you’ve learned about commons as you answer the following questions:
 
@@ -27,3 +27,12 @@ As you conclude the commons portion of the CC Certification, bring together ever
 
 [Go to the Quest Bank](https://quests.creativecommons.org/assignments/commons-module-summit-quest) to submit your response to this Summit Quest.
 
+----
+
+![Creative Commons Attribution-ShareAlike license](https://github.com/creativecommons/cc-cert-core/blob/master/images/cc-by-sa-88x31.png "CC BY-SA")
+Licensed under a [Creative Commons Attribution-ShareAlike license (CC BY-SA) version 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+
+Except where otherwise noted, this content is published under a [CC BY-SA license](https://creativecommons.org/licenses/by-sa/4.0/), which means that you can copy, redistribute, remix, transform and build upon the content for any purpose even commercially as long as you give appropriate credit, provide a link to the license, and indicate if changes were made. If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
+License details: https://creativecommons.org/licenses/by-sa/4.0/
+
+*Creative Commons Certificates have been created with the kind support of [Creative Commons](http://creativecommons.org/), the [Institute of Museum and Library Services](https://www.imls.gov/), and the [Bill  Melinda Gates Foundation](http://www.gatesfoundation.org/).*

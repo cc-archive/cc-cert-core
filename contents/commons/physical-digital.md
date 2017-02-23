@@ -12,7 +12,7 @@ The internet is exactly this kind of machine. All you have to do is upload a bit
 
 ![Copy Notices](https://github.com/creativecommons/cc-cert-core/blob/master/images/commons/commons-copy.jpg "image of copy notices")
 
-*[Copy Notices](https://www.flickr.com/photos/unkle_cheese/828876896/) by [Jimmy Jim Jim Shabadoo](https://www.flickr.com/photos/unkle_cheese/) licensed under [CC-BY-SA](http://creativecommons.org/licenses/by-sa/2.0/)*
+*"[Copy Notices](https://www.flickr.com/photos/unkle_cheese/828876896/)" by [Jimmy Jim Jim Shabadoo](https://www.flickr.com/photos/unkle_cheese/) licensed under [CC-BY-SA](http://creativecommons.org/licenses/by-sa/2.0/)*
 
 
 ## Learning Outcomes
@@ -33,14 +33,14 @@ Why do we have the internet - perhaps the perfect machine for the free and open 
 
 ![Digital and Analog](https://github.com/creativecommons/cc-cert-core/blob/master/images/commons/digital-analog.jpg "Digital vs Analog image, crayons on a tablet device")
 
-*[Digital Versus Analog](https://www.flickr.com/photos/derekbruff/6134574629) flickr photo by [Derek Bruff](https://www.flickr.com/photos/derekbruff/) is licensed under [CC-BY-NC](https://creativecommons.org/licenses/by-nc/2.0/)*
+*"[Digital Versus Analog](https://www.flickr.com/photos/derekbruff/6134574629)"  by [Derek Bruff](https://www.flickr.com/photos/derekbruff/) is licensed under [CC-BY-NC](https://creativecommons.org/licenses/by-nc/2.0/)*
 
 
 There are some significant differences between physical and digital commons. The brief video [Why Open Education Matters](https://www.youtube.com/watch?v=gJWbVt2Nc-I) provides a high-level overview of these differences in the context of education.
 
 https://www.youtube.com/watch?v=gJWbVt2Nc-I
 
-[Why Open Education Matters](https://www.youtube.com/watch?v=gJWbVt2Nc-I) by [David Blake](https://www.youtube.com/channel/UCFiCJVgJzpWxoYnGjs752EQ) licensed under [CC-BY](https://creativecommons.org/licenses/by/3.0/)
+"[Why Open Education Matters](https://www.youtube.com/watch?v=gJWbVt2Nc-I)" by [David Blake](https://www.youtube.com/channel/UCFiCJVgJzpWxoYnGjs752EQ) licensed under [CC-BY](https://creativecommons.org/licenses/by/3.0/)
 
 For more detail on the differences between physical and digital commons, we have to look more closely at the nature of the resources around which these commons are organized. To do this with clarity, we’ll need to employ some concepts from introductory economics. First, we need to understand Rivalry and Excludability. 
 
@@ -75,3 +75,15 @@ Complete one or more following activities in the Quest Bank:
 
 * [From Physical to Digital](https://quests.creativecommons.org/assignments/from-physical-to-digital)  Analyze resources that were once only available physically but are now available in both physical and digital formats.
 * [Aspects of Physical and Digital Sharing](https://quests.creativecommons.org/assignments/aspects-of-digital-vs-digital-sharing/) What are the differences and related issues of sharing a physical object (like a book, recorded music, or a piece of art) versus digital versions. 
+
+----
+
+![Creative Commons Attribution-ShareAlike license](https://github.com/creativecommons/cc-cert-core/blob/master/images/cc-by-sa-88x31.png "CC BY-SA")
+Licensed under a [Creative Commons Attribution-ShareAlike license (CC BY-SA) version 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+
+Except where otherwise noted, this content is published under a [CC BY-SA license](https://creativecommons.org/licenses/by-sa/4.0/), which means that you can copy, redistribute, remix, transform and build upon the content for any purpose even commercially as long as you give appropriate credit, provide a link to the license, and indicate if changes were made. If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
+License details: https://creativecommons.org/licenses/by-sa/4.0/
+
+*Creative Commons Certificates have been created with the kind support of [Creative Commons](http://creativecommons.org/), the [Institute of Museum and Library Services](https://www.imls.gov/), and the [Bill & Melinda Gates Foundation](http://www.gatesfoundation.org/).*
+
+

@@ -8,14 +8,14 @@ What if we combined that means with the power of the Internet and digital techno
 
 ![Creative Commons](https://github.com/creativecommons/cc-cert-core/blob/master/images/commons/cc-logo.png "Creative Commons")
 
-*[Creative Commons Logo](https://creativecommons.org/about/downloads/) image by [Creative Commons](https://creativecommons.org)  is licensed under [CC-BY](https://creativecommons.org/licenses/by/4.0/)*
+*"[Creative Commons Logo](https://creativecommons.org/about/downloads/)" by [Creative Commons](https://creativecommons.org) is licensed under [CC-BY](https://creativecommons.org/licenses/by/4.0/)*
 
 
 [Creative Commons](https://creativecommons.org) does this very thing. Created as a US non-profit in 2002 and now with a global network, Creative Commons provides legal and technical infrastructure that helps creators legally share their knowledge and creativity to build a more equitable, accessible, and innovative world. Creative Commons licenses and digital tools, combined with the Internet, are driving new forms of development, growth and productivity.
 
 ![Creative Commons Staff Berlin 17-Nov-2016](https://github.com/creativecommons/cc-cert-core/blob/master/images/commons/cc-staff.jpg "Creative Commons Staff Berlin 17-Nov-2016")
 
-*[Creative Commons Staff Berlin 17-Nov-2016](https://drive.google.com/file/d/0B8IKbRz-8utNR253c2syOUFEV0E/view?usp=sharing) photo is licensed under [CC-BY](https://creativecommons.org/licenses/by/4.0/)*
+*"[Creative Commons Staff Berlin 17-Nov-2016](https://drive.google.com/file/d/0B8IKbRz-8utNR253c2syOUFEV0E/view?usp=sharing)" photo is licensed under [CC-BY](https://creativecommons.org/licenses/by/4.0/)*
 
 ## Learning Outcomes
 * Explain why Creative Commons is necessary as an organization, mission & vision, goals
@@ -53,7 +53,7 @@ Browse through the [Creative Commons news blog](https://creativecommons.org/blog
 
 ![2015 State of the Commons screen shot from Creative Commons web site](https://github.com/creativecommons/cc-cert-core/blob/master/images/commons/cc-state-commons.jpg "2015 State of the Commons screen shot")
 
-*[2015 State of the Commons screen shot](https://stateof.creativecommons.org/2015) screenshot is licensed under [CC-BY](https://creativecommons.org/licenses/by/4.0/)*
+*"[2015 State of the Commons screen shot](https://stateof.creativecommons.org/2015)" screenshot is licensed under [CC-BY](https://creativecommons.org/licenses/by/4.0/)*
 
 
 ### Creative Commons Tools and Resources

@@ -8,7 +8,7 @@ Open content and open educational resources do not have one, universal copyright
 
 ![Combination of chilies](https://github.com/creativecommons/cc-cert-core/blob/master/images/licenses/chilies.jpg "Combination of chilies")
 
-*[Combination of chilies](https://flickr.com/photos/cityfoodsters/16344463891 "Combination of chilies") by [City Foodsters](https://flickr.com/people/cityfoodsters) is licensed under [CC BY](https://creativecommons.org/licenses/by/2.0/)*
+*"[Combination of chilies](https://flickr.com/photos/cityfoodsters/16344463891 "Combination of chilies")" by [City Foodsters](https://flickr.com/people/cityfoodsters) is licensed under [CC BY](https://creativecommons.org/licenses/by/2.0/)*
 
 Exclusive conditions allow people to choose perfect licenses, adjusted to their needs but it also influence a lot, how this work will be used.
 
@@ -39,13 +39,13 @@ Watch this video (starting 4:24):
  
 https://youtu.be/Hkz4q2yuQU8?t=4m24s 
 
-*["Creating OER and Combining Licenses - Full"](https://youtu.be/Hkz4q2yuQU8) by [The Orange Grove Repository](https://www.youtube.com/channel/UCA3MOOzRYoFFW2HbOqODxTQ) is licensed under [CC BY](https://creativecommons.org/licenses/by/3.0/legalcode)*
+*"[Creating OER and Combining Licenses - Full](https://youtu.be/Hkz4q2yuQU8)" by [The Orange Grove Repository](https://www.youtube.com/channel/UCA3MOOzRYoFFW2HbOqODxTQ) is licensed under [CC BY](https://creativecommons.org/licenses/by/3.0/legalcode)*
 
 Get to know the [chart with licenses compatibility](https://wiki.creativecommons.org/wiki/Wiki/cc_license_compatibility).
 
 ![License Compatibility Chart](https://github.com/creativecommons/cc-cert-core/blob/master/images/licenses/license-compatibility-chart.jpg "License Compatibility Chart")
 
-*[License Compatibility Chart](https://wiki.creativecommons.org/wiki/Wiki/cc_license_compatibility) by [Creative Commons](https://creativecommons.org/) is licensed under [CC BY](https://creativecommons.org/licenses/by/4.0/)*
+*"[License Compatibility Chart](https://wiki.creativecommons.org/wiki/Wiki/cc_license_compatibility)" by [Creative Commons](https://creativecommons.org/) is licensed under [CC BY](https://creativecommons.org/licenses/by/4.0/)*
 
 Choose two works you wish to combine or remix. Find the license of the first work on the first row and the license on the first column. You can combine the works if there is a check mark in the cell where the row and column intersect. Use at least the most restrictive licensing of the two (use the license most to right or down state) for the new work. 
 
@@ -68,7 +68,7 @@ Also, try the [OER Remix Game](http://indstudy1.org/univ/355460515034/Flash/Less
 
 ![OER Remix Game screenshot](https://github.com/creativecommons/cc-cert-core/blob/master/images/licenses/oer-remix-game.jpg "OER Remix Game screenshot")
 
-*[OER Remix Game](http://indstudy1.org/univ/355460515034/Flash/Lesson2/PracticeVersion.html) by [BYU Independent Study](https://is.byu.edu/) is licensed under [CC BNC-SA](http://creativecommons.org/licenses/by-nc-sa/3.0/us/)*
+*"[OER Remix Game](http://indstudy1.org/univ/355460515034/Flash/Lesson2/PracticeVersion.html)" by [BYU Independent Study](https://is.byu.edu/) is licensed under [CC BNC-SA](http://creativecommons.org/licenses/by-nc-sa/3.0/us/)*
 
 ## Application of Learning
 
@@ -93,3 +93,15 @@ From the Creative Commons news blog, Facebook page, Twitter stream and web pages
 Complete the following activity in the Quest Bank:
 
 * [Wikipedia, NC and Citation Test](https://quests.creativecommons.org/assignments/wikipedia-nc-and-citation)
+
+----
+
+![Creative Commons Attribution-ShareAlike license](https://github.com/creativecommons/cc-cert-core/blob/master/images/cc-by-sa-88x31.png "CC BY-SA")
+Licensed under a [Creative Commons Attribution-ShareAlike license (CC BY-SA) version 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+
+Except where otherwise noted, this content is published under a [CC BY-SA license](https://creativecommons.org/licenses/by-sa/4.0/), which means that you can copy, redistribute, remix, transform and build upon the content for any purpose even commercially as long as you give appropriate credit, provide a link to the license, and indicate if changes were made. If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
+License details: https://creativecommons.org/licenses/by-sa/4.0/
+
+*Creative Commons Certificates have been created with the kind support of [Creative Commons](http://creativecommons.org/), the [Institute of Museum and Library Services](https://www.imls.gov/), and the [Bill & Melinda Gates Foundation](http://www.gatesfoundation.org/).*
+
+

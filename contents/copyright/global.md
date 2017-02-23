@@ -4,7 +4,7 @@ Copyright laws are defined by countries yet we operate in a world where media is
 
 ![Hidden Behind Globe](https://github.com/creativecommons/cc-cert-core/blob/master/images/copyright/vvgvlh1d10u-slava-bowman.jpg)
 
-*[Photo](https://unsplash.com/photos/VVgVlH1D10U) by [Slava Bowman](https://unsplash.com/@slavab) licensed  [CC0](https://creativecommons.org/publicdomain/zero/1.0/)*
+*[Photo](https://unsplash.com/photos/VVgVlH1D10U) placed into the public domain by [Slava Bowman](https://unsplash.com/@slavab) using [CC0](https://creativecommons.org/publicdomain/zero/1.0/)*
 
 
 ## The Big Question
@@ -15,7 +15,7 @@ Because Universal Pictures published the movie with an invalid copyright notice,
 
 https://www.youtube.com/watch?v=FtxtQGQwUS0
 
-*["Charade (1963) - Full American Movie VO"](https://www.youtube.com/watch?v=FtxtQGQwUS0eos) is in the public domain*
+*"[Charade (1963) - Full American Movie VO"](https://www.youtube.com/watch?v=FtxtQGQwUS0eos)" is shared into the public domain*
 
 Should a technicality like this prevent a major motion picture from being protected by copyright? What if the technicalities for providing the copyright notice differed from country to country? Wouldn’t things be easier for everyone involved if the process for getting copyright protection was simplified and harmonized across countries? Are there valid reasons for copyright to differ from country to country?
 
@@ -40,14 +40,14 @@ Watch the YouTube video from #FixCopyright to understand the basic history of co
 
 https://www.youtube.com/watch?v=0fdUDecJ6jc
 
-*["#FixCopyright: Copy (aka copyright) Tells the Story of His Life"](https://www.youtube.com/watch?v=0fdUDecJ6jc) by [FixCopyright](https://www.youtube.com/channel/UCqIxBYe-_0ubkx3LlyyNPhA) is licensed under [CC BY](https://creativecommons.org/licenses/by/3.0)*
+*"[#FixCopyright: Copy (aka copyright) Tells the Story of His Life](https://www.youtube.com/watch?v=0fdUDecJ6jc)" by [FixCopyright](https://www.youtube.com/channel/UCqIxBYe-_0ubkx3LlyyNPhA) is licensed under [CC BY](https://creativecommons.org/licenses/by/3.0)*
 
 
 While copyright law was originally tailored to local laws and customs, over the years there has been harmonisation of copyright provisions--meaning that most copyright law is quite similar in most of the world. This has taken place through the ratification and implementation of international copyright treaties and agreements. Read up on these agreements, such as the [World Intellectual Property Organisation’s (WIPO)](www.wipo.int) [Berne Convention](https://en.wikipedia.org/wiki/Berne_Convention), and the [World Trade Organisation’s](https://www.wto.org/) [TRIPS Agreement](https://en.wikipedia.org/wiki/TRIPS_Agreement). Explore the role of [WIPO](www.wipo.int) in international copyright policymaking, including a recently-ratified treaty on [access to copyright works for the visually impaired](http://www.wipo.int/pressroom/en/briefs/limitations.html). 
 
 ![The signatories of the Berne Convention for the Protection of Literary and Artistic Works](https://github.com/creativecommons/cc-cert-core/blob/master/images/copyright/berne-convention.png "The signatories of the Berne Convention for the Protection of Literary and Artistic Works")
 
-*[The signatories of the Berne Convention for the Protection of Literary and Artistic Works](https://commons.wikimedia.org/wiki/File:Berne_Convention.png) as of 2012 licensed  [CC BY-SA](https://creativecommons.org/licenses/by-sa/3.0/)*
+*"[The signatories of the Berne Convention for the Protection of Literary and Artistic Works](https://commons.wikimedia.org/wiki/File:Berne_Convention.png) as of 2012" licensed  [CC BY-SA](https://creativecommons.org/licenses/by-sa/3.0/)*
 
 ### Features common to copyright today
 
@@ -59,7 +59,7 @@ From country to country, the duration of copyright is also quite similar. Review
 
 ![World Copyright Terms](https://github.com/creativecommons/cc-cert-core/blob/master/images/copyright/world-copyright-terms.png "World Copyright Terms")
 
-*[World Copyright Terms](https://commons.wikimedia.org/wiki/File:World_copyright_terms.svg) by Balfour Smith licensed  [CC BY](https://creativecommons.org/licenses/by/3.0/)*
+*"[World Copyright Terms](https://commons.wikimedia.org/wiki/File:World_copyright_terms.svg)" by Balfour Smith licensed  [CC BY](https://creativecommons.org/licenses/by/3.0/)*
 
 There are types of rights that operate in parallel with copyright. One of these is moral rights, which are generally understood as a right of attribution above and beyond intellectual property rights. [Read about moral rights](https://en.wikipedia.org/wiki/Moral_rights) to understand how it is different than copyright.  
 
@@ -76,3 +76,15 @@ In the CC Certificate social forum post your answers to the personal reflection 
 Complete the following activity in the Quest Bank:
 
 * [Where is your country on global copyright map?](https://quests.creativecommons.org/assignments/where-is-your-country)
+
+----
+
+![Creative Commons Attribution-ShareAlike license](https://github.com/creativecommons/cc-cert-core/blob/master/images/cc-by-sa-88x31.png "CC BY-SA")
+Licensed under a [Creative Commons Attribution-ShareAlike license (CC BY-SA) version 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+
+Except where otherwise noted, this content is published under a [CC BY-SA license](https://creativecommons.org/licenses/by-sa/4.0/), which means that you can copy, redistribute, remix, transform and build upon the content for any purpose even commercially as long as you give appropriate credit, provide a link to the license, and indicate if changes were made. If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
+License details: https://creativecommons.org/licenses/by-sa/4.0/
+
+*Creative Commons Certificates have been created with the kind support of [Creative Commons](http://creativecommons.org/), the [Institute of Museum and Library Services](https://www.imls.gov/), and the [Bill & Melinda Gates Foundation](http://www.gatesfoundation.org/).*
+
+

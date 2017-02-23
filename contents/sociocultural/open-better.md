@@ -4,7 +4,7 @@ How do you convince the people who you work with to openly share their work when
 
 ![DNA Origami by Alex Bateman @alexbateman1 @sangerinstitute @emblebi #DNAOrigami](https://github.com/creativecommons/cc-cert-core/blob/master/images/sociocultural/dna-origami-lg.jpg "DNA Origami by Alex Bateman @alexbateman1 @sangerinstitute @emblebi #DNAOrigami")
 
-[DNA Origami by Alex Bateman @alexbateman1 @sangerinstitute @emblebi #DNAOrigami](https://flickr.com/photos/dullhunk/4422952742 "DNA Origami by Alex Bateman @alexbateman1 @sangerinstitute @emblebi #DNAOrigami") by [dullhunk](https://flickr.com/people/dullhunk) is licensed under [CC BY](https://creativecommons.org/licenses/by/2.0/)
+*"[DNA Origami by Alex Bateman @alexbateman1 @sangerinstitute @emblebi #DNAOrigami](https://flickr.com/photos/dullhunk/4422952742 "DNA Origami by Alex Bateman @alexbateman1 @sangerinstitute @emblebi #DNAOrigami")" by [dullhunk](https://flickr.com/people/dullhunk) is licensed under [CC BY](https://creativecommons.org/licenses/by/2.0/)*
 
 
 ## The Big Question
@@ -35,7 +35,7 @@ Then take into account the information you do have access to freely is actually 
 
 ![Cover image from The Power of Open](https://github.com/creativecommons/cc-cert-core/blob/master/images/sociocultural/power-open.jpg "Cover image from The Power of Open")
 
-[Cover image from The Power of Open PDF](http://thepowerofopen.org/ "The Power of Open") by [Creative Commons](https://creativecommons.org) is licensed under [CC BY](http://creativecommons.org/licenses/by/3.0/)
+*"[Cover image from The Power of Open PDF](http://thepowerofopen.org/ "The Power of Open")" by [Creative Commons](https://creativecommons.org) is licensed under [CC BY](http://creativecommons.org/licenses/by/3.0/)*
 
 
 Published in 2011 by Creative Commons and available in 9 languages, [The Power of Open](http://thepowerofopen.org/) provides case studies of success in open practices by not only artists, but news providers, scientists, publishers, museums, and more. The [Open Knowledge Foundation](https://okfn.org/) advocates for openness and the societal gains of sharing knowledge.
@@ -77,4 +77,16 @@ Complete one of the following activities in the Quest Bank. Now share it in pers
 
 * [Create an Infographic that makes a case for open being better](https://quests.creativecommons.org/assignments/open-better-infographic)
 * [Make a 3 minute elevator pitch for openness in video or audio format](https://quests.creativecommons.org/assignments/elevator-pitch-open-better)
+
+----
+
+![Creative Commons Attribution-ShareAlike license](https://github.com/creativecommons/cc-cert-core/blob/master/images/cc-by-sa-88x31.png "CC BY-SA")
+Licensed under a [Creative Commons Attribution-ShareAlike license (CC BY-SA) version 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+
+Except where otherwise noted, this content is published under a [CC BY-SA license](https://creativecommons.org/licenses/by-sa/4.0/), which means that you can copy, redistribute, remix, transform and build upon the content for any purpose even commercially as long as you give appropriate credit, provide a link to the license, and indicate if changes were made. If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
+License details: https://creativecommons.org/licenses/by-sa/4.0/
+
+*Creative Commons Certificates have been created with the kind support of [Creative Commons](http://creativecommons.org/), the [Institute of Museum and Library Services](https://www.imls.gov/), and the [Bill & Melinda Gates Foundation](http://www.gatesfoundation.org/).*
+
+
 

@@ -10,7 +10,7 @@ Today, when a creative work’s copyright protection ends, the work enters the p
 
 ![Melies color Voyage dans la lune](https://github.com/creativecommons/cc-cert-core/blob/master/images/copyright/voyage-dans-la-lune.jpg "Melies color Voyage dans la lune")
 
-*[Melies color Voyage dans la lune]https://commons.wikimedia.org/wiki/File:Melies_color_Voyage_dans_la_lune.jpg) by [Georges Méliès](https://en.wikipedia.org/wiki/Georges_M%C3%A9li%C3%A8s) in the Public Domain)*
+*"[Melies color Voyage dans la lune]https://commons.wikimedia.org/wiki/File:Melies_color_Voyage_dans_la_lune.jpg)" by [Georges Méliès](https://en.wikipedia.org/wiki/Georges_M%C3%A9li%C3%A8s) is in the Public Domain)*
 
 A strong public domain is the basis for a creative society. New uses can be built and work can be expanded. There are 4 common ways a work arrives in the public domain  
 
@@ -31,11 +31,13 @@ Works in the public domain have resulted in many interesting and creative works.
 
 ![Dissension](https://github.com/creativecommons/cc-cert-core/blob/master/images/copyright/dissension.gif "Dissension 2015 GIF IT UP Winner")
 
-*[Dissension](http://gifitup2015.tumblr.com/post/131439542373/gif-it-up-2015-entry-dissension-from-tobias) by Tobias Rothe is licensed [CC BY](https://creativecommons.org/licenses/by/3.0/)*
+*"[Dissension](http://gifitup2015.tumblr.com/post/131439542373/gif-it-up-2015-entry-dissension-from-tobias)" by Tobias Rothe is licensed [CC BY](https://creativecommons.org/licenses/by/3.0/)*
 
 Following step costs and complex systems clearing music rights, comedian James Corden host of the Late Late Show began a segment where his famous guests perform songs in the public domain.  Here is actor Jamie Foxx American actor, singer, songwriter, and comedian performing **Twinkle Twinkle Little Star**.
 
-*[Public Domain Songs w/ Jamie Foxx](https://www.youtube.com/watch?v=bW0E_sncNic8) by [The Late Late Show with James Corden](https://www.youtube.com/channel/UCJ0uqCI0Vqr2Rrt1HseGirg)*
+https://www.youtube.com/watch?v=bW0E_sncNic8
+
+*:[Public Domain Songs w/ Jamie Foxx](https://www.youtube.com/watch?v=bW0E_sncNic8)" by [The Late Late Show with James Corden](https://www.youtube.com/channel/UCJ0uqCI0Vqr2Rrt1HseGirg)*
 
 Think about items you interact with in your everyday life and  public domains you experience in your everyday life. Identify an object in your life that is a piece of the public domain. 
 
@@ -123,3 +125,15 @@ In the CC Certificate social forum post your answers to the personal reflection 
 Complete the following activity in the Quest Bank:
 
 * [All Too True](https://quests.creativecommons.org/assignments/all-too-true) - make a case for keeping works in the public domain by writing a letter to your government representatives.
+
+----
+
+![Creative Commons Attribution-ShareAlike license](https://github.com/creativecommons/cc-cert-core/blob/master/images/cc-by-sa-88x31.png "CC BY-SA")
+Licensed under a [Creative Commons Attribution-ShareAlike license (CC BY-SA) version 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+
+Except where otherwise noted, this content is published under a [CC BY-SA license](https://creativecommons.org/licenses/by-sa/4.0/), which means that you can copy, redistribute, remix, transform and build upon the content for any purpose even commercially as long as you give appropriate credit, provide a link to the license, and indicate if changes were made. If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
+License details: https://creativecommons.org/licenses/by-sa/4.0/
+
+*Creative Commons Certificates have been created with the kind support of [Creative Commons](http://creativecommons.org/), the [Institute of Museum and Library Services](https://www.imls.gov/), and the [Bill & Melinda Gates Foundation](http://www.gatesfoundation.org/).*
+
+
