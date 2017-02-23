@@ -77,13 +77,6 @@ Reviewing this may give you an idea of the breath of Creative Commons licensed c
 * [SoundCloud](https://soundcloud.com/creativecommonsmusicfree), [Bandcamp](https://bandcamp.com/) and [Jamendo](https://www.jamendo.com/) offer platforms for independent musicians to publish and share original music under Creative Commons licenses. And [ccMixter](http://ccmixter.org/) is an ecosystem for musicians to share samples and create remixes all licensed under CC BY-NC.
 * While [https://youtube.com/](YouTube) provides options for sharing video content under CC-BY, [vimeo](https://vimeo.com/creativecommons) offers the full range of Creative Commons licensing options for its members who upload videos.. 
 
-https://vimeo.com/151666798
-
-*["Creative Commons: Remix"](https://vimeo.com/151666798) by [Creative Commons](https://vimeo.com/creativecommonsvideos) is licensed under [CC BY-SA](https://creativecommons.org/licenses/by-sa/3.0)*
-
-Also [Creative Commons Australia](http://creativecommons.org.au) provides a more comprehensive list of of the [Benefits of Sharing Using Creative Commons](http://creativecommons.org.au/content/Benefits_of_CC_08.pdf).
-
-
 ## Application of Learning
 
 ### Learner Toolkit
