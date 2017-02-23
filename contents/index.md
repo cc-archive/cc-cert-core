@@ -27,6 +27,7 @@ The Creative Commons CORE certificate is made up of a six modules broken down in
    * Shift to Openness
    * Promoting Openness
    * Community Development for Openness
+   * Building a Culture of Gratitude and Collaboration
    
 5. [Legal](legal/index.md)
    * Legal Aspects of Licensing and Attribution
