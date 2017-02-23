@@ -12,7 +12,7 @@ All Creative Commons licenses helps creators retain their copyright while permit
 
 1. How Licenses Work with Copyright
 2. Overview of the Licenses
-3. Examples of Licenses in Action
+3. [Examples of Licenses in Action](licenses/examples.md)
 4. [Remixing Differently Licensed Works](licenses/remixed.md)
 5. egal Precedence of Creative Commons Licenses
 
