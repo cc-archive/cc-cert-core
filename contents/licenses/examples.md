@@ -87,9 +87,10 @@ Post a story about how you benefited from someone who chose to share their creat
 
 ### Applied Practice
 
-Complete the following activity in the Quest Bank:
+Complete one of  following activities in the Quest Bank:
 
 * [Recommend a Creative Commons Use Case](https://quests.creativecommons.org/assignments/recommend-use-case)
+* [CC Personal Stories of Sharing](https://quests.creativecommons.org/assignments/cc-stories)
 
 ----
 
