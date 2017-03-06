@@ -38,7 +38,7 @@ Then take into account the information you do have access to freely is actually 
 *"[Cover image from The Power of Open PDF](http://thepowerofopen.org/ "The Power of Open")" by [Creative Commons](https://creativecommons.org) is licensed under [CC BY](http://creativecommons.org/licenses/by/3.0/)*
 
 
-Published in 2011 by Creative Commons and available in 9 languages, [The Power of Open](http://thepowerofopen.org/) provides case studies of success in open practices by not only artists, but news providers, scientists, publishers, museums, and more. The [Open Knowledge Foundation](https://okfn.org/) advocates for openness and the societal gains of sharing knowledge.
+Published in 2011 by Creative Commons and available in 9 languages, [The Power of Open](http://thepowerofopen.org/) provides case studies of success in open practices by not only artists, but also news providers, scientists, publishers, museums, and more. The [Open Knowledge Foundation](https://okfn.org/) advocates for openness and the societal gains of sharing knowledge.
 
 Don Tapscott’s [TED Talk Four Principles for the Open World](https://www.ted.com/talks/don_tapscott_four_principles_for_the_open_world_1) outlines how collaboration, transparency, sharing, and empowerment can make a world not only better for society, but also business. The Open Data Initiative offers [How to Make a Business Case for Open Data](https://theodi.org/guides/how-make-business-case-open-data). See also the [points outlined in Project Open](https://project-open-data.cio.gov/business-case/).
 
