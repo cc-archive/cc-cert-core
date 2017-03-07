@@ -18,7 +18,7 @@ The Commons module has four units of learning that provide a grounding in the co
 3. [The Commons Opportunity](opportunity.md) - How can society benefit from a thriving commons?
 4. [The Creative Commons Organization](creative-commons.md) - Understand Creative Commons role in supporting and stewarding the digital commons.
 
-On completion of these four units the [final summit quest](commons-summit-quest.md) combines learning from across all four units into one final assignment for the whole module.
+On completion of these four units the [final summit quest](summit-quest.md) combines learning from across all four units into one final assignment for the whole module.
 
 ----
 
