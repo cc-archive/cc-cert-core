@@ -2,34 +2,34 @@
 
 The Creative Commons CORE certificate is made up of a six modules broken down into learning units. These modules and learning units have been organized sequentially in a recommended learning path as follows:
 
-1. [Copyright](copyright/index.md)
+* [Copyright](copyright/index.md)
   * [Copyright Basics](copyright/basics.md)
   * [Copyright vs Other Intellectual Property](copyright/other-ip.md)
   * [Scope of Public Domain](copyright/public-domain.md)
   * [Exceptions and Limitations of Copyright](copyright/exceptions-limitations.md)
   * [Global Aspects of Copyright](copyright/global.md)
 
-2. [The Commons](commons/index.md)
+* [The Commons](commons/index.md)
    * [Significance of the Commons](commons/significance.md)
    * [Physical and Digital Commons](commons/physical-digital.md)
    * [The Commons Opportunity](commons/opportunity.md)
    * [The Creative Commons Organization](commons/creative-commons.md)
 
-3. [Creative Commons Licenses](licenses/index.md)
+* [Creative Commons Licenses](licenses/index.md)
    * How Licenses Work with Copyright
    * Overview of the Licenses
    * [Examples of Licenses in Action](licenses/examples.md)
    * [Remixing Differently Licensed Works](licenses/remixed.md)
    * Legal Precedence of Creative Commons Licenses
    
-4. [Sociocultural](sociocultural/index.md)
+* [Sociocultural](sociocultural/index.md)
    * [How the Open Model is Better](sociocultural/open-better.md)
    * Shift to Openness
    * Promoting Openness
    * Community Development for Openness
    * Building a Culture of Gratitude and Collaboration
    
-5. [Legal](legal/index.md)
+* [Legal](legal/index.md)
    * Legal Aspects of Licensing and Attribution
    * Language of License Clauses
    * Proper Legal Marking
@@ -39,7 +39,7 @@ The Creative Commons CORE certificate is made up of a six modules broken down in
    * Responding to Creative Commons License Violations
    * Formulating Open Policies
 
-6. [Using Creative Commons](using/index.md)
+* [Using Creative Commons](using/index.md)
    * Choosing a License
    * Finding CC Licensed Content
    * Legal vs Technical Openness
