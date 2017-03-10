@@ -13,10 +13,10 @@ Creative Commons is part of that long tradition complementing the historical loc
 The Commons module has four units of learning that provide a grounding in the commons and Creative Commons role in stewarding and supporting it.
 
 
-1. [Significance of the Commons](significance.md) - What is the history of the idea of a Commons and how is it manifested in the world today?
-2. [Physical and Digital Commons](physical-digital.md) - Explore the similarities and differences between physical and digital commons.
-3. [The Commons Opportunity](opportunity.md) - How can society benefit from a thriving commons?
-4. [The Creative Commons Organization](creative-commons.md) - Understand Creative Commons role in supporting and stewarding the digital commons.
+* [Significance of the Commons](significance.md) - What is the history of the idea of a Commons and how is it manifested in the world today?
+* [Physical and Digital Commons](physical-digital.md) - Explore the similarities and differences between physical and digital commons.
+* [The Commons Opportunity](opportunity.md) - How can society benefit from a thriving commons?
+* [The Creative Commons Organization](creative-commons.md) - Understand Creative Commons role in supporting and stewarding the digital commons.
 
 On completion of these four units the [final summit quest](summit-quest.md) combines learning from across all four units into one final assignment for the whole module.
 
