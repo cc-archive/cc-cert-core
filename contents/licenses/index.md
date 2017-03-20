@@ -10,13 +10,13 @@ The Creative Commons copyright licenses offer flexible options still within copy
 
 All Creative Commons licenses helps creators retain their copyright while permitting others to copy, distribute, and make some uses of their work. Every Creative Commons license also ensures licensors get the credit for their work they deserve. Creative Commons license works around the world and lasts as long as applicable copyright lasts.
 
-1. How Licenses Work with Copyright
-2. Overview of the Licenses
-3. [Examples of Licenses in Action](licenses/examples.md)
-4. [Remixing Differently Licensed Works](licenses/remixed.md)
-5. egal Precedence of Creative Commons Licenses
+* [How Licenses Work with Copyright](licenses/with-copyright.md) 
+* [Overview of the Licenses](licenses/overview.md)
+* [Examples of Licenses in Action](licenses/examples.md) While we can discuss the concepts and background rationale for Creative Commons license, perhaps the best way to appreciate them is by examining real stories of how it has been successfully applied.
+* [Remixing Differently Licensed Works](licenses/remixed.md) Understanding the differences between Creative Commons licenses is important, but how do you deal with situations where you create content from materials that have different licenses?
+* [Legal Precedence of Creative Commons Licenses](licenses/legal-precedence.md)
 
-On completion of these four units the [final summit quest](licenses-summit-quest.md) combines learning from across all four units into one final assignment for the whole module.
+On completion of these four units the [final summit quest](licenses/summit-quest.md) combines learning from across all four units into one final assignment for the whole module.
 
 ----
 

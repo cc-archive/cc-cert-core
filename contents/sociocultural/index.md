@@ -9,10 +9,10 @@ The Sociocultural module has four units of learning that can help you understand
 *"[Johan Zoffany - Tribuna of the Uffizi](https://en.wikipedia.org/wiki/File:Johan_Zoffany_-_Tribuna_of_the_Uffizi_-_Google_Art_Project.jpg)" by Johan Zoffany is placed into the public domain using [CC PDM](https://creativecommons.org/publicdomain/mark/1.0/deed.en)*
 
 
-1. [How the Open Model is Better](open-better.md)
-2. [Shifting to Open](shift-open.md)
-3. [Promoting Openness](promoting-open.md)
-4. [Community Development for Openness](community-development.md)
+* [How the Open Model is Better](open-better.md) How do you convince the people who you work with to openly share their work when their response is “Why would I give away what I made for free?”
+* [Shifting to Open](shift-open.md)
+* [Promoting Openness](promoting-open.md)
+* [Community Development for Openness](community-development.md)
 
 On completion of these four units the [final summit quest](sociocultural-summit-quest.md) combines learning from across all four units into one final assignment for the whole module.
 

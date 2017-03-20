@@ -16,18 +16,17 @@ The Creative Commons CORE certificate is made up of a six modules broken down in
    * [The Creative Commons Organization](commons/creative-commons.md)
 
 * [Creative Commons Licenses](licenses/index.md)
-   * How Licenses Work with Copyright
-   * Overview of the Licenses
+   * [How Licenses Work with Copyright](licenses/with-copyright.md)
+   * [Overview of the Licenses](licenses/overview.md)
    * [Examples of Licenses in Action](licenses/examples.md)
    * [Remixing Differently Licensed Works](licenses/remixed.md)
-   * Legal Precedence of Creative Commons Licenses
+   * [Legal Precedence of Creative Commons Licenses](licenses/legal-precedence.md)
    
 * [Sociocultural](sociocultural/index.md)
    * [How the Open Model is Better](sociocultural/open-better.md)
-   * Shift to Openness
-   * Promoting Openness
-   * Community Development for Openness
-   * Building a Culture of Gratitude and Collaboration
+   * [Shifting to Open](sociocultural/shift-open.md)
+   * [Promoting Openness](sociocultural/promoting-open.md)
+   * [Community Development for Openness](sociocultural/community-development.md)
    
 * [Legal](legal/index.md)
    * Legal Aspects of Licensing and Attribution
