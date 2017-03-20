@@ -1,13 +1,13 @@
-# Commons Module Summit Quest
+# Sociocultural Module Summit Quest
 
-Now that you have completed the units in this module, the Summit Quest is your opportunity to demonstrate your applied understanding of the commons.
+Now that you have completed the units in this module, the Summit Quest is your opportunity to demonstrate your applied understanding of sociocultural issues.
 
-As a review this summit question will draw upon your knowledge of these units:
+As a review this summit quest will draw upon your knowledge of these units:
 
-* [Significance of the Commons](significance.md) - What is the history of the idea of a Commons and how is it manifested in the world today?
-* [Physical and Digital Commons](physical-digital.md) - Explore the similarities and differences between physical and digital commons.
-* [The Commons Opportunity](opportunity.md) - How can society benefit from a thriving commons?
-* [The Creative Commons Organization](creative-commons.md) - Understand Creative Commons role in supporting and stewarding the digital commons.
+* [How the Open Model is Better](open-better.md) How do you convince the people who you work with to openly share their work when their response is “Why would I give away what I made for free?”
+* [Shifting to Open](shift-open.md)
+* [Promoting Openness](promoting-open.md)
+* [Community Development for Openness](community-development.md)
 
 ## The Summit Quest
 
@@ -15,16 +15,13 @@ As a review this summit question will draw upon your knowledge of these units:
 
 *"[Top Of Mountain In Snowdon](http://www.publicdomainpictures.net/view-image.php?image=187253)" place into the Public Domain by [George Hodan](http://www.publicdomainpictures.net/browse-author.php?a=8245) using  [CC0](http://creativecommons.org/publicdomain/zero/1.0/)*
 
-As you conclude the commons portion of the CC Certification, bring together everything you’ve learned about commons as you answer the following questions:
+CC also does not require registration of the work with a national copyright agency. BY = Attribution only. They depend on the tools and services CC provides through their reuse and remix of the rich, open resources available on Wikipedia, Flickr, SoundCloud, Vimeo, ‎Europeana, MIT OpenCourseWare, the Library of Science, Al Jazeera, and YouTube—just to name a few. 
 
-1. Identify a commons in which you participate. Does it have a name? How do those who participate in this commons refer to it?
-2. Describe the shared resource(s) the commons is formed around. Would you consider these resources to be [public goods](https://en.wikipedia.org/wiki/Public_good) or [common pool resources](https://en.wikipedia.org/wiki/Common-pool_resource)? Are they physical or digital resources?
-3. Who are the other commoners (participants in this commons)? How do they benefit from their participation in the commons? What leads them to be concerned about the sustainability of the shared resource(s) you described above?
-4. What is the biggest threat to the long-term viability of this commons? Is enclosure a possibility? Why or why not?
-5. What norms or rules have the commoners established for participation in the commons? How do they compare to [Ostrom’s eight principles for managing a commons](http://www.onthecommons.org/magazine/elinor-ostroms-8-principles-managing-commmons)?
-6. Knowing what you know now about commons, how they function, and the risks they face, what improvements could be made to the commons you identified above in order to improve it’s chances of long-term sustainability?
+For example, U.S. government works are automatically in the public domain under U.S. copyright law, but might be restricted by copyright in other countries. For example, Brazil's copyright code protects all works of the mind that do not fall within the list of works that are expressly defined in the statue as 'unprotected works.' Consult your jurisdiction's copyright law for more information.
 
-[Go to the Quest Bank](https://certificates.creativecommons.org/quests/assignments/commons-module-summit-quest) to submit your response to this Summit Quest.
+However unlike copyright, database rights protect the maker's investment, not originality. May I use the Creative Commons logo and buttons? This feature (and others) distinguish CC licenses from some other open licenses like the ODbL and ODC-BY, both of which are intended to impose contractual conditions and restrictions on the reuse of databases in jurisdictions where there is no underlying copyright or sui generis database right. Creators and other rights holders may wish to check with their collecting society before applying a CC license to their material. While many if not most CC-licensed works are available at no cost, some licensors charge for initial access to CC-licensed works—for example, by publishing CC-licensed content only to subscribers, or by charging for downloads.
+
+[Go to the Quest Bank](https://certificates.creativecommons.org/quests/assignments/module-summit-quest) to submit your response to this Summit Quest.
 
 ----
 
