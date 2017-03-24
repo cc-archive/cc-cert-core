@@ -6,9 +6,9 @@ If it exists, there should be an open verision of it.
 
 Understanding the basics Creative Commons is not only about how licenses fit into copyright system or how they support social norms for digital commons. It’s also about very practical approach, ease of use and usability of those digital commons. That is why proper attribution and searchability of CC content are extremely important. 
 
-![Copyright Iain](https://github.com/creativecommons/cc-cert-core/blob/master/images/commons/copyright-iain.jpg "Copyright Iain")
+![Blade Spades](https://github.com/creativecommons/cc-cert-core/blob/master/images/using/shovels_sand.jpg "Copyright Iain")
 
-*[Copyright Iain](https://www.flickr.com/photos/iain/4804390638/) by [Iain Farrell](https://www.flickr.com/photos/iain/) licensed under [CC BY-ND](https://creativecommons.org/licenses/by-nd/2.0/)*
+*[Blade Spades](https://pixabay.com/en/blade-spade-dig-sand-blue-red-1362944/) by [bhr2al](https://pixabay.com/en/users/bhr2al-2488329/) is placed into public domain using [CC 0](https://creativecommons.org/publicdomain/zero/1.0/deed.en)*
 
 
 ## Learning Outcomes
@@ -30,6 +30,8 @@ What kinds of resources do you seek for your professional/personal use? Where do
 
 There are many tools that can help you search for CC licensed content. Perhaps one of the most helpful is the Creative Commons search tool. You can add CC search to your browser and search using a variety of repositories and sources (from photos from 500px and Flickr to public domain resources from many museums).
 
+![Creative Commons search engine](https://github.com/creativecommons/cc-cert-core/blob/master/images/using/cc_search_engine.jpg "Creative Commons search engine")
+
 Although the CC search tool pulls from Google as well, you can use Google’s advanced search tool for license specified content too. Google has a great blog post on how to use the tool effectively. Be careful though, many images and websites can be marked with CC license by the image itself can be an exception. It is always recommended to check the source if possible. 
 
 When using general search engines and sites with different licenses available you will often see different types of filters. Some of them use names of the licenses and filter for content under specific licenses but some, for example CC search will ask you if you need a results to modify, adapt, build upon. Using only this will give you all results with content licensed without Non Derivative condition, if you want use your material for commercial purpose or to combine this with other materials under free licenses you will have to turn on another filter which is “use for commercial purposes”. Take a moment to check how those filters work in your prefered search tool.
@@ -38,7 +40,7 @@ When using general search engines and sites with different licenses available yo
 ### Looking for perfect photos, videos and music
 
 Many websites either house exclusively openly licensed content, such as Wikipedia. Other websites that can be effective for teaching purposes have specific filtering tools that will allow you to search for CC licensed content.
-YouTube allows users to publish under CC BY license but does not offer easy way to search for those videos. https://support.google.com/youtube/answer/111997?hl=en
+YouTube allows users to publish under CC BY license but does not offer easy way to search for those videos. 
 Services like Flickr and 500px for photos and Vimeo for videos offer their users all licenses to choose from, 
 https://www.flickr.com/creativecommons/, https://500px.com/creativecommons , https://vimeo.com/creativecommons 
 
