@@ -4,14 +4,14 @@ While we can discuss the concepts and background rationale for Creative Commons 
 
 ## The Big Question
 
-There is a old saying “[standing on the shoulders of giants](https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_giants)” that expresses the meaning of discovering truth or gaining new knowledge by building on work of previous generations. Of course today we discover and build new things much faster, is it science, innovations in education or cultural trends. Being able to get inspired, use and build upon works of others is crucial to our development more than ever.
+The saying “[standing on the shoulders of giants](https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_giants)”  expresses a meaning of discovering truth or gaining new knowledge by building on work of previous generations. And today we discover and build new things much faster, be it science, innovations in education or cultural trends. Being able to get inspired, use and build upon works of others is crucial to our development more than ever.
 
 ![Duty Calls](https://github.com/creativecommons/cc-cert-core/blob/master/images/licenses/duty-calls.png "Duty Calls")
 
 *"[Duty Calls](https://xkcd.com/386/) XKCD comic by [Randall Munroe](https://xkcd.com/about/) licensed under [CC BY-NC](https://creativecommons.org/licenses/by-nc/4.0/)*
 
 
-Try to think how today world would look like without open source powering open web and mobile (like [Mozilla Firefox](https://www.mozilla.org/firefox), [Google Chrome](https://www.google.com/chrome/) and [Android](https://www.android.com/) does) and open content under Creative Commons licenses and from public domain allows people not only to get inspired but to build upon. 
+Try to think how today world would look like without open source powering the open web and mobile space (like what [Mozilla Firefox](https://www.mozilla.org/firefox), [Google Chrome](https://www.google.com/chrome/) and [Android](https://www.android.com/) does).  Or how we might have to create everything from scratch without the world of open content made available under Creative Commons licenses and from public domain. All of this allows people not only to get inspired but to build upon. 
 
 ## Learning Outcomes
 
@@ -30,15 +30,16 @@ Think about your work environment (or passion) how it is influenced by open cont
 
 You can discover successful Creative Commons license use among major organizations, institutions, and government agencies, with the numbers increasing all the time. 
 
-In the first  months of 2017  [The Metropolitan Museum of Art](http://www.metmuseum.org) (The Met) and the [European Space Agency](http://www.esa.int/) (ESA) started using open licenses for making access to their resources open and easy.
+In the first few months of 2017  [The Metropolitan Museum of Art](http://www.metmuseum.org) (The Met) and the [European Space Agency](http://www.esa.int/) (ESA) started using open licenses to make access to their resources open and easy.
 
 * [The Met Makes Its Images of Public-Domain Artworks Freely Available through New Open Access Policy](http://www.metmuseum.org/press/news/2017/open-access) "Thomas P. Campbell, Director and CEO of The Metropolitan Museum of Art, announced today its adoption of a new policy: all images of public-domain artworks in the Museum's collection are now available for free and unrestricted use. This updated policy, known as Open Access, utilizes the Creative Commons Zero (CC0) designation." (7 February 2017)
 * [ESA Affirms Open Access Policy for Images, Videos and Data](http://www.esa.int/For_Media/Press_Releases/ESA_affirms_Open_Access_policy_for_images_videos_and_data) "ESA today announced it has adopted an Open Access policy for its content such as still images, videos and selected sets of data." (20 February 2017)
 
-But what is often unseen  nor written about are the intentions of people and institutions to start using Creative Commons (nor do we hear much about the consequences). We tend to seek huge and breaking stories about re-use when often small but incremental changes happen because something become open, available to use and modify, not only by other huge actors but maybe by school kids or independent artists.
+But what is often unseen nor written about are the *intentions* of individual people and small institutions to start using Creative Commons (nor do we hear much about the consequences). We tend to seek huge and breaking stories about re-use when often small but incremental changes happen because something become open, available to use and modify, not only by other huge actors but maybe by school kids or independent artists.
 
 ### Examples By Creative Commons License
-Take a look at the Creative Commons overview of each license that includes examples of projects and people using them:
+
+Take a look at the Creative Commons overview of each license that includes examples of projects and people using those licenses:
 
 * [Examples of use organized by CC License](https://creativecommons.org/share-your-work/licensing-types-examples/licensing-examples/)
 * [Examples of works placed into the Public Domain using CC0](https://creativecommons.org/share-your-work/public-domain/cc0/)
@@ -75,22 +76,25 @@ Reviewing this may give you an idea of the breath of Creative Commons licensed c
 * [Author Cory Doctorow publishes most of his novels](http://craphound.com/littlebrother/download/) under CC BY-NC-SA licenses that makes fan-fiction remixes possible.
 * One of the earliest adopters [flickr](http://www.flickr.com/creativecommons/) includes hundreds of millions of photographs and videos licensed under Creative Commons. Furthermore the [flickr Commons](https://www.flickr.com/commons/) includes a vast collection of images placed into the public domain from a large list of institutions.
 * [SoundCloud](https://soundcloud.com/creativecommonsmusicfree), [Bandcamp](https://bandcamp.com/) and [Jamendo](https://www.jamendo.com/) offer platforms for independent musicians to publish and share original music under Creative Commons licenses. And [ccMixter](http://ccmixter.org/) is an ecosystem for musicians to share samples and create remixes all licensed under CC BY-NC.
-* While [https://youtube.com/](YouTube) provides options for sharing video content under CC-BY, [vimeo](https://vimeo.com/creativecommons) offers the full range of Creative Commons licensing options for its members who upload videos.. 
+* While [https://youtube.com/](YouTube) provides options for sharing video content under CC-BY, [vimeo](https://vimeo.com/creativecommons) offers the full range of Creative Commons licensing options for its members who upload videos.
 
-## Application of Learning
 
-### Learner Toolkit
-Select two or three resources directly relevant to your personal or work-related CC needs from the Acquiring Essential Knowledge content and add them to your personal Creative Commons toolkit. Adding them to your toolkit makes them easy to find and use when the need arises, and makes it easy for you to pass on resources you consider important to others. Annotate the resources with notes explaining why they are relevant and important for you and your work.
+## Applied Practice
 
-### Community - Collaboration, Appreciation, Recognition, Gratitude
-Post a story about how you benefited from someone who chose to share their creative works under a Creative Commons license in the CC Certificate social forum. Alternatively, share a description of (and link to, if applicable) a community that engages in commons-based peer production that others might not be aware of.
+Explore and complete at least one of the [quests for this unit](https://certificates.creativecommons.org/quests/cats/license-examples/)
 
-### Applied Practice
+## Closing the Loop
 
-Complete one of  following activities in the Quest Bank:
+By the end of this unit you should have taken in the view from perhaps some giant and ordinary shoulders. Consider what ideas you have gotten from seeing what they have shared.
 
-* [Recommend a Creative Commons Use Case](https://quests.creativecommons.org/assignments/recommend-use-case)
-* [CC Personal Stories of Sharing](https://quests.creativecommons.org/assignments/cc-stories)
+You might think about collecting the valuable organizations, or places that included examples relevant to your field of work, and saving them somewhere in your own information toolkit.
+
+Examples are often shared within the [Creative Commons Slack community #general channel](https://creativecommons.slack.com/#general) -- you can join this open community via https://slack-signup.creativecommons.org/
+
+
+Perhaps there are examples you might share with your colleagues, or your social network.  If you do share, please use the hashtag `#cccert`. 
+
+Do not be surprised if the work you build upon someday is seen by someone else as shoulders worth standing upon.
 
 ----
 
