@@ -6,7 +6,7 @@ A 1-2 sentence catchy teaser, usually as opening to the big question that follow
 
 If you are looking for material offered under a Creative Commons license, CC Search is a good starting point. The database model refers to how a database is structured and organized, including database tables and table indexes. When a CC license is applied to a database, what is being licensed? You should also not apply Creative Commons licenses to works that are no longer protected by copyright or are otherwise in the public domain. Many rights holders who are members of a collecting society can waive the right to collect royalties for uses allowed under the license, but only to the extent their societies allow.
 
-![Copyright Iain](https://github.com/creativecommons/cc-cert-core/blob/master/images/module/filename.jpg "Copyright Iain")
+![Copyright Iain](https://github.com/creativecommons/cc-cert-core/blob/master/images/commons/copyright-iain.jpg "Copyright Iain")
 
 *[Copyright Iain](https://www.flickr.com/photos/iain/4804390638/) by [Iain Farrell](https://www.flickr.com/photos/iain/) licensed under [CC BY-ND](https://creativecommons.org/licenses/by-nd/2.0/)*
 
@@ -67,11 +67,7 @@ Post a story about how you benefited from someone who chose to share their creat
 
 ### Applied Practice
 
-Complete the following suggested activity in the Quest Bank:
-
-* [Quest Title](http://certificates.creativecommons.org/quest-title)
-
-Or choose from [other quests for this unit](https://certificates.creativecommons.org/quests/cats/remixing/)
+Complete one of the  [other quests for this unit](https://certificates.creativecommons.org/quests/cats/remixing/)
 
 ----
 
