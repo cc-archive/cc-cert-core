@@ -1,56 +1,60 @@
-# Unit Title
+# Finding CC Licensed Content
 
-A 1-2 sentence catchy teaser, usually as opening to the big question that follows
+If it exists, there should be an open verision of it.
 
 ## The Big Question
 
-If you are looking for material offered under a Creative Commons license, CC Search is a good starting point. The database model refers to how a database is structured and organized, including database tables and table indexes. When a CC license is applied to a database, what is being licensed? You should also not apply Creative Commons licenses to works that are no longer protected by copyright or are otherwise in the public domain. Many rights holders who are members of a collecting society can waive the right to collect royalties for uses allowed under the license, but only to the extent their societies allow.
+Understanding the basics Creative Commons is not only about how licenses fit into copyright system or how they support social norms for digital commons. It’s also about very practical approach, ease of use and usability of those digital commons. That is why proper attribution and searchability of CC content are extremely important. 
 
 ![Copyright Iain](https://github.com/creativecommons/cc-cert-core/blob/master/images/commons/copyright-iain.jpg "Copyright Iain")
 
 *[Copyright Iain](https://www.flickr.com/photos/iain/4804390638/) by [Iain Farrell](https://www.flickr.com/photos/iain/) licensed under [CC BY-ND](https://creativecommons.org/licenses/by-nd/2.0/)*
 
 
-Additionally, when you are using a work that is an adaptation of one or more pre-existing works, you may need to give credit to the creator(s) of the pre-existing work(s), in addition to giving credit to the creator of the adaptation. If you are unsure, you should either contact the rights holder for clarification, or search for works that permit commercial uses. All licenses after version 1.0 also allow you to license your contributions under a later version of the same license, and some also allow ported licenses. Some examples of collecting societies include ASCAP and BMI (United States), BUMA/STEMRA (Netherlands), PRS (United Kingdom), and APRA (Australia). You may apply a 4.0 license to material subject to any of those rights, whether or not the material is also subject to copyright.
-
-Often, the database provider is not the original author of the database contents. However, we do not recommend this. (See above for more detail about how past versions of CC licenses vary with respect to sui generis database rights.)They provide basic information, sometimes about fairly complex topics, and will often link to more detailed information. If you do, you should take additional care to mark the adaptation as involving multiple copyrights under different terms so that downstream users are aware of their obligations to comply with the licenses from all rights holders.
-
-Be sure to confirm that the material you want to use is actually under a CC license, as search results may sometimes be misleading. All of the ported licenses are at version 3.0 or earlier, which means licensors using those licenses do not have the benefit of the improvements made in the 4.0 license suite. All CC licenses require users to attribute the creator of licensed material, unless the creator has waived that requirement, not supplied a name, or asked that her name be removed. Unless you have a specific reason to use a ported license, we suggest you consider using one of the international licenses. CC offers some additional information on how CC licenses may affect your moral rights.
-
 ## Learning Outcomes
 
-* By design, CC licenses do not reduce, limit, or restrict any rights under exceptions and limitations to copyright, such as fair use or fair dealing. 
-* Creative Commons has always relied on the generosity of both individuals and organizations to fund its ongoing operations. 
-* Is Creative Commons involved in digital rights management (DRM)? 
-* RDFa Primer: Bridging the Human and Data Webs, RDFa.info, RDFa Wiki. 
-* What are collecting societies?
+* Identify sources of Creative Commons licensed content 
+* Use Creative Commons Search tool 
+* Explore Google and other means of search   
+* Make use of search filters to browse and find content by license
 
 ## Personal Reflection / Why It Matters to You  
   
-This compatibility mechanism is designed for situations in which content is integrated into software code in a way that makes it difficult or impossible to distinguish the two. There are special considerations required before using this compatibility mechanism. Licensors are not required to use the CC license chooser or provide any information about themselves or their material when applying a CC license to their material. Whether and to what extent these rights exist, and if so, how they are labeled, varies depending on the jurisdiction. On the internet, even the most basic activities involve making copies of copyrighted content.
+What kinds of resources do you seek for your professional/personal use? Where do you currently turn to for new resources? Are they open or do they have openly licensed equivalents? What tools and features are are important for you when searching for digital content?
 
 ## Acquiring Essential Knowledge 
 
 
 
-### Our tools are free, and our reach is wide. 
+### General search tools
+
+There are many tools that can help you search for CC licensed content. Perhaps one of the most helpful is the Creative Commons search tool. You can add CC search to your browser and search using a variety of repositories and sources (from photos from 500px and Flickr to public domain resources from many museums).
+
+Although the CC search tool pulls from Google as well, you can use Google’s advanced search tool for license specified content too. Google has a great blog post on how to use the tool effectively. Be careful though, many images and websites can be marked with CC license by the image itself can be an exception. It is always recommended to check the source if possible. 
+
+When using general search engines and sites with different licenses available you will often see different types of filters. Some of them use names of the licenses and filter for content under specific licenses but some, for example CC search will ask you if you need a results to modify, adapt, build upon. Using only this will give you all results with content licensed without Non Derivative condition, if you want use your material for commercial purpose or to combine this with other materials under free licenses you will have to turn on another filter which is “use for commercial purposes”. Take a moment to check how those filters work in your prefered search tool.
 
 
-Creative Commons does not recommend using a CC license on a logo or trademark. Yes—but if you change the terms and conditions of any Creative Commons license, you must no longer call, label, or describe the license as a 'Creative Commons' or 'CC' license, nor can you use the Creative Commons logos, buttons, or other trademarks in connection with the modified license or your materials. Creators may also apply Creative Commons licenses to material they create that are adapted from public domain works, or to remixed material, databases, or collections that include work in the public domain. (In France it is called a 'mandate' of rights but has similar practical effect.) 
+### Looking for perfect photos, videos and music
 
-That said, Creative Commons recognizes the need for change in copyright law, and many members of the Creative Commons community are active participants in the copyright reform movement. Our tools are free, and our reach is wide. (Note that charging for access may not be permitted with NC-licensed material; however, it is not disallowed by the restriction on ETMs.)Because there is no single 'Creative Commons license,' it is important to identify which of the six licenses you are applying to your material, which of the six licenses has been applied to material that you intend to use, and in both cases the specific version. Yes.
+Many websites either house exclusively openly licensed content, such as Wikipedia. Other websites that can be effective for teaching purposes have specific filtering tools that will allow you to search for CC licensed content.
+YouTube allows users to publish under CC BY license but does not offer easy way to search for those videos. https://support.google.com/youtube/answer/111997?hl=en
+Services like Flickr and 500px for photos and Vimeo for videos offer their users all licenses to choose from, 
+https://www.flickr.com/creativecommons/, https://500px.com/creativecommons , https://vimeo.com/creativecommons 
 
-### When do Creative Commons licenses expire? 
+There is also a growing number of websites focused on one type of content like vector graphics (for example The Noun Project) or specific conditions like only using CC Zero mechanism (like Unsplash and Pixabay for photos and Pexels for photos and videos). They all offer specific features and are designed for different users in mind. 
 
-Creators in these jurisdictions who belong to collecting societies may not be able to license their material under CC licenses because the collecting societies own the necessary rights, not the creators.
+For more websites with CC licensed conetnt for general use check: https://opentextbc.ca/opentextbook/chapter/find-openly-licensed-content/ 
 
-Central to our licenses is the grant of a standard set of permissions in advance, without requiring users to ask for permission or seek clarification before using the work. There are currently no ports of 4.0, and it is planned that few, if any, will be created. You do not need to register with Creative Commons to apply a CC license to your material; it is legally valid as soon as you apply it to any material you have the legal right to license. How do I apply a Creative Commons license to my material?
 
-### While this result is the same across all CC version 3.0 licenses, the reason for this outcome varies. 
+### In search for scientific and educational content 
 
-If and only if your particular use is one that would require permission, you should note the following. CC offers resources on the best practices for marking your material and on how to mark material in different media (.pdf). CC licenses contain a 'severability' clause. Among other things, if you use the logos on a website or on your work, you may not alter the logos in any respect—such as by changing the font, the proportions, or the colors.
+Many scientific and educational repositories use CC licenses but are not visible in main search engines. If you are looking for subject specific content it might be easier to find an expert source from your field (or language). 
+For list of scientific resources check: 
+https://creativecommons.org/about/program-areas/open-science/science-resources/ 
+For more open educational resources websites check: 
+http://oedb.org/ilibrarian/80-oer-tools/ 
 
-https://vimeo.com/151666798
 
 *["Creative Commons: Remix"](https://vimeo.com/151666798) by [Creative Commons](https://vimeo.com/creativecommonsvideos) is licensed under [CC BY-SA](https://creativecommons.org/licenses/by-sa/3.0)*
 
@@ -67,7 +71,7 @@ Post a story about how you benefited from someone who chose to share their creat
 
 ### Applied Practice
 
-Complete one of the  [other quests for this unit](https://certificates.creativecommons.org/quests/cats/remixing/)
+Complete one of the  [other quests for this unit](https://certificates.creativecommons.org/quests/assignments/create-an-instruction-for-your-favourite-cc-search-tool/)
 
 ----
 
