@@ -28,7 +28,7 @@ What kinds of resources do you seek for your professional/personal use? Where do
 
 ### General search tools
 
-There are many tools that can help you search for CC licensed content. Perhaps one of the most helpful is the Creative Commons search tool. You can add CC search to your browser and search using a variety of repositories and sources (from photos from 500px and Flickr to public domain resources from many museums).
+There are many tools that can help you search for CC licensed content. Perhaps one of the most helpful is the [Creative Commons search tool](https://ccsearch.creativecommons.org/). You can add CC search to your browser and search using a variety of repositories and sources (from photos from 500px and Flickr to public domain resources from many museums).
 
 ![Creative Commons search engine](https://github.com/creativecommons/cc-cert-core/blob/master/images/using/cc_search_engine.jpg "Creative Commons search engine")
 
@@ -41,27 +41,19 @@ When using general search engines and sites with different licenses available yo
 
 Many websites either house exclusively openly licensed content, such as Wikipedia. Other websites that can be effective for teaching purposes have specific filtering tools that will allow you to search for CC licensed content.
 YouTube allows users to publish under CC BY license but does not offer easy way to search for those videos. 
-Services like Flickr and 500px for photos and Vimeo for videos offer their users all licenses to choose from, 
-https://www.flickr.com/creativecommons/, https://500px.com/creativecommons , https://vimeo.com/creativecommons 
+Services like [Flickr](https://www.flickr.com/creativecommons/) and [500px](https://500px.com/creativecommons) for photos and [Vimeo](https://vimeo.com/creativecommons ) for videos offer their users all licenses to choose from.
 
 There is also a growing number of websites focused on one type of content like vector graphics (for example The Noun Project) or specific conditions like only using CC Zero mechanism (like Unsplash and Pixabay for photos and Pexels for photos and videos). They all offer specific features and are designed for different users in mind. 
 
-For more websites with CC licensed conetnt for general use check: https://opentextbc.ca/opentextbook/chapter/find-openly-licensed-content/ 
+For more websites with CC licensed conetnt for general use check this [list from BC Campus Open Textbook project](https://opentextbc.ca/opentextbook/chapter/find-openly-licensed-content/).
 
 
 ### In search for scientific and educational content 
 
 Many scientific and educational repositories use CC licenses but are not visible in main search engines. If you are looking for subject specific content it might be easier to find an expert source from your field (or language). 
-For list of scientific resources check: 
-https://creativecommons.org/about/program-areas/open-science/science-resources/ 
-For more open educational resources websites check: 
-http://oedb.org/ilibrarian/80-oer-tools/ 
-
-
-*["Creative Commons: Remix"](https://vimeo.com/151666798) by [Creative Commons](https://vimeo.com/creativecommonsvideos) is licensed under [CC BY-SA](https://creativecommons.org/licenses/by-sa/3.0)*
-
-Also [Creative Commons Australia](http://creativecommons.org.au) provides a more comprehensive list of of the [Benefits of Sharing Using Creative Commons](http://creativecommons.org.au/content/Benefits_of_CC_08.pdf).
-
+For more CC licensed resources check:
+*[List of scientific webistes with resources published under CC licenses](https://creativecommons.org/about/program-areas/open-science/science-resources/)  
+*[Open Education Databease list webistes and tools with  Open Educational Resources](http://oedb.org/ilibrarian/80-oer-tools/).
 
 ## Application of Learning
 
@@ -73,7 +65,7 @@ Post a story about how you benefited from someone who chose to share their creat
 
 ### Applied Practice
 
-Complete one of the  [other quests for this unit](https://certificates.creativecommons.org/quests/assignments/create-an-instruction-for-your-favourite-cc-search-tool/)
+Complete one of the [other quests for this unit](https://certificates.creativecommons.org/quests/assignments/create-an-instruction-for-your-favourite-cc-search-tool/)
 
 ----
 
@@ -84,4 +76,3 @@ Except where otherwise noted, this content is published under a [CC BY-SA licens
 License details: https://creativecommons.org/licenses/by-sa/4.0/
 
 *Creative Commons Certificates have been created with the kind support of [Creative Commons](http://creativecommons.org/), the [Institute of Museum and Library Services](https://www.imls.gov/), and the [Bill &amp; Melinda Gates Foundation](http://www.gatesfoundation.org/).*
-
