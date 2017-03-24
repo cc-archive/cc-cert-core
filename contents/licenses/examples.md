@@ -89,7 +89,7 @@ By the end of this unit you should have taken in the view from perhaps some gian
 
 You might think about collecting the valuable organizations, or places that included examples relevant to your field of work, and saving them somewhere in your own information toolkit.
 
-Examples are often shared within the [Creative Commons Slack community #general channel](https://creativecommons.slack.com/#general) -- you can join this open community via https://slack-signup.creativecommons.org/
+Examples are often shared within the [Creative Commons Slack community #general channel](https://creativecommons.slack.com/#general) -- you can join this open community via [https://slack-signup.creativecommons.org/](https://slack-signup.creativecommons.org/).
 
 
 Perhaps there are examples you might share with your colleagues, or your social network.  If you do share, please use the hashtag `#cccert`. 
