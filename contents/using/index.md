@@ -2,7 +2,7 @@
 
 (insert intro for this module)
 
-![lego-city-folk](https://github.com/creativecommons/cc-cert-core/blob/master/images/using/lego-action "lego-city-folk")
+![lego-city-folk](https://github.com/creativecommons/cc-cert-core/blob/master/images/using/lego-action.jpg "lego-city-folk")
 
 *[lego-city-folk](https://flickr.com/photos/dangoodwin/3919016898 "lego-city-folk") by [dangoodwin](https://flickr.com/people/dangoodwin) is licensed under [CC BY-SA](https://creativecommons.org/licenses/by-sa/2.0/)*
 

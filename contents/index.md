@@ -29,20 +29,18 @@ The Creative Commons CORE certificate is made up of a six modules broken down in
    * [Community Development for Openness](sociocultural/community-development.md)
    
 * [Legal](legal/index.md)
-   * Legal Aspects of Licensing and Attribution
-   * Language of License Clauses
-   * Proper Legal Marking
-   * Commercial Adaptations of Licensed Content
-   * Where Copyright Is Not Implicated
-   * Relationship of Creative Commons to Non-Copyright Rights
-   * Responding to Creative Commons License Violations
-   * Formulating Open Policies
+   * [Legal Aspects of Licensing and Attribution](legal/aspects.md)
+   * [Language of License Clauses](legal/clauses.md)
+   * [Proper Legal Marking](legal/marking.md)
+   * [Commercial Adaptations of Licensed Content](legal/commercial.md)
+   * [Where Copyright Is Not Implicated](legal/copyright-not-implicated.md)
+   * [Formulating Open Policies](legal/open-policies.md)
 
 * [Using Creative Commons](using/index.md)
-   * Choosing a License
-   * Finding CC Licensed Content
-   * Legal vs Technical Openness
-   * Giving Attribution
+   * [Choosing a License](using/choosing-license.md)
+   * [Finding CC Licensed Content](using/finding-content.md)
+   * [Legal vs Technical Openness](using/legal-technical-open.md)
+   * [Giving Attribution](using/attribution.md)
    
    
 ----
