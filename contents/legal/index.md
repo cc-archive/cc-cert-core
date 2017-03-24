@@ -4,7 +4,7 @@
 
 ![The Court of the Brick](https://github.com/creativecommons/cc-cert-core/blob/master/images/legal/lego-legal.jpg "The Court of the Brick")
 
-*"[The Court of the Brick]"(https://flickr.com/photos/bonaparty/5520037275 "The Court of the Brick") by [Louis K.](https://flickr.com/people/bonaparty) is licensed under [CC BY-SA](https://creativecommons.org/licenses/by-sa/2.0/)*
+*[The Court of the Brick](https://flickr.com/photos/bonaparty/5520037275 "The Court of the Brick") by [Louis K.](https://flickr.com/people/bonaparty) is licensed under [CC BY-SA](https://creativecommons.org/licenses/by-sa/2.0/)*
 
 
 * [Legal Aspects of Licensing and Attribution](aspects.md)
