@@ -24,7 +24,9 @@ Try to think how today world would look like without open source powering the op
   
 Looking for success stories in different areas we tend to seek the most visible examples from mass media, often forgetting about how many examples of something much more valuable can much closer, in our communities. 
 
-Think about your work environment (or passion) how it is influenced by open content, open source and public domain? Can you find any examples of Creative Commons and public domain content around you or find some that would be useful for you? Who is making them and how do they speak about being open? Are they local or maybe there is some unconventional connections like resources from another country popular in yours? Take a moment to search for any examples. 
+Think about your work environment (or passion) how it is influenced by open content, open source and public domain. Can you find any examples of Creative Commons and public domain content around you or find some that would be useful for you? Who is making them and how do they speak about being open? Are they local or maybe there is some unconventional connections like resources from another country popular in yours? Take a moment to search for any examples. 
+
+*If you cannot think of any examples off hand, you may ask in your social media channels for less commonly known sources of open content. Consider adding your examples to the CC Certification Space (link) and what you can learn of the people/organizations who have shared them. Or explore what others have shared there*
 
 ## Acquiring Essential Knowledge 
 
@@ -60,7 +62,9 @@ For a deeper dive you can also review the [Wikipedia article about major CC lice
 
 *from "[State of the Commons (2015)](https://stateof.creativecommons.org/2015/)" by [Creative Commons](https://creativecommons.org/) licensed under [CC BY](https://creativecommons.org/licenses/by/4.0/)*
 
-For a historical and big picture view of how use of Creative Commons licenses changes over time and what new actors come to play, visit the [State of The Commons report[(https://stateof.creativecommons.org) from Creative Commons.
+For a historical and big picture view of how use of Creative Commons licenses changes over time and what new actors come to play, visit the [State of The Commons report](https://stateof.creativecommons.org) from Creative Commons.
+
+*Are there examples here you find compelling? They might be worth sharing in the CC Certificates Community Space or adding to your Personal Toolkit*
 
 
 ### Media Platform Examples
@@ -78,6 +82,8 @@ Reviewing this may give you an idea of the breath of Creative Commons licensed c
 * [SoundCloud](https://soundcloud.com/creativecommonsmusicfree), [Bandcamp](https://bandcamp.com/) and [Jamendo](https://www.jamendo.com/) offer platforms for independent musicians to publish and share original music under Creative Commons licenses. And [ccMixter](http://ccmixter.org/) is an ecosystem for musicians to share samples and create remixes all licensed under CC BY-NC.
 * While [https://youtube.com/](YouTube) provides options for sharing video content under CC-BY, [vimeo](https://vimeo.com/creativecommons) offers the full range of Creative Commons licensing options for its members who upload videos.
 
+*Do you use any of these media sources already to find content you can use? How many are new to you? If they are useful, you might want to add them to your Personal Toolkit. Or after exploring these, you might share in your social media places an example of content you found that might be useful to your work or interests.*
+
 
 ## Applied Practice
 
@@ -87,10 +93,9 @@ Explore and complete at least one of the [quests for this unit](https://certific
 
 By the end of this unit you should have taken in the view from perhaps some giant and ordinary shoulders. Consider what ideas you have gotten from seeing what they have shared.
 
-You might think about collecting the valuable organizations, or places that included examples relevant to your field of work, and saving them somewhere in your own information toolkit.
+You might think about collecting the valuable organizations, or places that included examples relevant to your field of work, and saving them to your Personal Learning Toolkit.
 
 Examples are often shared within the [Creative Commons Slack community #general channel](https://creativecommons.slack.com/#general) -- you can join this open community via [https://slack-signup.creativecommons.org/](https://slack-signup.creativecommons.org/).
-
 
 Perhaps there are examples you might share with your colleagues, or your social network.  If you do share, please use the hashtag `#cccert`. 
 

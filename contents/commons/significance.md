@@ -1,4 +1,4 @@
-# Unit 1: Significance of the Commons
+# Significance of the Commons
 
 What do Wikipedia and medieval English pasture lands have in common? (Hint: the answer is right there in the question.) And why should you care?
 
