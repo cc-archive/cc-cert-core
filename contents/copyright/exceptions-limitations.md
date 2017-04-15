@@ -16,7 +16,7 @@ Fortunately, this court ruling has **not** happened.
 
 *"[Parody Is Not Infringement](https://flickr.com/photos/joegratz/25627356)" by [Joe Gratz](https://flickr.com/photos/joegratz) licensed under [CC BY-NC](https://creativecommons.org/licenses/by-nc/2.0/)*
 
-As you will find in the [Public Domain unit](/public-domain.md), before copyright, all creative works were in the public domain. When legislators created copyright protections, they realized that allowing copyright to restrict all uses of creative works would be highly problematic.
+As you will find in the [Public Domain unit](public-domain.md), before copyright, all creative works were in the public domain. When legislators created copyright protections, they realized that allowing copyright to restrict all uses of creative works would be highly problematic.
 
 For example, how could scholars or critics write about plays, books, movies, or other art without quoting from them? (It would be extremely difficult.) And would copyright holders be inclined to provide licenses to people whose reviews might be negative? (Probably not.)
 
