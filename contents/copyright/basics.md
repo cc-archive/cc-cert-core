@@ -27,37 +27,37 @@ The law makes it a crime for someone to sneak into the garden overnight and stea
 
 
 ## Personal Reflection / Why It Matters to You  
-  
+
 Think back to a time that you invested significant effort in a project outside of work. What was your motivation for doing so?
 
 
-## Acquiring Essential Knowledge 
+## Acquiring Essential Knowledge
 
 ### History of Copyright
 
-Copyright is so ubiquitous that it’s easy to believe that it’s a law of nature, like gravity. However, copyright is a relatively recent social invention, as you can learn by reading the introduction to this [History of Copyright](https://en.wikipedia.org/wiki/History_of_copyright_law0). 
+Copyright is so ubiquitous that it’s easy to believe that it’s a law of nature, like gravity. However, copyright is a relatively recent social invention, as you can learn by reading the introduction to this [History of Copyright](https://en.wikipedia.org/wiki/History_of_copyright_law).
 
 
 ### Purpose of Copyright
 
-The [purpose of copyright](https://www.lib.umn.edu/copyright/purpose) depends on who you ask - or, more specifically, the jurisdiction in which they live. In some jurisdictions the purpose of copyright is to provide financial incentives to would-be creators to create. In other jurisdictions, the purpose of copyright is to recognize and protect the natural connection between a creator and her works. 
+The [purpose of copyright](https://www.lib.umn.edu/copyright/purpose) depends on who you ask - or, more specifically, the jurisdiction in which they live. In some jurisdictions the purpose of copyright is to provide financial incentives to would-be creators to create. In other jurisdictions, the purpose of copyright is to recognize and protect the natural connection between a creator and her works.
 
 
 
 
-### The Types of Works Protected by Copyright 
+### The Types of Works Protected by Copyright
 
-Copyright protects a broad range of creative works. For a thorough listing of the kinds of things protected by copyright, see [What is Protected?](http://smartcopying.edu.au/copyright-guidelines/copyright---a-general-overview/1-3-what-is-protected-(types-of-works). In the over 160 nations that have adopted the [Berne Convention](https://en.wikipedia.org/wiki/Berne_Convention), all the works protectable by copyright are automatically copyrighted from the moment they are created, eliminating the need to register or place a notice on a work in order to receive copyright protection.
+Copyright protects a broad range of creative works. For a thorough listing of the kinds of things protected by copyright, see [What is Protected?](http://smartcopying.edu.au/copyright-guidelines/copyright). In the over 160 nations that have adopted the [Berne Convention](https://en.wikipedia.org/wiki/Berne_Convention), all the works protectable by copyright are automatically copyrighted from the moment they are created, eliminating the need to register or place a notice on a work in order to receive copyright protection.
 
 
 ### What Copyright Restricts
 
-Copyright reserves several exclusive rights to the copyright holder, including the rights to: 
+Copyright reserves several exclusive rights to the copyright holder, including the rights to:
 
 * make copies of the work
 * distribute copies of the work
 * create derivative works
-* publicly display or perform the work 
+* publicly display or perform the work
 
 The copyright holder can license or permanently assign these rights to others.
 
@@ -88,5 +88,3 @@ Except where otherwise noted, this content is published under a [CC BY-SA licens
 License details: https://creativecommons.org/licenses/by-sa/4.0/
 
 *Creative Commons Certificates have been created with the kind support of [Creative Commons](http://creativecommons.org/), the [Institute of Museum and Library Services](https://www.imls.gov/), and the [Bill &amp; Melinda Gates Foundation](http://www.gatesfoundation.org/).*
-
-
