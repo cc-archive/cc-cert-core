@@ -10,7 +10,7 @@ Today, when a creative work’s copyright protection ends, the work enters the p
 
 ![Melies color Voyage dans la lune](https://github.com/creativecommons/cc-cert-core/blob/master/images/copyright/voyage-dans-la-lune.jpg "Melies color Voyage dans la lune")
 
-*"[Melies color Voyage dans la lune](https://commons.wikimedia.org/wiki/File:Melies_color_Voyage_dans_la_lune.jpg)" by [Georges Méliès](https://en.wikipedia.org/wiki/Georges_M%C3%A9li%C3%A8s) is in the Public Domain)*
+*"[Melies color Voyage dans la lune](https://commons.wikimedia.org/wiki/File:Melies_color_Voyage_dans_la_lune.jpg)" by [Georges Méliès](https://en.wikipedia.org/wiki/Georges_M%C3%A9li%C3%A8s) is in the Public Domain*
 
 A strong public domain is the basis for a creative society. New uses can be built and work can be expanded. There are 4 common ways a work arrives in the public domain  
 
@@ -37,7 +37,7 @@ Following step costs and complex systems clearing music rights, comedian James C
 
 https://www.youtube.com/watch?v=bW0E_sncNic8
 
-*:[Public Domain Songs w/ Jamie Foxx](https://www.youtube.com/watch?v=bW0E_sncNic8)" by [The Late Late Show with James Corden](https://www.youtube.com/channel/UCJ0uqCI0Vqr2Rrt1HseGirg)*
+*[Public Domain Songs w/ Jamie Foxx](https://www.youtube.com/watch?v=bW0E_sncNic8)" by [The Late Late Show with James Corden](https://www.youtube.com/channel/UCJ0uqCI0Vqr2Rrt1HseGirg)*
 
 Think about items you interact with in your everyday life and  public domains you experience in your everyday life. Identify an object in your life that is a piece of the public domain.
 
