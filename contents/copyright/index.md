@@ -1,8 +1,8 @@
 # Copyright
 
-Creative Commons licenses do not replace copyright, they built on top of it. 
+Creative Commons licenses do not replace copyright, they built on top of it.
 
-The default of copyright is that all rights are reserved. Creative Commons licenses allow creators to open up works for others to legally use by expressing rights they reserve, and rights they waive. To fully understand how Creative Commons licenses work it is imperative that you have a basic understanding of copyright. 
+The default of copyright is that all rights are reserved. Creative Commons licenses allow creators to open up works for others to legally use by expressing rights they reserve, and rights they waive. To fully understand how Creative Commons licenses work it is imperative that you have a basic understanding of copyright.
 
 ![The Copyright](https://github.com/creativecommons/cc-cert-core/blob/master/images/copyright/copyright.jpg "Copyright")
 
@@ -13,12 +13,12 @@ The Copyright module has five units of learning that provide ....
 
 * [Copyright Basics](basics.md) Is copyright a bit fuzzy to you? Get some clarity by understanding it's history and purpose.
 * [Copyright vs Other Intellectual Property](other-ip.md) How does copyright differ from intellectual property (IP) rights of trademark, patents,and trade secrets?
-* [Scope of Public Domain](public-domain.md) Copyright protection is not forever, at some point the protection expires and works enter the public domain. 
+* [Scope of Public Domain](public-domain.md) Copyright protection is not forever, at some point the protection expires and works enter the public domain.
 * [Exceptions and Limitations of Copyright](exceptions-limitations.md) Known in some parts of the world as "fair use" or "fair dealing",  limitations and exceptions built into copyright were designed to allow exceptions for certain kinds of uses such as criticism, parody, scholarship, and research.
 * [Global Aspects of Copyright](global.md) Copyright laws are defined by countries yet we operate in a world where media is global in reach. Complexity ensues.
 
 
-On completion of these five units the [final summit quest](copyright-summit-quest.md) combines learning from across all four units into one final assignment for the whole module.
+On completion of these five units the [final summit quest](summit-quest.md) combines learning from across all five units into one final assignment for the whole module.
 
 ----
 
@@ -29,4 +29,3 @@ Except where otherwise noted, this content is published under a [CC BY-SA licens
 License details: https://creativecommons.org/licenses/by-sa/4.0/
 
 *Creative Commons Certificates have been created with the kind support of [Creative Commons](http://creativecommons.org/), the [Institute of Museum and Library Services](https://www.imls.gov/), and the [Bill &amp; Melinda Gates Foundation](http://www.gatesfoundation.org/).*
-
