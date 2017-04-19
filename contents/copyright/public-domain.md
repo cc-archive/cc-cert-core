@@ -35,9 +35,9 @@ Works in the public domain have resulted in many interesting and creative works.
 
 Following step costs and complex systems clearing music rights, comedian James Corden host of the Late Late Show began a segment where his famous guests perform songs in the public domain.  Here is actor Jamie Foxx American actor, singer, songwriter, and comedian performing **Pop goes the weasel**.
 
-https://www.youtube.com/watch?v=bW0E_sncNic8
+https://www.youtube.com/watch?v=bW0E_sncNic
 
-*[Public Domain Songs w/ Jamie Foxx](https://www.youtube.com/watch?v=bW0E_sncNic8)" by [The Late Late Show with James Corden](https://www.youtube.com/channel/UCJ0uqCI0Vqr2Rrt1HseGirg)*
+*[Public Domain Songs w/ Jamie Foxx](https://www.youtube.com/watch?v=bW0E_sncNic)" by [The Late Late Show with James Corden](https://www.youtube.com/channel/UCJ0uqCI0Vqr2Rrt1HseGirg)*
 
 Think about items you interact with in your everyday life and  public domains you experience in your everyday life. Identify an object in your life that is a piece of the public domain.
 
