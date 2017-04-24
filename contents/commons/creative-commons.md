@@ -44,6 +44,10 @@ For a brief introduction to Creative Commons as an organization explore the [Abo
 
 https://vimeo.com/13590841
 
+ *"[Wanna Work Together?](https://vimeo.com/13590841)" 
+ by [Creative Commons](https://vimeo.com/creativecommonsvideos) 
+ is licensed under [CC BY-SA](https://creativecommons.org/licenses/by-sa/3.0)*
+
 ### Vision, Mission, Goals, Program Areas
 To learn about Creative Commons vision, mission, goals, and program areas review the[Program Areas](https://creativecommons.org/about/program-areas/) section of the Creative Commons web site.
 
