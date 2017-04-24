@@ -65,7 +65,7 @@ We can build a table of rivalrous, nonrivalrous, excludable, and nonexcludable r
 Take some time to explore the articles on Common-pool resources and Public goods linked in the table above. 
 
 ##### For Your Personal Learning Toolkit
-*It's helpful to have some links to make these distinctions clear; see if there are more references from the Wikipedia pages with adding to your toolkit. Or you may want to find examples of Common-pool resources and Public goods that would help explain these to someone else
+*It's helpful to have some links to make these distinctions clear; see if there are more references from the Wikipedia pages with adding to your toolkit. Or you may want to find examples of Common-pool resources and Public goods that would help explain these to someone else.*
 
 Once you understand these concepts, you will see that physical commons form around [common-pool resources](https://en.wikipedia.org/wiki/Common-pool_resource) and digital commons form around [public goods](https://en.wikipedia.org/wiki/Public_good). The difference between rivalrous resources and nonrivalrous resources lies at the heart of the difference between physical and digital commons.
 
