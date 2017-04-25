@@ -16,3 +16,4 @@ License details: [https://creativecommons.org/licenses/by/4.0/](https://creative
 
 *Creative Commons Certificates have been created with the kind support of [Creative Commons](http://creativecommons.org/), the [Institute of Museum and Library Services](https://www.imls.gov/), and the [Bill &amp; Melinda Gates Foundation](http://www.gatesfoundation.org/).*
 
+These certificates are part of the commons; if you find broken links or any other errors please [you can help by reporting as an issue](https://github.com/creativecommons/cc-cert-core/issues).
