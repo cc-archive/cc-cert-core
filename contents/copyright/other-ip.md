@@ -1,4 +1,4 @@
-# Copyright vs Other Intellectual Property= 
+# Copyright vs Other Intellectual Property
 
 How does copyright differ from intellectual property (IP) rights of trademark, patents,and trade secrets?
 
