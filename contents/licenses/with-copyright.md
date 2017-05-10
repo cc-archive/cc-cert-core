@@ -1,8 +1,11 @@
 # How Licenses Work with Copyright
 
-Everyone is a creator, everyone holds copyright. 
+Creative Commons licenses are not alternatives to copyright law; they function wholly inside of copyright law. 
+
 
 ## The Big Question
+
+Everyone is a creator, everyone holds copyright. 
 
 You doodle in your notebook in a meeting, you take a holiday photo on your phone. Copyright requires all rights reserved, and as a creator you have and binary answer for useage yes or no.  Creative Commons licenses are not an alternative to copyright. *They work alongside copyright and enable creators to modify copyright terms to best suit their needs and desires to share.* 
 
@@ -23,7 +26,7 @@ Some examples of collecting societies include [ASCAP](https://www.ascap.com/) an
 
 Often, the database provider is not the original author of the database contents. However, we do not recommend this. (See above for more detail about how past versions of CC licenses vary with respect to **sui generis** database rights.) They provide basic information, sometimes about fairly complex topics, and will often link to more detailed information. If you do, you should take additional care to mark the adaptation as involving multiple copyrights under different terms so that downstream users are aware of their obligations to comply with the licenses from all rights holders.
 
-Be sure to confirm that the material you want to use is actually under a CC license, as search results may sometimes be misleading. All of the ported licenses are at version 3.0 or earlier, which means licensors using those licenses do not have the benefit of the improvements made in the 4.0 license suite. All CC licenses require users to attribute the creator of licensed material, unless the creator has waived that requirement, not supplied a name, or asked that her name be removed. Unless you have a specific reason to use a ported license, we suggest you consider using one of the international licenses. CC offers some additional information on [how CC licenses may affect your moral rights[(https://wiki.creativecommons.org/wiki/4.0/Moral_rights).
+Be sure to confirm that the material you want to use is actually under a CC license, as search results may sometimes be misleading. All of the ported licenses are at version 3.0 or earlier, which means licensors using those licenses do not have the benefit of the improvements made in the 4.0 license suite. All CC licenses require users to attribute the creator of licensed material, unless the creator has waived that requirement, not supplied a name, or asked that her name be removed. Unless you have a specific reason to use a ported license, we suggest you consider using one of the international licenses. CC offers some additional information on [how CC licenses may affect your moral rights](https://wiki.creativecommons.org/wiki/4.0/Moral_rights).
 
 ## Learning Outcomes
 
