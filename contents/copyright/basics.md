@@ -88,8 +88,8 @@ Except where otherwise noted, this content is published under a [CC BY license](
 
 Recommended attribution: 
 
-    "Copyright Basics" by Creative Commons is licensed under CC BY 4.0. Available at    
-    https://github.com/creativecommons/cc-cert-core/blob/master/contents/copyright/basics.md
+> "Copyright Basics" by Creative Commons is licensed under CC BY 4.0. Available at    
+> https://github.com/creativecommons/cc-cert-core/blob/master/contents/copyright/basics.md
 
 
 *Creative Commons Certificates have been created as a project of [Creative Commons](http://creativecommons.org/) with the kind support of the [Institute of Museum and Library Services](https://www.imls.gov/) and the [Bill &amp; Melinda Gates Foundation](http://www.gatesfoundation.org/).*
