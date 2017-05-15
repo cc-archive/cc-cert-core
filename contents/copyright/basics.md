@@ -88,7 +88,7 @@ Except where otherwise noted, this content is published under a [CC BY license](
 
 Recommended attribution: 
 
-    "#INSERTION" by Creative Commons is licensed under CC BY 4.0. Available at    
+    "Copyright Basics" by Creative Commons is licensed under CC BY 4.0. Available at    
     https://github.com/creativecommons/cc-cert-core/blob/master/contents/copyright/basics.md
 
 
