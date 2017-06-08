@@ -13,8 +13,10 @@ The Sociocultural module has four units of learning that can help you understand
 * [Shifting to Open](shift-open.md)
 * [Promoting Openness](promoting-open.md)
 * [Community Development for Openness](community-development.md)
+* [Building a Culture of Gratitude and Collaboration](gratitude.md)
+ 
 
-On completion of these four units the [final summit quest](sociocultural-summit-quest.md) combines learning from across all four units into one final assignment for the whole module.
+On completion of these  units the [final summit quest](sociocultural-summit-quest.md) combines learning from across all four units into one final assignment for the whole module.
 
 
 ----

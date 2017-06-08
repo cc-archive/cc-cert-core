@@ -2,18 +2,18 @@
 
 The Creative Commons CORE certificate is made up of a six modules broken down into learning units. These modules and learning units have been organized sequentially in a recommended learning path as follows:
 
+* [The Commons](commons/index.md)
+   * [Significance of the Commons](commons/significance.md)
+   * [Physical and Digital Commons](commons/physical-digital.md)
+   * [The Opportunity of the Commons](commons/opportunity.md)
+   * [The Creative Commons Organization](commons/creative-commons.md)
+
 * [Copyright](copyright/index.md)
   * [Copyright Basics](copyright/basics.md)
   * [Copyright vs Other Intellectual Property](copyright/other-ip.md)
   * [Scope of Public Domain](copyright/public-domain.md)
   * [Exceptions and Limitations of Copyright](copyright/exceptions-limitations.md)
   * [Global Aspects of Copyright](copyright/global.md)
-
-* [The Commons](commons/index.md)
-   * [Significance of the Commons](commons/significance.md)
-   * [Physical and Digital Commons](commons/physical-digital.md)
-   * [The Commons Opportunity](commons/opportunity.md)
-   * [The Creative Commons Organization](commons/creative-commons.md)
 
 * [Creative Commons Licenses](licenses/index.md)
    * [How Licenses Work with Copyright](licenses/with-copyright.md)
@@ -27,6 +27,7 @@ The Creative Commons CORE certificate is made up of a six modules broken down in
    * [Shifting to Open](sociocultural/shift-open.md)
    * [Promoting Openness](sociocultural/promoting-open.md)
    * [Community Development for Openness](sociocultural/community-development.md)
+   * [Building a Culture of Gratitude and Collaboration](sociocultural/gratitude.md)
    
 * [Legal](legal/index.md)
    * [Legal Aspects of Licensing and Attribution](legal/aspects.md)

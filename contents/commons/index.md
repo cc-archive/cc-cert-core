@@ -15,7 +15,7 @@ The Commons module has four units of learning that provide a grounding in the co
 
 * [Significance of the Commons](significance.md) - What is the history of the idea of a Commons and how is it manifested in the world today?
 * [Physical and Digital Commons](physical-digital.md) - Explore the similarities and differences between physical and digital commons.
-* [The Commons Opportunity](opportunity.md) - How can society benefit from a thriving commons?
+* [The Opportunity of the Commons](opportunity.md) - How can society benefit from a thriving commons?
 * [The Creative Commons Organization](creative-commons.md) - Understand Creative Commons role in supporting and stewarding the digital commons.
 
 On completion of these four units the [final summit quest](summit-quest.md) combines learning from across all four units into one final assignment for the whole module.

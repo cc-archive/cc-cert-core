@@ -1,4 +1,4 @@
-# The Commons Opportunity
+# The Opportunity of the Commons
 
 Imagine a world that anticipates the commercialization of all creative works - a world in which a three year old child’s wobbly crayon drawing would be protected to the same degree as Star Wars or Harry Potter.
 
