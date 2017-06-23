@@ -110,7 +110,7 @@ Except where otherwise noted, this content is published under a [CC BY license](
 Recommended attribution: 
 
 > "Creative Commons as an Organization in the Commons" by Creative Commons is licensed under CC BY 4.0. Available at    
-> https://github.com/creativecommons/cc-cert-core/blob/master/contents/commonsw/creative-commons.md
+> https://github.com/creativecommons/cc-cert-core/blob/master/contents/commons/creative-commons.md
 
 
 *Creative Commons Certificates have been created as a project of [Creative Commons](http://creativecommons.org/) with the kind support of the [Institute of Museum and Library Services](https://www.imls.gov/) and the [Bill &amp; Melinda Gates Foundation](http://www.gatesfoundation.org/).*
